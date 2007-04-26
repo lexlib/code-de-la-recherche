@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2006-06-29
+Version Consolidée au 2007-04-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L445-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L145-1)](#2)
@@ -4783,9 +4783,15 @@ _Abrogé par_:
 ###### Article L413-5
 
 La commission mentionnée au premier alinéa de l'article L. 413-3 est tenue informée, pendant la durée de l'autorisation et
-durant cinq ans à compter de son expiration ou de son retrait, des contrats et conventions conclus entre l'entreprise et le
+durant trois ans à compter de son expiration ou de son retrait, des contrats et conventions conclus entre l'entreprise et le
 service public de la recherche. Si elle estime que ces informations font apparaître une atteinte aux intérêts matériels et
 moraux du service public de la recherche, la commission en saisit l'autorité administrative compétente.
+
+**Nota:**
+
+Loi 2007-148 du 2 février 2007 art. 45 III : Les articles 17 à 19 de la présente loi entrent en vigueur à compter de la
+publication du décret mentionné au VII de l'article 87 de la loi 93-122 du 29 janvier 1993, dans sa rédaction issue de la
+présente loi. Il s'agit du décret n° 2007-611 du 26 avril 2007 publié au Journal officiel du 27 avril 2007.
 
 **Liens relatifs à cet article**
 
@@ -4804,9 +4810,17 @@ _Codifié par_:
 
   - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
+_Modifié par_:
+
+  - Loi n°2007-148 du 2 février 2007 - art. 19 () JORF 6 février 2007 en vigueur le 27 avril 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+
 _Cite_:
 
-  - Code de la recherche - art. L413-3 (V)
+  - Code de la recherche - art. L413-3
 
 
 ###### Article L413-6
@@ -4852,9 +4866,15 @@ _Abrogé par_:
 
 L'autorisation est retirée ou non renouvelée si les conditions qui avaient permis sa délivrance ne sont plus réunies ou si le
 fonctionnaire méconnaît les dispositions de la présente section. Dans ce cas, le fonctionnaire ne peut poursuivre son
-activité dans l'entreprise que dans les conditions prévues à l'article 72 de la loi n° 84-16 du 11 janvier 1984 portant
-dispositions statutaires relatives à la fonction publique de l'Etat. S'il ne peut conserver d'intérêts dans l'entreprise, il
-dispose du délai d'un an prévu au b de l'article L. 413-6 pour y renoncer.
+activité dans l'entreprise que dans les conditions prévues à l'article 87 de la loi n° 93-122 du 29 janvier 1993 relative à
+la prévention de la corruption et à la transparence de la vie économique et des procédures publiques. S'il ne peut conserver
+d'intérêts dans l'entreprise, il dispose du délai d'un an prévu au b de l'article L. 413-6 pour y renoncer.
+
+**Nota:**
+
+Loi 2007-148 du 2 février 2007 art. 45 III : Les articles 17 à 19 de la présente loi entrent en vigueur à compter de la
+publication du décret mentionné au VII de l'article 87 de la loi 93-122 du 29 janvier 1993, dans sa rédaction issue de la
+présente loi. Il s'agit du décret n° 2007-611 du 26 avril 2007 publié au Journal officiel du 27 avril 2007.
 
 **Liens relatifs à cet article**
 
@@ -4864,8 +4884,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°84-16 du 11 janvier 1984 - art. 72 (M)
-  - Code de la recherche - art. L413-6 (M)
+  - Loi n°93-122 du 29 janvier 1993
+  - Code de la recherche - art. L413-6
 
 _Cité par_:
 
@@ -4875,7 +4895,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
+
+_Modifié par_:
+
+  - Loi n°2007-148 du 2 février 2007 - art. 19 () JORF 6 février 2007 en vigueur le 27 avril 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
 ##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=77></a>
@@ -4979,10 +5007,16 @@ _Abrogé par_:
 ###### Article L413-10
 
 La commission mentionnée au premier alinéa de l'article L. 413-3 est tenue informée, pendant la durée de l'autorisation
-délivrée en application de l'article L. 413-8 ou de l'article L. 413-9 et durant cinq ans à compter de son expiration ou de
+délivrée en application de l'article L. 413-8 ou de l'article L. 413-9 et durant trois ans à compter de son expiration ou de
 son retrait, des contrats et conventions conclus entre l'entreprise et le service public de la recherche. Si elle estime que
 ces informations font apparaître une atteinte aux intérêts matériels et moraux du service public de la recherche, la
 commission en saisit l'autorité administrative compétente.
+
+**Nota:**
+
+Loi 2007-148 du 2 février 2007 art. 45 III : Les articles 17 à 19 de la présente loi entrent en vigueur à compter de la
+publication du décret mentionné au VII de l'article 87 de la loi 93-122 du 29 janvier 1993, dans sa rédaction issue de la
+présente loi. Il s'agit du décret n° 2007-611 du 26 avril 2007 publié au Journal officiel du 27 avril 2007.
 
 **Liens relatifs à cet article**
 
@@ -4994,15 +5028,23 @@ _Codifié par_:
 
   - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
+_Modifié par_:
+
+  - Loi n°2007-148 du 2 février 2007 - art. 19 () JORF 6 février 2007 en vigueur le 27 avril 2007
+
 _Cité par_:
 
   - Décret n°2012-279 du 28 février 2012 - art. 34 (VD)
 
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+
 _Cite_:
 
-  - Code de la recherche - art. L413-3 (V)
-  - Code de la recherche - art. L413-8 (M)
-  - Code de la recherche - art. L413-9 (M)
+  - Code de la recherche - art. L413-3
+  - Code de la recherche - art. L413-8
+  - Code de la recherche - art. L413-9
 
 
 ###### Article L413-11
@@ -5099,9 +5141,15 @@ _Cite_:
 ###### Article L413-13
 
 La commission mentionnée au premier alinéa de l'article L. 413-3 est tenue informée, pendant la durée de l'autorisation et
-durant cinq ans à compter de son expiration ou de son retrait, des contrats et conventions conclus entre l'entreprise et le
+durant trois ans à compter de son expiration ou de son retrait, des contrats et conventions conclus entre l'entreprise et le
 service public de la recherche. Si elle estime que ces informations font apparaître une atteinte aux intérêts matériels et
 moraux du service public de la recherche, la commission en saisit l'autorité administrative compétente.
+
+**Nota:**
+
+Loi 2007-148 du 2 février 2007 art. 45 III : Les articles 17 à 19 de la présente loi entrent en vigueur à compter de la
+publication du décret mentionné au VII de l'article 87 de la loi 93-122 du 29 janvier 1993, dans sa rédaction issue de la
+présente loi. Il s'agit du décret n° 2007-611 du 26 avril 2007 publié au Journal officiel du 27 avril 2007.
 
 **Liens relatifs à cet article**
 
@@ -5113,9 +5161,17 @@ _Codifié par_:
 
   - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
+_Modifié par_:
+
+  - Loi n°2007-148 du 2 février 2007 - art. 19 () JORF 6 février 2007 en vigueur le 27 avril 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+
 _Cite_:
 
-  - Code de la recherche - art. L413-3 (V)
+  - Code de la recherche - art. L413-3
 
 
 ###### Article L413-14
