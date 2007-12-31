@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2007-04-27
+Version Consolidée au 2008-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L445-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L145-1)](#2)
@@ -19,80 +19,78 @@ Version Consolidée au 2007-04-27
       - [TITRE III : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L131-1 à L132-1)](#16)
         - [Chapitre Ier : Le crédit d'impôt-recherche. (art. L131-1 à L131-2)](#17)
         - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI). (art. L132-1)](#18)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L141-1 à L145-1)](#19)
-        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. L141-1)](#20)
-        - [Chapitre II : Dispositions applicables en Nouvelle-Calédonie. (art. L142-1)](#21)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. L143-1)](#22)
-        - [Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna. (art. L144-1)](#23)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. L145-1)](#24)
-    - [LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE (art. L211-1 à L253-3)](#25)
-      - [TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE (art. L211-1)](#26)
-        - [Chapitre Ier : Le Comité consultatif national d'éthique pour les sciences de la vie et de la santé. (art. L211-1)](#27)
-      - [TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE (art. L221-1 à L224-2)](#28)
-        - [Chapitre Ier : La génétique. (art. L221-1 à L221-3)](#29)
-        - [Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés. (art. L222-1)](#30)
-        - [Chapitre III : Les recherches biomédicales. (art. L223-1 à L223-3)](#31)
-        - [Chapitre IV : Les traitements de données à caractère personnel. (art. L224-1 à L224-2)](#32)
-      - [TITRE III : L'EXPÉRIMENTATION ANIMALE (art. L231-1 à L236-1)](#33)
-        - [Chapitre Ier : Dispositions générales. (art. L231-1 à L231-2)](#34)
-        - [Chapitre VI : Sanctions. (art. L236-1)](#35)
-      - [TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS (art. L241-1 à L241-2)](#36)
-        - [Chapitre unique. (art. L241-1 à L241-2)](#37)
-      - [TITRE V : AUTRES DOMAINES DE RECHERCHE (art. L251-1 à L253-3)](#38)
-        - [Chapitre Ier : La recherche scientifique marine. (art. L251-1)](#39)
-        - [Chapitre II : Les recherches sur la gestion des déchets radioactifs. (art. L252-1)](#40)
-        - [Chapitre III : Utilisation en recherche de certains produits chimiques. (art. L253-1 à L253-3)](#41)
-    - [LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L311-1 à L355-1)](#42)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L311-1 à L312-1)](#43)
-        - [Chapitre Ier : Les établissements publics de recherche. (art. L311-1 à L311-3)](#44)
-        - [Chapitre II : Les établissements publics d'enseignement supérieur et de recherche. (art. L312-1)](#45)
-      - [TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L321-1 à L329-7)](#46)
-        - [Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique. (art. L321-1 à L321-6)](#47)
-        - [Chapitre VIII : L'Académie des technologies. (art. L328-1 à L328-3)](#48)
-        - [Chapitre IX : L'Agence nationale de la recherche. (art. L329-1 à L329-7)](#49)
-      - [TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L331-1 à L335-1)](#50)
-        - [Chapitre Ier : Centre national d'études spatiales (CNES). (art. L331-1 à L331-6)](#51)
-        - [Chapitre II : Commissariat à l'énergie atomique (CEA). (art. L332-1 à L332-7)](#52)
-        - [Chapitre IV : Etablissements de recherche en sciences exactes et technologie (art. L334-1)](#53)
-          - [Section unique : Agence nationale pour la gestion des déchets radioactifs (ANDRA). (art. L334-1)](#54)
-        - [Chapitre V : Etablissements de support et de valorisation de la recherche (art. L335-1)](#55)
-          - [Section unique : Agence de l'environnement et de la maîtrise de l'énergie (ADEME). (art. L335-1)](#56)
-      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L341-1 à L344-11)](#57)
-        - [Chapitre Ier : Les groupements d'intérêt public. (art. L341-1 à L341-4)](#58)
-        - [Chapitre II : Les centres techniques industriels. (art. L342-1 à L342-13)](#59)
-        - [Chapitre III : Dispositions générales. (art. L343-1)](#60)
-        - [Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique (art. L344-12 à L344-11)](#61)
-          - [Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins. (art. L344-1 à L344-3)](#62)
-          - [Section 2 : Les établissements publics de coopération scientifique. (art. L344-4 à L344-10)](#63)
-          - [Section 3 : Les fondations de coopération scientifique. (art. L344-11)](#64)
-      - [TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L351-1 à L355-1)](#65)
-        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. L351-1)](#66)
-        - [Chapitre II : Dispositions applicables en Nouvelle-Calédonie. (art. L352-1)](#67)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. L353-1)](#68)
-        - [Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna. (art. L354-1)](#69)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. L355-1)](#70)
-    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L445-1)](#71)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L413-16)](#72)
-        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-5)](#73)
-        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#74)
-        - [Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L413-1 à L413-16)](#75)
-          - [Section 1 : Participation des personnels de la recherche à la création d'entreprises. (art. L413-1 à L413-7)](#76)
-          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante. (art. L413-8 à L413-11)](#77)
-          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme. (art. L413-12 à L413-14)](#78)
-          - [Section 4 : Dispositions générales. (art. L413-15 à L413-16)](#79)
-      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#80)
-        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#81)
-        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#82)
-      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#83)
-        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-2)](#84)
-        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#85)
-        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#86)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L441-1 à L445-1)](#87)
-        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. L441-1)](#88)
-        - [Chapitre II : Dispositions applicables en Nouvelle-Calédonie. (art. L442-1)](#89)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. L443-1)](#90)
-        - [Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna. (art. L444-1)](#91)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. L445-1)](#92)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L142-1 à L145-1)](#19)
+        - [Chapitre II : Dispositions applicables en Nouvelle-Calédonie. (art. L142-1)](#20)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. L143-1)](#21)
+        - [Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna. (art. L144-1)](#22)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. L145-1)](#23)
+    - [LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE (art. L211-1 à L253-3)](#24)
+      - [TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE (art. L211-1)](#25)
+        - [Chapitre Ier : Le Comité consultatif national d'éthique pour les sciences de la vie et de la santé. (art. L211-1)](#26)
+      - [TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE (art. L221-1 à L224-2)](#27)
+        - [Chapitre Ier : La génétique. (art. L221-1 à L221-3)](#28)
+        - [Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés. (art. L222-1)](#29)
+        - [Chapitre III : Les recherches biomédicales. (art. L223-1 à L223-3)](#30)
+        - [Chapitre IV : Les traitements de données à caractère personnel. (art. L224-1 à L224-2)](#31)
+      - [TITRE III : L'EXPÉRIMENTATION ANIMALE (art. L231-1 à L236-1)](#32)
+        - [Chapitre Ier : Dispositions générales. (art. L231-1 à L231-2)](#33)
+        - [Chapitre VI : Sanctions. (art. L236-1)](#34)
+      - [TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS (art. L241-1 à L241-2)](#35)
+        - [Chapitre unique. (art. L241-1 à L241-2)](#36)
+      - [TITRE V : AUTRES DOMAINES DE RECHERCHE (art. L251-1 à L253-3)](#37)
+        - [Chapitre Ier : La recherche scientifique marine. (art. L251-1)](#38)
+        - [Chapitre II : Les recherches sur la gestion des déchets radioactifs. (art. L252-1)](#39)
+        - [Chapitre III : Utilisation en recherche de certains produits chimiques. (art. L253-1 à L253-3)](#40)
+    - [LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L311-1 à L355-1)](#41)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L311-1 à L312-1)](#42)
+        - [Chapitre Ier : Les établissements publics de recherche. (art. L311-1 à L311-3)](#43)
+        - [Chapitre II : Les établissements publics d'enseignement supérieur et de recherche. (art. L312-1)](#44)
+      - [TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L321-1 à L329-7)](#45)
+        - [Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique. (art. L321-1 à L321-6)](#46)
+        - [Chapitre VIII : L'Académie des technologies. (art. L328-1 à L328-3)](#47)
+        - [Chapitre IX : L'Agence nationale de la recherche. (art. L329-1 à L329-7)](#48)
+      - [TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L331-1 à L335-1)](#49)
+        - [Chapitre Ier : Centre national d'études spatiales (CNES). (art. L331-1 à L331-6)](#50)
+        - [Chapitre II : Commissariat à l'énergie atomique (CEA). (art. L332-1 à L332-7)](#51)
+        - [Chapitre IV : Etablissements de recherche en sciences exactes et technologie (art. L334-1)](#52)
+          - [Section unique : Agence nationale pour la gestion des déchets radioactifs (ANDRA). (art. L334-1)](#53)
+        - [Chapitre V : Etablissements de support et de valorisation de la recherche (art. L335-1)](#54)
+          - [Section unique : Agence de l'environnement et de la maîtrise de l'énergie (ADEME). (art. L335-1)](#55)
+      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L341-1 à L344-11)](#56)
+        - [Chapitre Ier : Les groupements d'intérêt public. (art. L341-1 à L341-4)](#57)
+        - [Chapitre II : Les centres techniques industriels. (art. L342-1 à L342-13)](#58)
+        - [Chapitre III : Dispositions générales. (art. L343-1)](#59)
+        - [Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique (art. L344-12 à L344-11)](#60)
+          - [Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins. (art. L344-1 à L344-3)](#61)
+          - [Section 2 : Les établissements publics de coopération scientifique. (art. L344-4 à L344-10)](#62)
+          - [Section 3 : Les fondations de coopération scientifique. (art. L344-11)](#63)
+      - [TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L351-1 à L355-1)](#64)
+        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. L351-1)](#65)
+        - [Chapitre II : Dispositions applicables en Nouvelle-Calédonie. (art. L352-1)](#66)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. L353-1)](#67)
+        - [Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna. (art. L354-1)](#68)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. L355-1)](#69)
+    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L445-1)](#70)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L413-16)](#71)
+        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-5)](#72)
+        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#73)
+        - [Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L413-1 à L413-16)](#74)
+          - [Section 1 : Participation des personnels de la recherche à la création d'entreprises. (art. L413-1 à L413-7)](#75)
+          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante. (art. L413-8 à L413-11)](#76)
+          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme. (art. L413-12 à L413-14)](#77)
+          - [Section 4 : Dispositions générales. (art. L413-15 à L413-16)](#78)
+      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#79)
+        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#80)
+        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#81)
+      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#82)
+        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-2)](#83)
+        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#84)
+        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#85)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L442-1 à L445-1)](#86)
+        - [Chapitre II : Dispositions applicables en Nouvelle-Calédonie. (art. L442-1)](#87)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. L443-1)](#88)
+        - [Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna. (art. L444-1)](#89)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. L445-1)](#90)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=2></a>
@@ -1276,44 +1274,7 @@ _Cite_:
 
 ### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=19></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=20></a>
-
-###### Article L141-1
-
-Les dispositions des articles L. 113-3, L. 114-1, L. 114-1-1, L. 114-3-1, L. 114-3-3, L. 114-3-4, L. 114-3-5, L. 114-3-6 sont
-applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-653 du 29 juillet 1982 - art. 21 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 5
-
-_Cite_:
-
-  - Code de la recherche - art. L113-3 (V)
-  - Code de la recherche - art. L114-1 (V)
-  - Code de la recherche - art. L114-1-1 (V)
-  - Code de la recherche - art. L114-3-1 (V)
-  - Code de la recherche - art. L114-3-3 (V)
-  - Code de la recherche - art. L114-3-4 (V)
-  - Code de la recherche - art. L114-3-5 (V)
-  - Code de la recherche - art. L114-3-6 (V)
-
-
-#### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.<a id=21></a>
+#### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.<a id=20></a>
 
 ###### Article L142-1
 
@@ -1350,7 +1311,7 @@ _Cite_:
   - Code de la recherche - art. L114-3-6
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=22></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=21></a>
 
 ###### Article L143-1
 
@@ -1387,7 +1348,7 @@ _Cite_:
   - Code de la recherche - art. L114-3-6
 
 
-#### Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.<a id=23></a>
+#### Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.<a id=22></a>
 
 ###### Article L144-1
 
@@ -1424,7 +1385,7 @@ _Cite_:
   - Code de la recherche - art. L114-3-6
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=24></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=23></a>
 
 ###### Article L145-1
 
@@ -1457,11 +1418,11 @@ _Cite_:
   - Code de la recherche - art. L114-3-6 (V)
 
 
-## LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE<a id=25></a>
+## LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE<a id=24></a>
 
-### TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE<a id=26></a>
+### TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE<a id=25></a>
 
-#### Chapitre Ier : Le Comité consultatif national d'éthique pour les sciences de la vie et de la santé.<a id=27></a>
+#### Chapitre Ier : Le Comité consultatif national d'éthique pour les sciences de la vie et de la santé.<a id=26></a>
 
 ###### Article L211-1
 
@@ -1490,9 +1451,9 @@ _Cite_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1412-1 (V)
 
 
-### TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE<a id=28></a>
+### TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE<a id=27></a>
 
-#### Chapitre Ier : La génétique.<a id=29></a>
+#### Chapitre Ier : La génétique.<a id=28></a>
 
 ###### Article L221-1
 
@@ -1548,7 +1509,7 @@ _Cite_:
   - Code de la santé publique - art. L1131-4 (V)
 
 
-#### Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés.<a id=30></a>
+#### Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés.<a id=29></a>
 
 ###### Article L222-1
 
@@ -1604,7 +1565,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1243-2 (V)
 
 
-#### Chapitre III : Les recherches biomédicales.<a id=31></a>
+#### Chapitre III : Les recherches biomédicales.<a id=30></a>
 
 ###### Article L223-1
 
@@ -1691,7 +1652,7 @@ _Cite_:
   - Code pénal - art. 223-8 (VT)
 
 
-#### Chapitre IV : Les traitements de données à caractère personnel.<a id=32></a>
+#### Chapitre IV : Les traitements de données à caractère personnel.<a id=31></a>
 
 ###### Article L224-1
 
@@ -1828,9 +1789,9 @@ _Cite_:
   - Code pénal - art. 226-21
 
 
-### TITRE III : L'EXPÉRIMENTATION ANIMALE<a id=33></a>
+### TITRE III : L'EXPÉRIMENTATION ANIMALE<a id=32></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=34></a>
+#### Chapitre Ier : Dispositions générales.<a id=33></a>
 
 ###### Article L231-1
 
@@ -1866,7 +1827,7 @@ _Cite_:
   - Code de la santé publique - art. L5144-3 (V)
 
 
-#### Chapitre VI : Sanctions.<a id=35></a>
+#### Chapitre VI : Sanctions.<a id=34></a>
 
 ###### Article L236-1
 
@@ -1884,9 +1845,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-### TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS<a id=36></a>
+### TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS<a id=35></a>
 
-#### Chapitre unique.<a id=37></a>
+#### Chapitre unique.<a id=36></a>
 
 ###### Article L241-1
 
@@ -1938,9 +1899,9 @@ _Cite_:
   - Code de l'environnement - art. L125-3 (V)
 
 
-### TITRE V : AUTRES DOMAINES DE RECHERCHE<a id=38></a>
+### TITRE V : AUTRES DOMAINES DE RECHERCHE<a id=37></a>
 
-#### Chapitre Ier : La recherche scientifique marine.<a id=39></a>
+#### Chapitre Ier : La recherche scientifique marine.<a id=38></a>
 
 ###### Article L251-1
 
@@ -1974,7 +1935,7 @@ _Cité par_:
   - Code de la recherche - art. L267-1 (V)
 
 
-#### Chapitre II : Les recherches sur la gestion des déchets radioactifs.<a id=40></a>
+#### Chapitre II : Les recherches sur la gestion des déchets radioactifs.<a id=39></a>
 
 ###### Article L252-1
 
@@ -1988,7 +1949,7 @@ _Codifié par_:
   - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
 
-#### Chapitre III : Utilisation en recherche de certains produits chimiques.<a id=41></a>
+#### Chapitre III : Utilisation en recherche de certains produits chimiques.<a id=40></a>
 
 ###### Article L253-1
 
@@ -2041,11 +2002,11 @@ _Cite_:
   - Code de la défense. - art. L2342-8 (V)
 
 
-## LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=42></a>
+## LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=41></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=43></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=42></a>
 
-#### Chapitre Ier : Les établissements publics de recherche.<a id=44></a>
+#### Chapitre Ier : Les établissements publics de recherche.<a id=43></a>
 
 ###### Article L311-1
 
@@ -2142,7 +2103,7 @@ _Cite_:
   - Code civil - art. 2044 (V)
 
 
-#### Chapitre II : Les établissements publics d'enseignement supérieur et de recherche.<a id=45></a>
+#### Chapitre II : Les établissements publics d'enseignement supérieur et de recherche.<a id=44></a>
 
 ###### Article L312-1
 
@@ -2166,9 +2127,9 @@ _Cité par_:
   - Code de la recherche - art. L367-1 (V)
 
 
-### TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF<a id=46></a>
+### TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF<a id=45></a>
 
-#### Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique.<a id=47></a>
+#### Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique.<a id=46></a>
 
 ###### Article L321-1
 
@@ -2394,7 +2355,7 @@ _Cite_:
   - Code de la recherche - art. L321-5
 
 
-#### Chapitre VIII : L'Académie des technologies.<a id=48></a>
+#### Chapitre VIII : L'Académie des technologies.<a id=47></a>
 
 ###### Article L328-1
 
@@ -2452,7 +2413,7 @@ _Cité par_:
   - n°2006-450 du 18 avril 2006 - art. 20 (V)
 
 
-#### Chapitre IX : L'Agence nationale de la recherche.<a id=49></a>
+#### Chapitre IX : L'Agence nationale de la recherche.<a id=48></a>
 
 ###### Article L329-1
 
@@ -2612,9 +2573,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L611-7 (M)
 
 
-### TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=50></a>
+### TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=49></a>
 
-#### Chapitre Ier : Centre national d'études spatiales (CNES).<a id=51></a>
+#### Chapitre Ier : Centre national d'études spatiales (CNES).<a id=50></a>
 
 ###### Article L331-1
 
@@ -2751,7 +2712,7 @@ _Codifié par_:
   - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
 
-#### Chapitre II : Commissariat à l'énergie atomique (CEA).<a id=52></a>
+#### Chapitre II : Commissariat à l'énergie atomique (CEA).<a id=51></a>
 
 ###### Article L332-1
 
@@ -2925,9 +2886,9 @@ _Cite_:
   - Code de la recherche L332-1 à L332-6
 
 
-#### Chapitre IV : Etablissements de recherche en sciences exactes et technologie<a id=53></a>
+#### Chapitre IV : Etablissements de recherche en sciences exactes et technologie<a id=52></a>
 
-##### Section unique : Agence nationale pour la gestion des déchets radioactifs (ANDRA).<a id=54></a>
+##### Section unique : Agence nationale pour la gestion des déchets radioactifs (ANDRA).<a id=53></a>
 
 ###### Article L334-1
 
@@ -2996,9 +2957,9 @@ _Abrogé par_:
   - PILOTE_SUIVEUR: Code de l'environnement - art. L542-12
 
 
-#### Chapitre V : Etablissements de support et de valorisation de la recherche<a id=55></a>
+#### Chapitre V : Etablissements de support et de valorisation de la recherche<a id=54></a>
 
-##### Section unique : Agence de l'environnement et de la maîtrise de l'énergie (ADEME).<a id=56></a>
+##### Section unique : Agence de l'environnement et de la maîtrise de l'énergie (ADEME).<a id=55></a>
 
 ###### Article L335-1
 
@@ -3079,9 +3040,9 @@ _Abrogé par_:
   - PILOTE_SUIVEUR: Code de l'environnement - art. L131-7
 
 
-### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=57></a>
+### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=56></a>
 
-#### Chapitre Ier : Les groupements d'intérêt public.<a id=58></a>
+#### Chapitre Ier : Les groupements d'intérêt public.<a id=57></a>
 
 ###### Article L341-1
 
@@ -3225,7 +3186,7 @@ _Cite_:
   - Code des juridictions financières - art. L133-2
 
 
-#### Chapitre II : Les centres techniques industriels.<a id=59></a>
+#### Chapitre II : Les centres techniques industriels.<a id=58></a>
 
 ###### Article L342-1
 
@@ -3552,7 +3513,7 @@ _Cite_:
   - Code de la recherche - art. L342-1
 
 
-#### Chapitre III : Dispositions générales.<a id=60></a>
+#### Chapitre III : Dispositions générales.<a id=59></a>
 
 ###### Article L343-1
 
@@ -3593,7 +3554,7 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-#### Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique<a id=61></a>
+#### Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique<a id=60></a>
 
 ###### Article L344-12
 
@@ -3709,7 +3670,7 @@ _Créé par_:
   - DEPLACE: Loi n°2013-660 du 22 juillet 2013 - art. 66
 
 
-##### Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins.<a id=62></a>
+##### Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins.<a id=61></a>
 
 ###### Article L344-1
 
@@ -3862,7 +3823,7 @@ _Cite_:
   - Code de la santé publique - art. L1121-1
 
 
-##### Section 2 : Les établissements publics de coopération scientifique.<a id=63></a>
+##### Section 2 : Les établissements publics de coopération scientifique.<a id=62></a>
 
 ###### Article L344-4
 
@@ -4122,7 +4083,7 @@ _Cite_:
   - Code de l'éducation - art. L719-9
 
 
-##### Section 3 : Les fondations de coopération scientifique.<a id=64></a>
+##### Section 3 : Les fondations de coopération scientifique.<a id=63></a>
 
 ###### Article L344-11
 
@@ -4158,36 +4119,44 @@ _Cité par_:
   - Code de la santé publique - art. R5124-34 (V)
 
 
-### TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=65></a>
+### TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=64></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=66></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=65></a>
 
 ###### Article L351-1
 
-Les dispositions des articles L. 341-1 à L. 341-4 sont applicables à Mayotte.
+1° Pour l'application du présent livre à Mayotte, le ministre chargé de l'enseignement supérieur et de la recherche exerce
+les compétences dévolues au recteur d'académie. 
+
+2° Pour l'application de l'article L. 342-11, la référence à l'article 1039 du code général des impôts est remplacée par la
+référence aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°82-610 1982-07-15 art. 21
   - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
 _Cité par_:
 
   - Loi n°2005-781 du 13 juillet 2005 - art. 25 (VT)
   - Code de l'énergie - art. L211-3 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 5
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
 _Cite_:
 
-  - Code de la recherche L341-1 à L341-4
+  - Code général des impôts, CGI. - art. 1039
+  - Code de la recherche - art. L342-11
 
 
-#### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.<a id=67></a>
+#### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.<a id=66></a>
 
 ###### Article L352-1
 
@@ -4219,7 +4188,7 @@ _Cite_:
   - Code de la recherche - art. L341-1
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=68></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=67></a>
 
 ###### Article L353-1
 
@@ -4251,7 +4220,7 @@ _Cite_:
   - Code de la recherche - art. L341-1
 
 
-#### Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.<a id=69></a>
+#### Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.<a id=68></a>
 
 ###### Article L354-1
 
@@ -4277,7 +4246,7 @@ _Cite_:
   - Code de la recherche
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=70></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=69></a>
 
 ###### Article L355-1
 
@@ -4309,11 +4278,11 @@ _Cite_:
   - Code de la recherche - art. L341-1
 
 
-## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=71></a>
+## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=70></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=72></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=71></a>
 
-#### Chapitre Ier : Missions et garanties fondamentales.<a id=73></a>
+#### Chapitre Ier : Missions et garanties fondamentales.<a id=72></a>
 
 ###### Article L411-1
 
@@ -4503,7 +4472,7 @@ _Cite_:
   - Code du travail maritime - art. 30
 
 
-#### Chapitre II : La formation.<a id=74></a>
+#### Chapitre II : La formation.<a id=73></a>
 
 ###### Article L412-1
 
@@ -4604,9 +4573,9 @@ _Modifié par_:
   - loi n°2006-450 du 18 avril 2006 - art. 6 () JORF 19 avril 2006
 
 
-#### Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=75></a>
+#### Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=74></a>
 
-##### Section 1 : Participation des personnels de la recherche à la création d'entreprises.<a id=76></a>
+##### Section 1 : Participation des personnels de la recherche à la création d'entreprises.<a id=75></a>
 
 ###### Article L413-1
 
@@ -4906,7 +4875,7 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=77></a>
+##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=76></a>
 
 ###### Article L413-8
 
@@ -5087,7 +5056,7 @@ _Cite_:
   - Code de la recherche - art. L413-7
 
 
-##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme.<a id=78></a>
+##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme.<a id=77></a>
 
 ###### Article L413-12
 
@@ -5213,7 +5182,7 @@ _Cite_:
   - Code de la recherche - art. L413-7
 
 
-##### Section 4 : Dispositions générales.<a id=79></a>
+##### Section 4 : Dispositions générales.<a id=78></a>
 
 ###### Article L413-15
 
@@ -5254,9 +5223,9 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=80></a>
+### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=79></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=81></a>
+#### Chapitre Ier : Dispositions générales.<a id=80></a>
 
 ###### Article L421-1
 
@@ -5379,7 +5348,7 @@ _Cité par_:
   - Code de la recherche - art. L411-4 (V)
 
 
-#### Chapitre II : Chercheurs.<a id=82></a>
+#### Chapitre II : Chercheurs.<a id=81></a>
 
 ###### Article L422-1
 
@@ -5434,9 +5403,9 @@ _Cité par_:
   - Code de la recherche - art. L447-1 (V)
 
 
-### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=83></a>
+### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=82></a>
 
-#### Chapitre Ier : Les personnels contractuels.<a id=84></a>
+#### Chapitre Ier : Les personnels contractuels.<a id=83></a>
 
 ###### Article L431-1
 
@@ -5519,7 +5488,7 @@ _Cité par_:
   - Code de la recherche - art. L447-1 (V)
 
 
-#### Chapitre II : Les chercheurs et enseignants associés.<a id=85></a>
+#### Chapitre II : Les chercheurs et enseignants associés.<a id=84></a>
 
 ###### Article L432-1
 
@@ -5591,7 +5560,7 @@ _Cite_:
   - Code de l'éducation - art. L952-1 (V)
 
 
-#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=86></a>
+#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=85></a>
 
 ###### Article L433-1
 
@@ -5619,40 +5588,9 @@ _Cite_:
   - Code du travail - art. L931-28 (M)
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=87></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=86></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=88></a>
-
-###### Article L441-1
-
-Les dispositions des articles L. 411-3, L. 413-1 à L. 413-16, L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L.
-432-1, L. 432-2 et L. 433-1 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 5
-
-_Cite_:
-
-  - Code de la recherche - art. L411-3 (V)
-  - Code de la recherche - art. L413-1 (V)
-  - Code de la recherche - art. L421-1 (V)
-  - Code de la recherche - art. L422-1 (V)
-  - Code de la recherche - art. L422-2 (V)
-  - Code de la recherche - art. L431-1 (V)
-  - Code de la recherche - art. L431-2 (V)
-  - Code de la recherche - art. L432-1 (V)
-  - Code de la recherche - art. L432-2 (V)
-  - Code de la recherche - art. L433-1 (V)
-
-
-#### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.<a id=89></a>
+#### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.<a id=87></a>
 
 ###### Article L442-1
 
@@ -5682,7 +5620,7 @@ _Cite_:
   - Code de la recherche - art. L433-1
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=90></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=88></a>
 
 ###### Article L443-1
 
@@ -5712,7 +5650,7 @@ _Cite_:
   - Code de la recherche - art. L433-1
 
 
-#### Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.<a id=91></a>
+#### Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.<a id=89></a>
 
 ###### Article L444-1
 
@@ -5742,7 +5680,7 @@ _Cite_:
   - Code de la recherche - art. L433-1
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=92></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=90></a>
 
 ###### Article L445-1
 
