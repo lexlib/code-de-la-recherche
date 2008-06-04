@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-06-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L445-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L145-1)](#2)
@@ -50,7 +50,7 @@ Version Consolidée au 2008-01-01
         - [Chapitre VIII : L'Académie des technologies. (art. L328-1 à L328-3)](#47)
         - [Chapitre IX : L'Agence nationale de la recherche. (art. L329-1 à L329-7)](#48)
       - [TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L331-1 à L335-1)](#49)
-        - [Chapitre Ier : Centre national d'études spatiales (CNES). (art. L331-1 à L331-6)](#50)
+        - [Chapitre Ier : Centre national d'études spatiales (CNES). (art. L331-1 à L331-8)](#50)
         - [Chapitre II : Commissariat à l'énergie atomique (CEA). (art. L332-1 à L332-7)](#51)
         - [Chapitre IV : Etablissements de recherche en sciences exactes et technologie (art. L334-1)](#52)
           - [Section unique : Agence nationale pour la gestion des déchets radioactifs (ANDRA). (art. L334-1)](#53)
@@ -2621,7 +2621,14 @@ d) De suivre, en liaison avec le ministère des affaires étrangères, les probl
 domaine de l'espace et de veiller à l'exécution de la part des programmes internationaux confiée à la France ;
 
 e) D'assurer soit directement, soit par des souscriptions ou l'octroi de subventions la publication de travaux scientifiques
-concernant les problèmes de l'espace.
+concernant les problèmes de l'espace ;
+
+f) D'assister l'Etat dans la définition de la réglementation technique relative aux opérations spatiales ; 
+
+g) D'exercer, par délégation du ministre chargé de l'espace, le contrôle de la conformité des systèmes et des procédures mis
+en œuvre par les opérateurs spatiaux avec la réglementation technique mentionnée au f ; 
+
+h) De tenir, pour le compte de l'Etat, le registre d'immatriculation des objets spatiaux.
 
 **Liens relatifs à cet article**
 
@@ -2629,13 +2636,13 @@ _Anciens textes_:
 
   - Loi n°61-1382 du 19 décembre 1961 - art. 2 (V)
 
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
 _Cité par_:
 
   - Loi n°2008-518 du 3 juin 2008 - art. 27 (V)
+
+_Modifié par_:
+
+  - Loi n°2008-518 du 3 juin 2008 - art. 28
 
 
 ###### Article L331-3
@@ -2691,7 +2698,21 @@ _Codifié par_:
 
 ###### Article L331-6
 
-Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent chapitre.
+I. - Le président du Centre national d'études spatiales exerce, au nom de l'Etat, la police spéciale de l'exploitation des
+installations du Centre spatial guyanais dans un périmètre délimité par l'autorité administrative compétente.A ce titre, il
+est chargé d'une mission générale de sauvegarde consistant à maîtriser les risques techniques liés à la préparation et à la
+réalisation des lancements à partir du Centre spatial guyanais afin d'assurer la protection des personnes, des biens, de la
+santé publique et de l'environnement, au sol et en vol, et il arrête à cette fin les règlements particuliers applicables dans
+les limites du périmètre mentionné ci-dessus. 
+
+II. - Le président du Centre national d'études spatiales coordonne, sous l'autorité du représentant de l'Etat dans le
+département, la mise en œuvre, par les entreprises et autres organismes installés dans le périmètre défini au I, des mesures
+visant à assurer la sûreté des installations et des activités qui y sont menées, et s'assure du respect, par ces entreprises
+et organismes, des obligations qui leur incombent à ce titre. 
+
+III. - Dans la mesure strictement nécessaire à l'accomplissement des missions prévues aux I et II, les agents que le
+président du Centre national d'études spatiales habilite ont accès aux terrains et locaux à usage exclusivement professionnel
+et occupés par les entreprises et organismes installés au Centre spatial guyanais dans le périmètre défini au I.
 
 **Liens relatifs à cet article**
 
@@ -2708,9 +2729,51 @@ _Cité par_:
   - Décret n°84-510 du 28 juin 1984 - art. 14-8 (V)
   - Code de la recherche - art. L331-8 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Loi n°2008-518 du 3 juin 2008 - art. 21
+
+
+###### Article L331-7
+
+Le président du Centre national d'études spatiales peut, par délégation de l'autorité administrative mentionnée à l'article 8
+de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales et pour toute opération spatiale, prendre les mesures
+nécessaires prévues au même article pour garantir la sécurité des personnes et des biens ainsi que la protection de la santé
+publique et de l'environnement.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°84-510 du 28 juin 1984 - art. 14-17 (V)
+
+_Cite_:
+
+  - Loi n°2008-518 du 3 juin 2008 - art. 8 (V)
+
+_Créé par_:
+
+  - Loi n°2008-518 du 3 juin 2008 - art. 21
+
+
+###### Article L331-8
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre, notamment les conditions dans lesquelles
+le président du Centre national d'études spatiales peut déléguer sa compétence mentionnée à l'article L. 331-6.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°84-510 du 28 juin 1984 - art. 14-16 (V)
+
+_Créé par_:
+
+  - Loi n°2008-518 du 3 juin 2008 - art. 21
+
+_Cite_:
+
+  - Code de la recherche - art. L331-6
 
 
 #### Chapitre II : Commissariat à l'énergie atomique (CEA).<a id=51></a>
