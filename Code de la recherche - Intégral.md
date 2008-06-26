@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2008-06-05
+Version Consolidée au 2008-06-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L445-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L145-1)](#2)
@@ -812,6 +812,10 @@ autorités compétentes, à l'évaluation d'organismes étrangers ou internation
 
 Des documents élaborés par les structures privées sur l'utilisation des aides publiques à la recherche lui sont communiqués.
 
+A ce titre, l'agence veille à ce que les procédures d'évaluation mises en œuvre prennent en compte les activités d'expertise
+conduites par ces personnels dans le cadre de commissions à caractère consultatif placées auprès d'une autorité de l'Etat,
+quelles que soient leurs dénominations, ou dans le cadre des activités d'une autorité administrative indépendante.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -849,13 +853,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R831-6 (V)
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 9 () JORF 19 avril 2006
+  - Loi n°2008-595 du 25 juin 2008 - art. 16
 
 
 ###### Article L114-3-2
