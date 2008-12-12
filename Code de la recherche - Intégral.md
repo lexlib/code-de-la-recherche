@@ -1,8 +1,8 @@
 # Code de la recherche  
-Version Consolidée au 2008-06-27
+Version Consolidée au 2008-12-13
 ## Contenu: 
-  - [Partie législative (art. L111-1 à L445-1)](#1)
-    - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L145-1)](#2)
+  - [Partie législative (art. L111-1 à L447-1)](#1)
+    - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
       - [TITRE Ier : ORIENTATION DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L114-6)](#3)
         - [Chapitre Ier : Politiques de la recherche et du développement technologique (art. L111-1 à L111-9)](#4)
           - [Section 1 : La politique nationale. (art. L111-1 à L111-7-1)](#5)
@@ -13,84 +13,93 @@ Version Consolidée au 2008-06-27
           - [Section 1 : Objectifs de l'évaluation (art. L114-1 à L114-3)](#10)
           - [Section 2 : L'Agence d'évaluation de la recherche et de l'enseignement supérieur. (art. L114-3-1 à L114-3-7)](#11)
           - [Section 3 : Dispositions diverses relatives à l'évaluation et au contrôle (art. L114-4 à L114-6)](#12)
-      - [TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L120-1 à L125-1)](#13)
-        - [Chapitre préliminaire : Le Haut Conseil de la science et de la technologie. (art. L120-1)](#14)
-        - [Chapitre V : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER). (art. L125-1)](#15)
-      - [TITRE III : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L131-1 à L132-1)](#16)
-        - [Chapitre Ier : Le crédit d'impôt-recherche. (art. L131-1 à L131-2)](#17)
-        - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI). (art. L132-1)](#18)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L142-1 à L145-1)](#19)
-        - [Chapitre II : Dispositions applicables en Nouvelle-Calédonie. (art. L142-1)](#20)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. L143-1)](#21)
-        - [Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna. (art. L144-1)](#22)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. L145-1)](#23)
-    - [LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE (art. L211-1 à L253-3)](#24)
-      - [TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE (art. L211-1)](#25)
-        - [Chapitre Ier : Le Comité consultatif national d'éthique pour les sciences de la vie et de la santé. (art. L211-1)](#26)
-      - [TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE (art. L221-1 à L224-2)](#27)
-        - [Chapitre Ier : La génétique. (art. L221-1 à L221-3)](#28)
-        - [Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés. (art. L222-1)](#29)
-        - [Chapitre III : Les recherches biomédicales. (art. L223-1 à L223-3)](#30)
-        - [Chapitre IV : Les traitements de données à caractère personnel. (art. L224-1 à L224-2)](#31)
+      - [TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L123-1)](#13)
+        - [Chapitre III : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER). (art. L123-1)](#14)
+      - [TITRE III : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L131-1 à L133-1)](#15)
+        - [Chapitre Ier : Le crédit d'impôt-recherche. (art. L131-1 à L131-2)](#16)
+        - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI). (art. L132-1)](#17)
+        - [Chapitre III : L'aide à l'innovation. (art. L133-1)](#18)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L145-1 à L147-1)](#19)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L145-1)](#20)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L146-1)](#21)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L147-1)](#22)
+    - [LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE (art. L211-1 à L267-1)](#23)
+      - [TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE (art. L211-1)](#24)
+        - [Chapitre unique (art. L211-1)](#25)
+      - [TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE (art. L221-1 à L225-2)](#26)
+        - [Chapitre Ier : La génétique. (art. L221-1 à L221-3)](#27)
+        - [Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés. (art. L222-1)](#28)
+        - [Chapitre III : Les recherches biomédicales. (art. L223-1 à L223-3)](#29)
+        - [Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires. (art. L224-1)](#30)
+        - [Chapitre V : Les traitements de données à caractère personnel. (art. L225-1 à L225-2)](#31)
       - [TITRE III : L'EXPÉRIMENTATION ANIMALE (art. L231-1 à L236-1)](#32)
         - [Chapitre Ier : Dispositions générales. (art. L231-1 à L231-2)](#33)
         - [Chapitre VI : Sanctions. (art. L236-1)](#34)
-      - [TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS (art. L241-1 à L241-2)](#35)
-        - [Chapitre unique. (art. L241-1 à L241-2)](#36)
-      - [TITRE V : AUTRES DOMAINES DE RECHERCHE (art. L251-1 à L253-3)](#37)
+      - [TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS (art. L241-1 à L241-3)](#35)
+        - [Chapitre unique. (art. L241-1 à L241-3)](#36)
+      - [TITRE V : AUTRES DOMAINES DE RECHERCHE (art. L251-1 à L254-1)](#37)
         - [Chapitre Ier : La recherche scientifique marine. (art. L251-1)](#38)
         - [Chapitre II : Les recherches sur la gestion des déchets radioactifs. (art. L252-1)](#39)
         - [Chapitre III : Utilisation en recherche de certains produits chimiques. (art. L253-1 à L253-3)](#40)
-    - [LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L311-1 à L355-1)](#41)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L311-1 à L312-1)](#42)
-        - [Chapitre Ier : Les établissements publics de recherche. (art. L311-1 à L311-3)](#43)
-        - [Chapitre II : Les établissements publics d'enseignement supérieur et de recherche. (art. L312-1)](#44)
-      - [TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L321-1 à L329-7)](#45)
-        - [Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique. (art. L321-1 à L321-6)](#46)
-        - [Chapitre VIII : L'Académie des technologies. (art. L328-1 à L328-3)](#47)
-        - [Chapitre IX : L'Agence nationale de la recherche. (art. L329-1 à L329-7)](#48)
-      - [TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L331-1 à L335-1)](#49)
-        - [Chapitre Ier : Centre national d'études spatiales (CNES). (art. L331-1 à L331-8)](#50)
-        - [Chapitre II : Commissariat à l'énergie atomique (CEA). (art. L332-1 à L332-7)](#51)
-        - [Chapitre IV : Etablissements de recherche en sciences exactes et technologie (art. L334-1)](#52)
-          - [Section unique : Agence nationale pour la gestion des déchets radioactifs (ANDRA). (art. L334-1)](#53)
-        - [Chapitre V : Etablissements de support et de valorisation de la recherche (art. L335-1)](#54)
-          - [Section unique : Agence de l'environnement et de la maîtrise de l'énergie (ADEME). (art. L335-1)](#55)
-      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L341-1 à L344-11)](#56)
-        - [Chapitre Ier : Les groupements d'intérêt public. (art. L341-1 à L341-4)](#57)
-        - [Chapitre II : Les centres techniques industriels. (art. L342-1 à L342-13)](#58)
-        - [Chapitre III : Dispositions générales. (art. L343-1)](#59)
-        - [Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique (art. L344-12 à L344-11)](#60)
-          - [Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins. (art. L344-1 à L344-3)](#61)
-          - [Section 2 : Les établissements publics de coopération scientifique. (art. L344-4 à L344-10)](#62)
-          - [Section 3 : Les fondations de coopération scientifique. (art. L344-11)](#63)
-      - [TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L351-1 à L355-1)](#64)
-        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. L351-1)](#65)
-        - [Chapitre II : Dispositions applicables en Nouvelle-Calédonie. (art. L352-1)](#66)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. L353-1)](#67)
-        - [Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna. (art. L354-1)](#68)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. L355-1)](#69)
-    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L445-1)](#70)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L413-16)](#71)
-        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-5)](#72)
-        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#73)
-        - [Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L413-1 à L413-16)](#74)
-          - [Section 1 : Participation des personnels de la recherche à la création d'entreprises. (art. L413-1 à L413-7)](#75)
-          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante. (art. L413-8 à L413-11)](#76)
-          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme. (art. L413-12 à L413-14)](#77)
-          - [Section 4 : Dispositions générales. (art. L413-15 à L413-16)](#78)
-      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#79)
-        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#80)
-        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#81)
-      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#82)
-        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-2)](#83)
-        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#84)
-        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#85)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L442-1 à L445-1)](#86)
-        - [Chapitre II : Dispositions applicables en Nouvelle-Calédonie. (art. L442-1)](#87)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. L443-1)](#88)
-        - [Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna. (art. L444-1)](#89)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. L445-1)](#90)
+        - [Chapitre IV : La recherche en archéologie. (art. L254-1)](#41)
+      - [TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER. (art. L265-1 à L267-1)](#42)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L265-1)](#43)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L266-1)](#44)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L267-1)](#45)
+    - [LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L311-1 à L368-1)](#46)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L311-1 à L313-2)](#47)
+        - [Chapitre Ier : Les établissements publics de recherche. (art. L311-1 à L311-3)](#48)
+        - [Chapitre II : Les établissements publics d'enseignement supérieur et de recherche. (art. L312-1)](#49)
+        - [Chapitre III : La valorisation des résultats de la recherche. (art. L313-1 à L313-2)](#50)
+      - [TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L321-1 à L329-7)](#51)
+        - [Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique. (art. L321-1 à L321-4)](#52)
+        - [Chapitre VIII : Autres établissements à caractère administratif. (art. L328-1 à L328-3)](#53)
+          - [Section unique (art. L328-1 à L328-3)](#54)
+        - [Chapitre IX : L'Agence nationale de la recherche. (art. L329-1 à L329-7)](#55)
+      - [TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art.  à L332-9)](#56)
+        - [Chapitre Ier : Centre national d'études spatiales (CNES). (art.  à L329-7)](#57)
+        - [Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique. (art. L331-1 à L331-8)](#58)
+        - [Chapitre II : Etablissements de recherche dans le domaine de l'énergie. (art. L332-1 à L332-9)](#59)
+          - [Section 1 : Commissariat à l'énergie atomique (CEA). (art. L332-1 à L332-7)](#60)
+          - [Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA). (art. L332-8)](#61)
+          - [Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME). (art. L332-9)](#62)
+      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L341-1 à L344-11)](#63)
+        - [Chapitre Ier : Les groupements d'intérêt public. (art. L341-1 à L341-4)](#64)
+        - [Chapitre II : Les centres techniques industriels. (art. L342-1 à L342-13)](#65)
+        - [Chapitre III : Dispositions générales. (art. L343-1)](#66)
+        - [Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique (art. L344-12 à L344-11)](#67)
+          - [Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins. (art. L344-1 à L344-3)](#68)
+          - [Section 2 : Les établissements publics de coopération scientifique. (art. L344-4 à L344-10)](#69)
+          - [Section 3 : Les fondations de coopération scientifique. (art. L344-11)](#70)
+      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L361-1 à L368-1)](#71)
+        - [Chapitre Ier : Dispositions relatives à Mayotte. (art. L361-1)](#72)
+        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#73)
+        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#74)
+        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#75)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#76)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#77)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#78)
+        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#79)
+    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#80)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L413-16)](#81)
+        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#82)
+        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#83)
+        - [Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L413-1 à L413-16)](#84)
+          - [Section 1 : Participation des personnels de la recherche à la création d'entreprises. (art. L413-1 à L413-7)](#85)
+          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante. (art. L413-8 à L413-11)](#86)
+          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme. (art. L413-12 à L413-14)](#87)
+          - [Section 4 : Dispositions générales. (art. L413-15 à L413-16)](#88)
+      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#89)
+        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#90)
+        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#91)
+      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#92)
+        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-3)](#93)
+        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#94)
+        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#95)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#96)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#97)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#98)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#99)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=2></a>
@@ -1135,83 +1144,31 @@ _Créé par_:
 
 ### TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=13></a>
 
-#### Chapitre préliminaire : Le Haut Conseil de la science et de la technologie.<a id=14></a>
+#### Chapitre III : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER).<a id=14></a>
 
-###### Article L120-1
-
-Il est créé un Haut Conseil de la science et de la technologie placé auprès du Président de la République.
-
-Le Haut Conseil de la science et de la technologie est chargé d'éclairer le Président de la République et le Gouvernement sur
-toutes les questions relatives aux grandes orientations de la Nation en matière de politique de recherche scientifique, de
-transfert de technologie et d'innovation. Il veille à assurer la cohérence de ses recommandations avec les actions menées
-dans l'espace européen de la recherche.
-
-Le haut conseil publie chaque année un rapport faisant état de ses travaux et de ses recommandations, dans le respect des
-dispositions de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
-l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.
-
-Le Haut Conseil de la science et de la technologie peut se saisir des questions sur lesquelles il juge urgent d'appeler
-l'attention des pouvoirs publics.
-
-Un décret en Conseil d'État précise les missions, l'organisation et le fonctionnement du Haut Conseil de la science et de la
-technologie.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-753 du 17 juillet 1978
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 3 () JORF 19 avril 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
-
-_Cité par_:
-
-  - Décret n°2013-943 du 21 octobre 2013 (V)
-  - Décret n°2013-943 du 21 octobre 2013 - art. 1 (VD)
-  - Code de la recherche - art. L145-1 (V)
-  - Code de la recherche - art. L146-1 (V)
-  - Code de la recherche - art. L147-1 (V)
-
-
-#### Chapitre V : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER).<a id=15></a>
-
-###### Article L125-1
+###### Article L123-1
 
 Le rôle consultatif du Conseil national de l'enseignement supérieur et de la recherche est fixé par les dispositions de
 l'article L. 232-1 du code de l'éducation.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la recherche - art. L123-1 (V)
+  - Code de la recherche - art. L125-1 (T)
 
 _Cite_:
 
-  - Code de l'éducation - art. L232-1 (V)
+  - Code de l'éducation - art. L232-1
 
 
-### TITRE III : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=16></a>
+### TITRE III : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=15></a>
 
-#### Chapitre Ier : Le crédit d'impôt-recherche.<a id=17></a>
+#### Chapitre Ier : Le crédit d'impôt-recherche.<a id=16></a>
 
 ###### Article L131-1
 
@@ -1256,7 +1213,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L45 B
 
 
-#### Chapitre II : Les fonds communs de placement dans l'innovation (FCPI).<a id=18></a>
+#### Chapitre II : Les fonds communs de placement dans l'innovation (FCPI).<a id=17></a>
 
 ###### Article L132-1
 
@@ -1274,225 +1231,176 @@ _Cite_:
   - Code monétaire et financier - art. L214-41 (M)
 
 
+#### Chapitre III : L'aide à l'innovation.<a id=18></a>
+
+###### Article L133-1
+
+L'article 44 sexies-0 A du code général des impôts prévoit les conditions dans lesquelles une entreprise, dont l'activité
+principale consiste à valoriser des travaux de recherche réalisés par ses dirigeants ou associés au sein d'un établissement
+d'enseignement supérieur habilité à délivrer un diplôme conférant au moins le grade de master, peut être qualifiée de jeune
+entreprise innovante et bénéficier, à ce titre, d'allègements de charges en matière fiscale et sociale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 44 sexies-0 A
+
+
 ### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=19></a>
 
-#### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.<a id=20></a>
-
-###### Article L142-1
-
-Les dispositions des articles L. 113-3, L. 114-1, L. 114-1-1, L. 114-3-1, L. 114-3-3, L. 114-3-4, L. 114-3-5, L. 114-3-6 sont
-applicables en Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-653 du 29 juillet 1982 - art. 21 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
-
-_Cite_:
-
-  - Code de la recherche - art. L113-3
-  - Code de la recherche - art. L114-1
-  - Code de la recherche - art. L114-1-1
-  - Code de la recherche - art. L114-3-1
-  - Code de la recherche - art. L114-3-3
-  - Code de la recherche - art. L114-3-4
-  - Code de la recherche - art. L114-3-5
-  - Code de la recherche - art. L114-3-6
-
-
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=21></a>
-
-###### Article L143-1
-
-Les dispositions des articles L. 113-3, L. 114-1, L. 114-1-1, L. 114-3-1, L. 114-3-3, L. 114-3-4, L. 114-3-5, L. 114-3-6 sont
-applicables en Polynésie française.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-653 du 29 juillet 1982 - art. 21 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
-
-_Cite_:
-
-  - Code de la recherche - art. L113-3
-  - Code de la recherche - art. L114-1
-  - Code de la recherche - art. L114-1-1
-  - Code de la recherche - art. L114-3-1
-  - Code de la recherche - art. L114-3-3
-  - Code de la recherche - art. L114-3-4
-  - Code de la recherche - art. L114-3-5
-  - Code de la recherche - art. L114-3-6
-
-
-#### Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.<a id=22></a>
-
-###### Article L144-1
-
-Les dispositions des articles L. 113-3, L. 114-1, L. 114-1-1, L. 114-3-1, L. 114-3-3, L. 114-3-4, L. 114-3-5, L. 114-3-6 sont
-applicables dans les îles Wallis et Futuna.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-653 du 29 juillet 1982 - art. 21 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
-
-_Cite_:
-
-  - Code de la recherche - art. L113-3
-  - Code de la recherche - art. L114-1
-  - Code de la recherche - art. L114-1-1
-  - Code de la recherche - art. L114-3-1
-  - Code de la recherche - art. L114-3-3
-  - Code de la recherche - art. L114-3-4
-  - Code de la recherche - art. L114-3-5
-  - Code de la recherche - art. L114-3-6
-
-
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=23></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=20></a>
 
 ###### Article L145-1
 
-Les dispositions des articles L. 113-3, L. 114-1, L. 114-1-1, L. 114-3-1, L. 114-3-3, L. 114-3-4, L. 114-3-5, L. 114-3-6 sont
-applicables dans les Terres australes et antarctiques françaises.
+Les dispositions des articles L. 111-1, L. 111-2, L. 111-4 à L. 111-6, L. 112-1, L. 112-2, L. 113-3 à L. 114-3-7 et L. 114-5
+sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°82-653 du 29 juillet 1982 - art. 21 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
 _Modifié par_:
 
-  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
 
 _Cite_:
 
-  - Code de la recherche - art. L113-3 (V)
-  - Code de la recherche - art. L114-1 (M)
-  - Code de la recherche - art. L114-1-1 (V)
-  - Code de la recherche - art. L114-3-1 (V)
-  - Code de la recherche - art. L114-3-3 (V)
-  - Code de la recherche - art. L114-3-4 (V)
-  - Code de la recherche - art. L114-3-5 (V)
-  - Code de la recherche - art. L114-3-6 (V)
+  - Code de la recherche - art. L111-1
+  - Code de la recherche - art. L111-2
+  - Code de la recherche - art. L111-4
+  - Code de la recherche - art. L112-1
+  - Code de la recherche - art. L112-2
+  - Code de la recherche - art. L113-3
+  - Code de la recherche - art. L114-5
 
 
-## LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE<a id=24></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=21></a>
 
-### TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE<a id=25></a>
+###### Article L146-1
 
-#### Chapitre Ier : Le Comité consultatif national d'éthique pour les sciences de la vie et de la santé.<a id=26></a>
+Les dispositions des articles L. 111-1, L. 111-2, L. 111-4, L. 113-3, L. 114-1 à L. 114-3-4, L. 114-3-6 et L. 114-3-7, et L.
+114-5 sont applicables en Polynésie française. 
+
+Sous réserve des compétences de la collectivité mentionnées au chapitre Ier du titre III de la loi organique n° 2004-192 du
+27 février 2004 portant statut d'autonomie de la Polynésie française, les articles L. 111-5, L. 111-6, L. 112-1, L. 112-2 et
+L. 114-3-5 y sont également applicables.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi organique n°2004-192 du 27 février 2004
+  - Code de la recherche - art. L111-1
+  - Code de la recherche - art. L111-4
+  - Code de la recherche - art. L111-5
+  - Code de la recherche - art. L111-6
+  - Code de la recherche - art. L112-1
+  - Code de la recherche - art. L112-2
+  - Code de la recherche - art. L113-3
+  - Code de la recherche - art. L114-1
+  - Code de la recherche - art. L114-3-5
+  - Code de la recherche - art. L114-3-6
+  - Code de la recherche - art. L114-3-7
+  - Code de la recherche - art. L114-5
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
+
+
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=22></a>
+
+###### Article L147-1
+
+Les dispositions des articles L. 111-1, L. 111-2, L. 111-4 à L. 111-6, L. 112-1, L. 112-2, L. 113-3 à L. 114-3-7 et L. 114-5
+sont applicables en Nouvelle-Calédonie, sous réserve des dispositions de l'article 38 de la loi organique n° 99-209 du 19 mai
+1999 relative à la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°99-209 du 19 mars 1999 - art. 38
+  - Code de la recherche - art. L111-1
+  - Code de la recherche - art. L111-2
+  - Code de la recherche - art. L111-4
+  - Code de la recherche - art. L112-1
+  - Code de la recherche - art. L112-2
+  - Code de la recherche - art. L113-3
+  - Code de la recherche - art. L114-5
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
+
+
+## LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE<a id=23></a>
+
+### TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE<a id=24></a>
+
+#### Chapitre unique<a id=25></a>
 
 ###### Article L211-1
 
 Les dispositions relatives au Comité consultatif national d'éthique pour les sciences de la vie et de la santé sont fixées
-par le chapitre II du titre Ier du livre IV de la 1re partie du code de la santé publique, ci-après reproduit : 
-
-" Art.L. 1412-1.-Le Comité consultatif national d'éthique pour les sciences de la vie et de la santé a pour mission de donner
-des avis sur les problèmes éthiques soulevés par les progrès de la connaissance dans les domaines de la biologie, de la
-médecine et de la santé et de publier des recommandations sur ces sujets. 
-
-" Art.L. 1412-2.-Un décret en Conseil d'Etat précise la composition et les modalités de saisine, d'organisation et de
-fonctionnement de ce comité. "
+par le chapitre II du titre Ier du livre IV de la première partie du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Cite_:
-
-  - Code de la santé publique - art. L1412-1 (M)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L1412-1 (V)
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 
-### TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE<a id=27></a>
+### TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE<a id=26></a>
 
-#### Chapitre Ier : La génétique.<a id=28></a>
+#### Chapitre Ier : La génétique.<a id=27></a>
 
 ###### Article L221-1
 
 L'examen des caractéristiques génétiques d'une personne ou son identification par empreintes génétiques à des fins de
-recherche sont effectués dans les conditions fixées par les dispositions des articles L. 1131-1 et L. 1131-3 du code de la
-santé publique.
+recherche sont effectués dans les conditions fixées par les dispositions des articles 16-10 à 16-13 du code civil et des
+articles L. 1131-1 et L. 1131-4 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 _Cite_:
 
-  - Code de la santé publique - art. L1131-1 (M)
-  - Code de la santé publique - art. L1131-3 (M)
+  - Code civil - art. 16-10
+  - Code de la santé publique - art. L1131-1
+  - Code de la santé publique - art. L1131-4
 
 
 ###### Article L221-2
 
 Les manquements aux obligations relatives à l'examen des caractéristiques génétiques d'une personne ou son identification par
 empreintes génétiques à des fins de recherche sont sanctionnés dans les conditions prévues par les dispositions des articles
-226-26, 226-28, 226-29 et 226-30 du code pénal.
+226-26, 226-27, 226-28, 226-29 et 226-30 du code pénal.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 _Cite_:
 
-  - Code pénal - art. 226-26 (M)
-  - Code pénal - art. 226-28 (M)
-  - Code pénal - art. 226-29 (M)
-  - Code pénal - art. 226-30 (M)
+  - Code pénal - art. 226-26
+  - Code pénal - art. 226-27
+  - Code pénal - art. 226-28
+  - Code pénal - art. 226-29
+  - Code pénal - art. 226-30
 
 
 ###### Article L221-3
@@ -1511,131 +1419,69 @@ _Cite_:
   - Code de la santé publique - art. L1131-4 (V)
 
 
-#### Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés.<a id=29></a>
+#### Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés.<a id=28></a>
 
 ###### Article L222-1
 
-L'utilisation de tissus et de cellules issus du corps humain à des fins scientifiques est régie par les dispositions des
-articles L. 1243-2, L. 1243-3 et du 4e alinéa de l'article L. 1245-4 du code de la santé publique, ci-après reproduites : 
+L'utilisation d'éléments et produits du corps humain à des fins scientifiques est régie par les dispositions des articles
+suivants du code de la santé publique : 
 
-" Art.L. 1243-2.-Un organisme public ou privé peut, à des fins scientifiques, pour les besoins de ses propres programmes de
-recherche, assurer la conservation et la transformation de tissus et de cellules issus du corps humain, sous réserve d'en
-avoir fait la déclaration préalable auprès du ministre chargé de la recherche. 
+1° S'agissant du sang, les articles L. 1221-4, L. 1221-8-1 et le deuxième alinéa de l'article L. 1221-12 ; 
 
-" Celui-ci peut s'opposer dans un délai de trois mois à l'exercice des activités ainsi déclarées si les conditions
-d'approvisionnement, de conservation et d'utilisation des tissus et cellules issus du corps humain ne présentent pas les
-garanties suffisantes pour assurer le respect des dispositions du titre Ier du présent livre et des règles applicables en
-matière de sécurité des travailleurs et de protection de l'environnement. 
+2° S'agissant des organes, les articles L. 1232-1 à L. 1232-3, le troisième alinéa de l'article L. 1235-1 et l'article L.
+1235-2 ; 
 
-" Le ministre chargé de la recherche peut à tout moment suspendre ou interdire les activités qui ne répondent pas à ces
-exigences. 
-
-" L'Agence française de sécurité sanitaire des produits de santé est informée des activités de conservation ou de
-transformation à des fins scientifiques de tissus et cellules du corps humain réalisées sur le même site que des activités de
-même nature exercées à des fins thérapeutiques. Dans ce cas, la suspension ou l'interdiction de l'exercice des activités
-déclarées est de droit quand elle est demandée par l'Agence française de sécurité sanitaire des produits de santé pour des
-raisons de sécurité sanitaire. 
-
-" Les organismes mentionnés au premier alinéa ne peuvent céder les tissus et cellules du corps humain qu'ils conservent ou
-transforment qu'à un autre établissement ou organisme qui a lui-même déclaré des activités similaires. 
-
-" La déclaration effectuée en application de l'article L. 1131-4 se substitue pour les collections d'échantillons biologiques
-humains à la déclaration prévue au premier alinéa. 
-
-" Art.L. 1243-3.-Par dérogation aux dispositions de l'article L. 1243-2, tout organisme assurant la conservation et la
-transformation de tissus et cellules du corps humain, en vue principale de leur cession, pour un usage scientifique à un
-organisme public ou privé qui développe des programmes de recherche, doit être titulaire d'une autorisation spécifique
-délivrée par le ministre chargé de la recherche. 
-
-" Art.L. 1245-4, quatrième alinéa.-Seuls peuvent importer ou exporter des tissus et cellules à des fins scientifiques les
-organismes autorisés par le ministre chargé de la recherche. "
+3° S'agissant des tissus et cellules, les articles L. 1241-5, L. 1243-3, L. 1243-4, L. 1245-2 et le huitième alinéa de
+l'article L. 1245-5.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Cite_:
-
-  - Code de la santé publique - art. L1243-2 (M)
-  - Code de la santé publique - art. L1243-3 (M)
-  - Code de la santé publique - art. L1245-4 (M)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L1243-2 (V)
-
-
-#### Chapitre III : Les recherches biomédicales.<a id=30></a>
-
-###### Article L223-1
-
-Les recherches biomédicales sont définies par les dispositions de l'article L. 1121-1 du code de la santé publique, ci-après
-reproduites : 
-
-" Art.L. 1121-1.-Les recherches organisées et pratiquées sur l'être humain en vue du développement des connaissances
-biologiques ou médicales sont autorisées dans les conditions prévues au présent livre et sont désignées ci-après par les
-termes : " recherche biomédicale ". 
-
-" Les dispositions du présent titre ne s'appliquent pas : 
-
-" 1° Aux recherches dans lesquelles tous les actes sont pratiqués et les produits utilisés de manière habituelle, sans aucune
-procédure supplémentaire ou inhabituelle de diagnostic ou de surveillance ; 
-
-" 2° Aux recherches visant à évaluer les soins courants, autres que celles portant sur les médicaments lorsque tous les actes
-sont pratiqués et les produits utilisés de manière habituelle mais que des modalités particulières de surveillance sont
-prévues par un protocole, obligatoirement soumis à l'avis du comité mentionné à l'article L. 1123-1. Ce protocole précise
-également les modifications d'information des personnes concernées. Les recherches ne peuvent être mises en oeuvre qu'après
-avis favorable, rendu dans un délai fixé par voie réglementaire, de l'un des comités de protection des personnes compétent
-pour le lieu où sont mises en oeuvre les recherches. La demande auprès du comité est faite par la personne physique ou morale
-qui prend l'initiative de ces recherches, en assure la gestion et vérifie que son financement est prévu. Lorsque les
-recherches portent sur des produits mentionnés à l'article L. 5311-1 à l'exception des médicaments, et figurant sur une liste
-fixée par arrêté du ministre chargé de la santé ; pris sur proposition du directeur général de l'Agence française de sécurité
-sanitaire des produits de santé, le comité de protection des personnes s'assure auprès de l'Agence française de sécurité
-sanitaire des produits de santé que les conditions d'utilisation dans les recherches de ces produits sont conformes à leur
-destination et à leurs conditions d'utilisation courante.L'avis défavorable du comité mentionne, le cas échéant, que les
-recherches ne relèvent pas du présent 2°. Après le commencement des recherches, toute modification substantielle de celles-ci
-doit obtenir préalablement à leur mise en oeuvre un nouvel avis favorable du comité. 
-
-" La personne physique ou la personne morale qui prend l'initiative d'une recherche biomédicale sur l'être humain, qui en
-assure la gestion et qui vérifie que son financement est prévu, est dénommé le promoteur. Celui-ci ou son représentant légal
-doit être établi dans la communauté européenne. Lorsque plusieurs personnes prennent l'initiative d'une même recherche
-biomédicale, elles désignent une personne physique ou morale qui aura la qualité de promoteur et assumera les obligations
-correspondantes en application du présent livre. 
-
-" La ou les personnes physiques qui dirigent et surveillent la réalisation de la recherche sur un lieu sont dénommées
-investigateurs. 
-
-" Lorsque le promoteur d'une recherche biomédicale confie sa réalisation à plusieurs investigateurs, sur un même lieu ou sur
-plusieurs lieux en France, le promoteur désigne parmi les investigateurs un coordonnateur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
 _Modifié par_:
 
-  - loi n°2006-450 du 18 avril 2006 - art. 31 () JORF 19 avril 2006
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 _Cite_:
 
-  - Code de la recherche L1123-1, L5311-1
+  - Code de la santé publique - art. L1221-12
+  - Code de la santé publique - art. L1221-4
+  - Code de la santé publique - art. L1221-8-1
+  - Code de la santé publique - art. L1232-1
+  - Code de la santé publique - art. L1235-1
+  - Code de la santé publique - art. L1235-2
+  - Code de la santé publique - art. L1241-5
+  - Code de la santé publique - art. L1243-3
+  - Code de la santé publique - art. L1243-4
+  - Code de la santé publique - art. L1245-2
+  - Code de la santé publique - art. L1245-5
+
+
+#### Chapitre III : Les recherches biomédicales.<a id=29></a>
+
+###### Article L223-1
+
+Les recherches biomédicales sont définies par les dispositions de l'article L. 1121-1 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+
+_Cite_:
+
+  - Code de la santé publique - art. L1121-1
 
 
 ###### Article L223-2
 
-Les principes et procédures de mise en oeuvre de recherches biomédicales ainsi que les missions des comités consultatifs de
-protection des personnes dans la recherche biomédicale sont fixés par les dispositions du titre II du livre Ier de la
-première partie du code de la santé publique.
+Les principes et procédures de mise en œuvre de recherches biomédicales ainsi que les missions des comités de protection des
+personnes sont fixés par les dispositions du titre II du livre Ier de la première partie du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 
 ###### Article L223-3
@@ -1654,141 +1500,85 @@ _Cite_:
   - Code pénal - art. 223-8 (VT)
 
 
-#### Chapitre IV : Les traitements de données à caractère personnel.<a id=31></a>
+#### Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires.<a id=30></a>
 
 ###### Article L224-1
 
-Les traitements de données à caractère personnel ayant pour fin la recherche dans le domaine de la santé sont régis par les
-dispositions des articles 40-1 à 40-10 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés, ci-après reproduites :
-
-" Art. 40-1. - Les traitements automatisés de données nominatives ayant pour fin la recherche dans le domaine de la santé
-sont soumis aux dispositions de la présente loi, à l'exception des articles 15, 16, 17, 26 et 27.
-
-" Les traitements de données ayant pour fin le suivi thérapeutique ou médical individuel des patients ne sont pas soumis aux
-dispositions du présent chapitre. Il en va de même des traitements permettant d'effectuer des études à partir des données
-ainsi recueillies si ces études sont réalisées par les personnels assurant ce suivi et destinées à leur usage exclusif.
-
-" Art. 40-2. - Pour chaque demande de mise en oeuvre d'un traitement de données, un comité consultatif sur le traitement de
-l'information en matière de recherche dans le domaine de la santé, institué auprès du ministre chargé de la recherche et
-composé de personnes compétentes en matière de recherche dans le domaine de la santé, d'épidémiologie, de génétique et de
-biostatistique, émet un avis sur la méthodologie de la recherche au regard des dispositions de la présente loi, la nécessité
-du recours à des données nominatives et la pertinence de celles-ci par rapport à l'objectif de la recherche, préalablement à
-la saisine de la Commission nationale de l'informatique et des libertés.
-
-" Le comité consultatif dispose d'un mois pour transmettre son avis au demandeur. A défaut, l'avis est réputé favorable. En
-cas d'urgence, ce délai peut être ramené à quinze jours.
-
-" Le président du comité consultatif peut mettre en oeuvre une procédure simplifiée.
-
-" La mise en oeuvre du traitement de données est ensuite soumise à l'autorisation de la Commission nationale de
-l'informatique et des libertés, qui dispose, à compter de sa saisine par le demandeur, d'un délai de deux mois, renouvelable
-une seule fois, pour se prononcer. A défaut de décision dans ce délai, le traitement de données est autorisé.
-
-" Art. 40-3. - Nonobstant les règles relatives au secret professionnel, les membres des professions de santé peuvent
-transmettre les données nominatives qu'ils détiennent dans le cadre d'un traitement automatisé de données autorisé en
-application de l'article 40-1.
-
-" Lorsque ces données permettent l'identification des personnes, elles doivent être codées avant leur transmission.
-Toutefois, il peut être dérogé à cette obligation lorsque le traitement de données est associé à des études de
-pharmacovigilance ou à des protocoles de recherche réalisés dans le cadre d'études coopératives nationales ou
-internationales ; il peut également y être dérogé si une particularité de la recherche l'exige. La demande d'autorisation
-comporte la justification scientifique et technique de la dérogation et l'indication de la période nécessaire à la recherche.
-A l'issue de cette période, les données sont conservées et traitées dans les conditions fixées à l'article 28.
-
-" La présentation des résultats du traitement de données ne peut en aucun cas permettre l'identification directe ou indirecte
-des personnes concernées.
-
-" Les données sont reçues par le responsable de la recherche désigné à cet effet par la personne physique ou morale autorisée
-à mettre en oeuvre le traitement. Ce responsable veille à la sécurité des informations et de leur traitement, ainsi qu'au
-respect de la finalité de celui-ci.
-
-" Les personnes appelées à mettre en oeuvre le traitement de données ainsi que celles qui ont accès aux données sur
-lesquelles il porte sont astreintes au secret professionnel sous les peines prévues à l'article 226-13 du code pénal.
-
-" Art. 40-4. - Toute personne a le droit de s'opposer à ce que des données nominatives la concernant fassent l'objet d'un
-traitement visé à l'article 40-1.
-
-" Dans le cas où la recherche nécessite le recueil de prélèvements biologiques identifiants, le consentement éclairé et
-exprès des personnes concernées doit être obtenu préalablement à la mise en oeuvre du traitement de données.
-
-" Les informations concernant les personnes décédées, y compris celles qui figurent sur les certificats des causes de décès,
-peuvent faire l'objet d'un traitement de données, sauf si l'intéressé a, de son vivant, exprimé son refus par écrit.
-
-" Art. 40-5. - Les personnes auprès desquelles sont recueillies des données nominatives ou à propos desquelles de telles
-données sont transmises sont, avant le début du traitement de ces données, individuellement informées :
-
-" 1° De la nature des informations transmises ;
-
-" 2° De la finalité du traitement de données ;
-
-" 3° Des personnes physiques ou morales destinataires des données ;
-
-" 4° Du droit d'accès et de rectification institué au chapitre V ;
-
-" 5° Du droit d'opposition institué aux premier et troisième alinéas de l'article 40-4 ou, dans le cas prévu au deuxième
-alinéa de cet article, de l'obligation de recueillir leur consentement.
-
-" Toutefois, ces informations peuvent ne pas être délivrées si, pour des raisons légitimes que le médecin traitant apprécie
-en conscience, le malade est laissé dans l'ignorance d'un diagnostic ou d'un pronostic grave.
-
-" Dans le cas où les données ont été initialement recueillies pour un autre objet que le traitement, il peut être dérogé à
-l'obligation d'information individuelle lorsque celle-ci se heurte à la difficulté de retrouver les personnes concernées. Les
-dérogations à l'obligation d'informer les personnes de l'utilisation de données les concernant à des fins de recherche sont
-mentionnées dans le dossier de demande d'autorisation transmis à la Commission nationale de l'informatique et des libertés,
-qui statue sur ce point.
-
-" Art. 40-6. - Sont destinataires de l'information et exercent les droits prévus aux articles 40-4 et 40-5 les titulaires de
-l'autorité parentale, pour les mineurs, ou le tuteur, pour les personnes faisant l'objet d'une mesure de protection légale.
-
-" Art. 40-7. - Une information relative aux dispositions du présent chapitre doit être assurée dans tout établissement ou
-centre où s'exercent des activités de prévention, de diagnostic et de soins donnant lieu à la transmission de données
-nominatives en vue d'un traitement visé à l'article 40-1.
-
-" Art. 40-8. - La mise en oeuvre d'un traitement automatisé de données en violation des conditions prévues par le présent
-chapitre entraîne le retrait temporaire ou définitif, par la Commission nationale de l'informatique et des libertés, de
-l'autorisation délivrée en application des dispositions de l'article 40-2.
-
-" Il en est de même en cas de refus de se soumettre au contrôle prévu par le 2° de l'article 21.
-
-" Art. 40-9. - La transmission hors du territoire français de données nominatives non codées faisant l'objet d'un traitement
-automatisé ayant pour fin la recherche dans le domaine de la santé n'est autorisée, dans les conditions prévues à l'article
-40-2, que si la législation de l'Etat destinataire apporte une protection équivalente à la loi française.
-
-" Art. 40-10. - Un décret en Conseil d'Etat précise les modalités d'application du présent chapitre. "
+Les principes, conditions et procédures de mise en œuvre des recherches sur l'embryon et les cellules souches embryonnaires
+humaines sont fixés par les dispositions des articles L. 2151-2, L. 2151-5 à L. 2151-7 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°78-17 1978-01-06 art. 40-1 à 40-10
-  - Code pénal - art. 226-13 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-
-###### Article L224-2
-
-Les manquements aux obligations relatives à la mise en oeuvre de traitements de données à caractère personnel ayant pour fin
-la recherche dans le domaine de la santé sont sanctionnés dans les conditions prévues par les dispositions des articles
-226-18 et 226-21 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Abrogé par_:
+_Modifié par_:
 
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 _Cite_:
 
-  - Code pénal - art. 226-18
-  - Code pénal - art. 226-21
+  - Code de la santé publique - art. L2151-2
+  - Code de la santé publique - art. L2151-5
+
+
+#### Chapitre V : Les traitements de données à caractère personnel.<a id=31></a>
+
+###### Article L225-1
+
+Les traitements de données à caractère personnel ayant pour fin la recherche dans le domaine de la santé sont régis par les
+dispositions du chapitre IX de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés,
+notamment par son article 54 ci-après reproduit : 
+
+Art. 54.-Pour chaque demande de mise en œuvre d'un traitement de données à caractère personnel, un comité consultatif sur le
+traitement de l'information en matière de recherche dans le domaine de la santé, institué auprès du ministre chargé de la
+recherche et composé de personnes compétentes en matière de recherche dans le domaine de la santé, d'épidémiologie, de
+génétique et de biostatistique, émet un avis sur la méthodologie de la recherche au regard des dispositions de la présente
+loi, la nécessité du recours à des données à caractère personnel et la pertinence de celles-ci par rapport à l'objectif de la
+recherche, préalablement à la saisine de la Commission nationale de l'informatique et des libertés. 
+
+Le comité consultatif dispose d'un mois pour transmettre son avis au demandeur.A défaut, l'avis est réputé favorable. En cas
+d'urgence, ce délai peut être ramené à quinze jours. 
+
+Le président du comité consultatif peut mettre en œuvre une procédure simplifiée. 
+
+La mise en œuvre du traitement de données est ensuite soumise à l'autorisation de la Commission nationale de l'informatique
+et des libertés, qui se prononce dans les conditions prévues à l'article 25. 
+
+Pour les catégories les plus usuelles de traitements automatisés ayant pour finalité la recherche dans le domaine de la santé
+et portant sur des données ne permettant pas une identification directe des personnes concernées, la commission peut
+homologuer et publier des méthodologies de référence, établies en concertation avec le comité consultatif ainsi qu'avec les
+organismes publics et privés représentatifs, et destinées à simplifier la procédure prévue aux quatre premiers alinéas du
+présent article. 
+
+Ces méthodologies précisent, eu égard aux caractéristiques mentionnées à l'article 30, les normes auxquelles doivent
+correspondre les traitements pouvant faire l'objet d'une demande d'avis et d'une demande d'autorisation simplifiées. 
+
+Pour les traitements répondant à ces normes, seul un engagement de conformité à l'une d'entre elles est envoyé à la
+commission. Le président de la commission peut autoriser ces traitements à l'issue d'une procédure simplifiée d'examen. 
+
+Pour les autres catégories de traitements, le comité consultatif fixe, en concertation avec la Commission nationale de
+l'informatique et des libertés, les conditions dans lesquelles son avis n'est pas requis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+
+
+###### Article L225-2
+
+Les manquements aux obligations relatives à la mise en œuvre de traitements de données à caractère personnel ayant pour fin
+la recherche dans le domaine de la santé sont sanctionnés dans les conditions prévues par les dispositions de la section 5 du
+chapitre VI du titre II du livre II du code pénal, notamment par son article 226-19-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+
+_Cite_:
+
+  - Code pénal - art. 226-19-1
 
 
 ### TITRE III : L'EXPÉRIMENTATION ANIMALE<a id=32></a>
@@ -1853,52 +1643,52 @@ _Cite_:
 
 ###### Article L241-1
 
-Les missions de la Commission de génie génétique sont fixées par les dispositions de l'article L. 531-3 du code de
-l'environnement ci-après reproduites :
+La recherche publique développe les recherches consacrées à la génomique végétale, à la toxicologie, à l'épidémiologie et à
+l'entomologie, soutient le développement des techniques permettant de détecter les organismes génétiquement modifiés et leur
+traçabilité dans les produits, d'étudier leur toxicité à long terme et d'intensifier les recherches sur la précision de
+l'insertion du transgène et l'interaction entre l'insertion du gène et l'expression du génome. Elle encourage les
+coopérations scientifiques avec les pays du Sud, soutient des réseaux épidémiologiques performants et participe au
+développement d'un réseau européen d'allergologie. 
 
-" Art. L. 531-3. - La Commission de génie génétique est chargée d'évaluer les risques que présentent les organismes
-génétiquement modifiés et les procédés utilisés pour leur obtention ainsi que les dangers potentiels liés à l'utilisation de
-techniques de génie génétique.
-
-" Elle propose les mesures de confinement souhaitables pour prévenir les risques liés à l'utilisation de ces organismes,
-procédés et techniques. Elle peut déléguer un ou plusieurs de ses membres pour visiter les installations dans le cadre de
-l'instruction des demandes d'agrément.
-
-" La Commission de génie génétique est composée de personnalités désignées en raison de leur compétence scientifique dans des
-domaines se rapportant au génie génétique et à la protection de la santé publique et de l'environnement ainsi que d'un membre
-de l'Office parlementaire d'évaluation des choix scientifiques et technologiques. Les scientifiques compétents en matière de
-protection de l'environnement et de la santé publique représentent au moins le tiers de la commission.
-
-" Elle fait appel à d'autres experts en tant que de besoin.
-
-" La commission établit un rapport annuel, qui est transmis par le Gouvernement aux deux assemblées. Les membres de la
-commission peuvent joindre une contribution personnelle au rapport annuel. "
+Les pouvoirs publics favorisent la mobilité des chercheurs qui s'engagent dans cette expertise scientifique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 _Cite_:
 
-  - Code de l'environnement - art. L531-3 (V)
+  - Code de l'environnement - art. L531-3
 
 
 ###### Article L241-2
 
-L'utilisation confinée et la dissémination volontaire d'organismes génétiquement modifiés sont régies par les dispositions du
-titre III du livre V du code de l'environnement et de l'article L. 125-3 du même code.
+Les missions du Haut Conseil des biotechnologies sont fixées par les dispositions de l'article L. 531-3 du code de
+l'environnement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 _Cite_:
 
-  - Code de l'environnement - art. L125-3 (V)
+  - Code de l'environnement - art. L531-3
+
+
+###### Article L241-3
+
+L'utilisation confinée et la dissémination volontaire d'organismes génétiquement modifiés sont régies par les dispositions du
+titre III du livre V du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 
 ### TITRE V : AUTRES DOMAINES DE RECHERCHE<a id=37></a>
@@ -2004,11 +1794,87 @@ _Cite_:
   - Code de la défense. - art. L2342-8 (V)
 
 
-## LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=41></a>
+#### Chapitre IV : La recherche en archéologie.<a id=41></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=42></a>
+###### Article L254-1
 
-#### Chapitre Ier : Les établissements publics de recherche.<a id=43></a>
+Les conditions de réalisation de la recherche en archéologie, en ce qui concerne les opérations d'archéologie préventive et
+les fouilles programmées, sont régies par les dispositions des titres II et III du livre V du code du patrimoine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+
+
+### TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER.<a id=42></a>
+
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=43></a>
+
+###### Article L265-1
+
+Les dispositions de l'article L. 251-1 sont applicables dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+
+_Cite_:
+
+  - Code de la recherche - art. L251-1
+
+
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=44></a>
+
+###### Article L266-1
+
+Sous réserve des dispositions des articles 26 et 37 de la loi organique n° 2004-192 du 27 février 2004 portant statut
+d'autonomie de la Polynésie française, les dispositions de l'article L. 251-1 sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi organique n°2004-192 du 27 février 2004 - art. 26
+  - Loi organique n°2004-192 du 27 février 2004 - art. 37
+  - Code de la recherche - art. L251-1
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+
+_Cité par_:
+
+  - Code de la recherche - art. L146-1 (V)
+
+
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=45></a>
+
+###### Article L267-1
+
+Sous réserve des dispositions du 10° de l'article 22 de la loi organique n° 99-209 du 19 mai 1999 relative à la Nouvelle-
+Calédonie, les dispositions de l'article L. 251-1 sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°99-209 du 19 mars 1999 - art. 22
+  - Code de la recherche - art. L251-1 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+
+
+## LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=46></a>
+
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=47></a>
+
+#### Chapitre Ier : Les établissements publics de recherche.<a id=48></a>
 
 ###### Article L311-1
 
@@ -2105,7 +1971,7 @@ _Cite_:
   - Code civil - art. 2044 (V)
 
 
-#### Chapitre II : Les établissements publics d'enseignement supérieur et de recherche.<a id=44></a>
+#### Chapitre II : Les établissements publics d'enseignement supérieur et de recherche.<a id=49></a>
 
 ###### Article L312-1
 
@@ -2129,9 +1995,98 @@ _Cité par_:
   - Code de la recherche - art. L367-1 (V)
 
 
-### TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF<a id=45></a>
+#### Chapitre III : La valorisation des résultats de la recherche.<a id=50></a>
 
-#### Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique.<a id=46></a>
+###### Article L313-1
+
+Dans le cadre des objectifs définis à l'article L. 112-1, les établissements publics à caractère scientifique et
+technologique, les pôles de recherche et d'enseignement supérieur ainsi que les réseaux thématiques de recherche avancée
+peuvent assurer par convention des prestations de service, gérer des contrats de recherche, exploiter des brevets et licences
+et commercialiser les produits de leurs activités. 
+
+En vue de la valorisation des résultats de la recherche dans leurs domaines d'activité, ils peuvent, par convention et pour
+une durée limitée, avec information de l'instance scientifique compétente, fournir à des entreprises ou à des personnes
+physiques des moyens de fonctionnement, notamment en mettant à leur disposition des locaux, des équipements et des matériels.
+Un décret fixe les conditions d'application du présent alinéa. 
+
+Les activités mentionnées au présent article peuvent être gérées par des services d'activités industrielles et commerciales,
+dont le régime financier et comptable est défini par décret. Pour le fonctionnement de ces services et la réalisation de ces
+activités, les établissements, les pôles de recherche et d'enseignement supérieur ainsi que les réseaux thématiques de
+recherche avancée peuvent recruter, dans des conditions définies, en tant que de besoin, par décret en Conseil d'Etat, des
+agents non titulaires par des contrats de droit public à durée déterminée ou indéterminée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
+_Cite_:
+
+  - Code de la recherche - art. L112-1
+
+_Cité par_:
+
+  - Code de la recherche - art. L114-5 (V)
+  - Code de la recherche - art. L313-2 (Ab)
+  - Code de la recherche - art. L365-1 (V)
+  - Code de la recherche - art. L366-1 (V)
+  - Code de la recherche - art. L367-1 (V)
+  - Code général des impôts, CGI. - art. 1464 H (M)
+
+_Anciens textes_:
+
+  - Code de la recherche - art. L321-5 (T)
+
+
+###### Article L313-2
+
+Les établissements publics à caractère scientifique et technologique ainsi que, le cas échéant, les pôles de recherche et
+d'enseignement supérieur et les réseaux thématiques de recherche avancée peuvent également confier par convention les
+activités mentionnées à l'article L. 313-1 à des entités de droit privé. Ces conventions sont approuvées par leur autorité de
+tutelle. 
+
+Il est tenu compte notamment :
+
+- de la capacité financière et des moyens de gestion de l'entité ;
+
+- de l'adéquation de l'action de l'entité avec la politique de l'établissement public ou, le cas échéant, du pôle de
+recherche et d'enseignement supérieur ou du réseau thématique de recherche avancée ;
+
+- de l'équilibre des droits et obligations entre l'entité et l'établissement public ou, le cas échéant, le pôle de recherche
+et d'enseignement supérieur et le réseau thématique de recherche avancée. 
+
+La convention mentionnée au premier alinéa peut prévoir l'attribution ou la mise à disposition de moyens matériels et
+financiers par l'une à l'autre des parties.
+
+L'Office parlementaire d'évaluation des choix scientifiques et technologiques établit un rapport d'évaluation relatif aux
+initiatives conduites en application du présent article au plus tard le 31 décembre 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
+_Cité par_:
+
+  - Décret n°2014-1518 du 16 décembre 2014 - art. 8
+  - Code de la propriété intellectuelle - art. R611-13 (Ab)
+  - Code de la propriété intellectuelle - art. R811-1-1 (V)
+  - Code général des impôts, CGI. - art. 244 quater B (M)
+
+_Cite_:
+
+  - Code de la recherche - art. L313-1
+
+_Anciens textes_:
+
+  - Code de la recherche - art. L321-6 (T)
+
+
+### TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF<a id=51></a>
+
+#### Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique.<a id=52></a>
 
 ###### Article L321-1
 
@@ -2252,112 +2207,9 @@ _Cité par_:
   - Code de la recherche - art. L114-5 (V)
 
 
-###### Article L321-5
+#### Chapitre VIII : Autres établissements à caractère administratif.<a id=53></a>
 
-Dans le cadre des objectifs définis à l'article L. 112-1, les établissements publics à caractère scientifique et
-technologique, les pôles de recherche et d'enseignement supérieur ainsi que les réseaux thématiques de recherche avancée
-peuvent assurer par convention des prestations de service, gérer des contrats de recherche, exploiter des brevets et licences
-et commercialiser les produits de leurs activités. 
-
-En vue de la valorisation des résultats de la recherche dans leurs domaines d'activité, ils peuvent, par convention et pour
-une durée limitée, avec information de l'instance scientifique compétente, fournir à des entreprises ou à des personnes
-physiques des moyens de fonctionnement, notamment en mettant à leur disposition des locaux, des équipements et des matériels.
-Un décret fixe les conditions d'application du présent alinéa. 
-
-Les activités mentionnées au présent article peuvent être gérées par des services d'activités industrielles et commerciales,
-dont le régime financier et comptable est défini par décret. Pour le fonctionnement de ces services et la réalisation de ces
-activités, les établissements, les pôles de recherche et d'enseignement supérieur ainsi que les réseaux thématiques de
-recherche avancée peuvent recruter, dans des conditions définies, en tant que de besoin, par décret en Conseil d'Etat, des
-agents non titulaires par des contrats de droit public à durée déterminée ou indéterminée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-610 du 15 juillet 1982 - art. 19-1 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - loi n°2006-450 du 18 avril 2006 - art. 22 () JORF 19 avril 2006
-
-_Cité par_:
-
-  - Décret  n°2007-382 du 21 mars 2007 - art. ANNEXE (VT)
-  - Décret n°2008-510 du 28 mai 2008 - art. 1 (V)
-  - Décret n°2015-156 du 11 février 2015 - art. (V)
-  - Code de l'éducation - art. L762-3 (M)
-  - Code de la recherche - art. L114-5 (V)
-  - Code de la recherche - art. L321-6 (T)
-
-**Liens**:
-
-  - TRANSFERE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
-
-_Cite_:
-
-  - Code de la recherche - art. L112-1
-
-_Nouveaux textes_:
-
-  - Code de la recherche - art. L313-1 (V)
-
-
-###### Article L321-6
-
-Les établissements publics à caractère scientifique et technologique ainsi que, le cas échéant, les pôles de recherche et
-d'enseignement supérieur et les réseaux thématiques de recherche avancée peuvent également confier par convention les
-activités mentionnées à l'article L. 321-5 à des entités de droit privé. Ces conventions sont approuvées par leur autorité de
-tutelle. 
-
-Il est tenu compte notamment :
-
-- de la capacité financière et des moyens de gestion de l'entité ;
-
-- de l'adéquation de l'action de l'entité avec la politique de l'établissement public ou, le cas échéant, du pôle de
-recherche et d'enseignement supérieur ou du réseau thématique de recherche avancée ;
-
-- de l'équilibre des droits et obligations entre l'entité et l'établissement public ou, le cas échéant, le pôle de recherche
-et d'enseignement supérieur et le réseau thématique de recherche avancée. 
-
-La convention mentionnée au premier alinéa peut prévoir l'attribution ou la mise à disposition de moyens matériels et
-financiers par l'une à l'autre des parties.
-
-L'Office parlementaire d'évaluation des choix scientifiques et technologiques établit un rapport d'évaluation relatif aux
-initiatives conduites en application du présent article au plus tard le 31 décembre 2008.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 19 () JORF 19 avril 2006
-
-_Cité par_:
-
-  - Décret n°2008-510 du 28 mai 2008 - art. 1 (V)
-  - Code de l'éducation - art. L762-3 (M)
-
-**Liens**:
-
-  - TRANSFERE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
-
-_Nouveaux textes_:
-
-  - Code de la recherche - art. L313-2 (V)
-
-_Cite_:
-
-  - Code de la recherche - art. L321-5
-
-
-#### Chapitre VIII : L'Académie des technologies.<a id=47></a>
+##### Section unique<a id=54></a>
 
 ###### Article L328-1
 
@@ -2365,13 +2217,9 @@ L'Académie des technologies est un établissement public national à caractère
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 20 (V) JORF 19 avril 2006
+  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
 ###### Article L328-2
@@ -2387,13 +2235,9 @@ se saisir de tout thème relevant de ses missions.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 20 (V) JORF 19 avril 2006
+  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
 ###### Article L328-3
@@ -2402,20 +2246,16 @@ Un décret en Conseil d'État fixe la composition et les règles de fonctionneme
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 20 (V) JORF 19 avril 2006
-
 _Cité par_:
 
   - n°2006-450 du 18 avril 2006 - art. 20 (V)
 
+**Liens**:
 
-#### Chapitre IX : L'Agence nationale de la recherche.<a id=48></a>
+  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
+
+#### Chapitre IX : L'Agence nationale de la recherche.<a id=55></a>
 
 ###### Article L329-1
 
@@ -2575,9 +2415,11 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L611-7 (M)
 
 
-### TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=49></a>
+### TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=56></a>
 
-#### Chapitre Ier : Centre national d'études spatiales (CNES).<a id=50></a>
+#### Chapitre Ier : Centre national d'études spatiales (CNES).<a id=57></a>
+
+#### Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique.<a id=58></a>
 
 ###### Article L331-1
 
@@ -2777,7 +2619,9 @@ _Cite_:
   - Code de la recherche - art. L331-6
 
 
-#### Chapitre II : Commissariat à l'énergie atomique (CEA).<a id=51></a>
+#### Chapitre II : Etablissements de recherche dans le domaine de l'énergie.<a id=59></a>
+
+##### Section 1 : Commissariat à l'énergie atomique (CEA).<a id=60></a>
 
 ###### Article L332-1
 
@@ -2788,12 +2632,7 @@ personnalité morale ainsi que de l'autonomie administrative et financière.
 
 _Anciens textes_:
 
-  - Ordonnance n°45-2563 du 18 octobre 1945 - art. 1 (M)
   - Ordonnance n°45-2563 du 18 octobre 1945 - art. 1 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
 _Cité par_:
 
@@ -2807,6 +2646,10 @@ _Cité par_:
   - Code de la recherche - art. L365-1 (V)
   - Code de la recherche - art. L366-1 (V)
   - Code de la recherche - art. L367-1 (V)
+
+**Liens**:
+
+  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
 ###### Article L332-2
@@ -2823,9 +2666,9 @@ fabrication et de travaux du Commissariat à l'énergie atomique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 _Cité par_:
 
@@ -2849,16 +2692,16 @@ conseil des ministres.
 
 _Cite_:
 
-  - Loi n°83-675 1983-07-26
+  - Loi n°83-675 du 26 juillet 1983
 
-_Codifié par_:
+**Liens**:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
 ###### Article L332-4
 
-Un haut-commissaire assume la charge de conseiller scientifique et technique auprès de l'administrateur général.
+Un haut-commissaire assume la charge de conseiller scientifique et technique auprès de l'administrateur général. 
 
 Le haut-commissaire peut saisir directement le Comité de l'énergie atomique mentionné à l'article L. 332-2 et l'autorité
 administrative compétente de ses propositions concernant l'orientation générale scientifique et technique qui lui paraît
@@ -2866,9 +2709,9 @@ souhaitable. Il préside un conseil scientifique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 _Cité par_:
 
@@ -2893,12 +2736,11 @@ legs en argent ou en nature.
 
 _Anciens textes_:
 
-  - Ordonnance n°45-2563 du 18 octobre 1945 - art. 7 (M)
   - Ordonnance n°45-2563 du 18 octobre 1945 - art. 7 (V)
 
-_Codifié par_:
+**Liens**:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
 ###### Article L332-6
@@ -2920,16 +2762,11 @@ concernés.
 
 _Anciens textes_:
 
-  - Ordonnance n°45-2563 du 18 octobre 1945 - art. 5, v. init.
   - Ordonnance n°45-2563 du 18 octobre 1945 - art. 5 (V)
 
-_Codifié par_:
+**Liens**:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - loi n°2006-450 du 18 avril 2006 - art. 39 (V) JORF 19 avril 2006
+  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 _Cité par_:
 
@@ -2942,172 +2779,54 @@ Un décret en Conseil d'Etat fixe les conditions d'application des articles L. 3
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 _Cite_:
 
-  - Code de la recherche L332-1 à L332-6
+  - Code de la recherche - art. L332-1 (V)
 
 
-#### Chapitre IV : Etablissements de recherche en sciences exactes et technologie<a id=52></a>
+##### Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA).<a id=61></a>
 
-##### Section unique : Agence nationale pour la gestion des déchets radioactifs (ANDRA).<a id=53></a>
-
-###### Article L334-1
+###### Article L332-8
 
 Les missions de l'Agence nationale pour la gestion des déchets radioactifs sont fixées par les dispositions de l'article L.
-542-12 du code de l'environnement, ci-après reproduites : 
-
-" Art.L. 542-12.-L'Agence nationale pour la gestion des déchets radioactifs, établissement public industriel et commercial,
-est chargée des opérations de gestion à long terme des déchets radioactifs, et notamment : 
-
-1° D'établir, de mettre à jour tous les trois ans et de publier l'inventaire des matières et déchets radioactifs présents en
-France ainsi que leur localisation sur le territoire national, les déchets visés à l'article L. 542-2-1 étant listés par
-pays ; 
-
-2° De réaliser ou faire réaliser, conformément au plan national prévu à l'article L. 542-1-2, des recherches et études sur
-l'entreposage et le stockage en couche géologique profonde et d'assurer leur coordination ; 
-
-3° De contribuer, dans les conditions définies à l'avant-dernier alinéa du présent article, à l'évaluation des coûts
-afférents à la mise en oeuvre des solutions de gestion à long terme des déchets radioactifs de haute et de moyenne activité à
-vie longue, selon leur nature ; 
-
-4° De prévoir, dans le respect des règles de sûreté nucléaire, les spécifications pour le stockage des déchets radioactifs et
-de donner aux autorités administratives compétentes un avis sur les spécifications pour le conditionnement des déchets ; 
-
-5° De concevoir, d'implanter, de réaliser et d'assurer la gestion de centres d'entreposage ou des centres de stockage de
-déchets radioactifs compte tenu des perspectives à long terme de production et de gestion de ces déchets ainsi que
-d'effectuer à ces fins toutes les études nécessaires ; 
-
-6° D'assurer la collecte, le transport et la prise en charge de déchets radioactifs et la remise en état de sites de
-pollution radioactive sur demande et aux frais de leurs responsables ou sur réquisition publique lorsque les responsables de
-ces déchets ou de ces sites sont défaillants ; 
-
-7° De mettre à la disposition du public des informations relatives à la gestion des déchets radioactifs et de participer à la
-diffusion de la culture scientifique et technologique dans ce domaine ; 
-
-8° De diffuser à l'étranger son savoir-faire.
-
-L'agence peut obtenir le remboursement des frais exposés pour la gestion des déchets radioactifs pris en charge sur
-réquisition publique des responsables de ces déchets qui viendraient à être identifiés ou qui reviendraient à meilleure
-fortune.
-
-L'agence propose au ministre chargé de l'énergie une évaluation des coûts afférents à la mise en oeuvre des solutions de
-gestion à long terme des déchets radioactifs de haute et de moyenne activité à vie longue selon leur nature. Après avoir
-recueilli les observations des redevables des taxes additionnelles mentionnées au V de l'article 43 de la loi de finances
-pour 2000 (n° 99-1172 du 30 décembre 1999) et l'avis de l'Autorité de sûreté nucléaire, le ministre chargé de l'énergie
-arrête l'évaluation de ces coûts et la rend publique.
-
-L'agence peut conduire, avec toute personne intéressée, des actions communes d'information du public et de diffusion de la
-culture scientifique et technologique. "
+542-12 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - Loi n°2006-739 du 28 juin 2006 - art. 14 () JORF 29 juin 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de l'environnement - art. L542-12
-
-
-#### Chapitre V : Etablissements de support et de valorisation de la recherche<a id=54></a>
-
-##### Section unique : Agence de l'environnement et de la maîtrise de l'énergie (ADEME).<a id=55></a>
-
-###### Article L335-1
-
-Les missions et l'organisation de l'Agence de l'environnement et de la maîtrise de l'énergie sont fixées par les dispositions
-des articles L. 131-3 à L. 131-7 du code de l'environnement, ci-après reproduites : 
-
-" Art.L. 131-3.-I.-L'Agence de l'environnement et de la maîtrise de l'énergie est un établissement public de l'Etat à
-caractère industriel et commercial. 
-
-" II.-Cet établissement public exerce des actions, notamment d'orientation et d'animation de la recherche, de prestation de
-services, d'information et d'incitation dans chacun des domaines suivants : 
-
-" 1° La prévention et la lutte contre la pollution de l'air ; 
-
-" 2° La limitation de la production de déchets, leur élimination, leur récupération et leur valorisation, la protection des
-sols et la remise en état des sites pollués ; 
-
-" 3° Le réaménagement et la surveillance d'une installation de stockage de déchets ultimes autorisée après le 14 juillet
-1992, lorsque ces opérations sont rendues nécessaires du fait d'une défaillance ou d'une insuffisance des garanties de
-l'exploitant ; 
-
-" 4° La réalisation d'économies d'énergie et de matières premières et le développement des énergies renouvelables, notamment
-d'origine végétale ; 
-
-" 5° Le développement des technologies propres et économes ; 
-
-" 6° La lutte contre les nuisances sonores. 
-
-" III.-L'agence coordonne ses actions avec celles menées par les agences de l'eau dans des domaines d'intérêt commun. 
-
-" IV.-Pour accomplir ses missions, l'agence dispose d'une délégation dans chaque région. 
-
-" Art.L. 131-4.-Le conseil d'administration de l'agence est composé : 
-
-" 1° De représentants de l'Etat ; 
-
-" 2° De membres du Parlement ; 
-
-" 3° De représentants de collectivités territoriales ; 
-
-" 4° De personnalités qualifiées, de représentants d'associations de protection de l'environnement agréées au titre de
-l'article L. 141-1 et de représentants de groupements professionnels intéressés ; 
-
-" 5° De représentants du personnel dans les conditions définies au deuxième alinéa de l'article 4 de la loi n° 83-675 du 26
-juillet 1983 relative à la démocratisation du secteur public. 
-
-" Art.L. 131-5.-L'agence est dotée d'un conseil scientifique dont la composition est arrêtée conjointement par les ministres
-chargés de l'environnement, de la recherche et de l'industrie. 
-
-" Art.L. 131-6.-L'agence peut attribuer des subventions et consentir des avances remboursables. 
-
-" Elle peut percevoir notamment des redevances sur les inventions et procédés nouveaux auxquels elle a contribué, des
-redevances pour service rendu et le produit de taxes parafiscales. 
-
-" Art.L. 131-7.-Un décret en Conseil d'Etat fixe les conditions d'application des articles L. 131-3 à L. 131-6. "
-
-**Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°83-675 du 26 juillet 1983
-  - Code de l'environnement
+  - Code de l'environnement - art. L542-12
 
-_Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+##### Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME).<a id=62></a>
 
-_Abrogé par_:
+###### Article L332-9
+
+Les missions et l'organisation de l'Agence de l'environnement pour la maîtrise de l'énergie sont fixées par les dispositions
+des articles L. 131-3 à L. 131-7 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
 
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
-**Liens**:
+_Cite_:
 
-  - PILOTE_SUIVEUR: Code de l'environnement - art. L131-3
-  - PILOTE_SUIVEUR: Code de l'environnement - art. L131-4
-  - PILOTE_SUIVEUR: Code de l'environnement - art. L131-5
-  - PILOTE_SUIVEUR: Code de l'environnement - art. L131-6
-  - PILOTE_SUIVEUR: Code de l'environnement - art. L131-7
+  - Code de l'environnement - art. L131-3
 
 
-### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=56></a>
+### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=63></a>
 
-#### Chapitre Ier : Les groupements d'intérêt public.<a id=57></a>
+#### Chapitre Ier : Les groupements d'intérêt public.<a id=64></a>
 
 ###### Article L341-1
 
@@ -3117,24 +2836,11 @@ eux et une ou plusieurs personnes morales de droit public ou de droit privé pou
 déterminée, des activités de recherche ou de développement technologique, ou gérer des équipements d'intérêt commun
 nécessaires à ces activités.
 
-Des groupements d'intérêt public peuvent également être créés pour apporter, en particulier par la création de dispositifs de
-réussite éducative, un soutien éducatif, culturel, social et sanitaire aux enfants relevant de l'enseignement du premier et
-du second degré.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°82-610 1982-07-15 art. 21
   - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - Loi n°2005-32 2005-01-18 art. 131 1° JORF 19 janvier 2005
 
 _Cité par_:
 
@@ -3155,6 +2861,14 @@ _Cité par_:
   - Code du sport. - art. L114-1 (Ab)
   - Code rural - art. L. 256-2-1 (V)
   - Code rural et de la pêche maritime - art. L812-5 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 118
 
 
 ###### Article L341-2
@@ -3251,13 +2965,13 @@ _Cite_:
   - Code des juridictions financières - art. L133-2
 
 
-#### Chapitre II : Les centres techniques industriels.<a id=58></a>
+#### Chapitre II : Les centres techniques industriels.<a id=65></a>
 
 ###### Article L342-1
 
-Dans toute branche d'activité où l'intérêt général le commande, et après accord des organisations syndicales les plus
-représentatives des employeurs et des salariés de ces branches d'activité, il peut être créé par l'autorité administrative
-compétente des établissements d'utilité publique, dénommés centres techniques industriels.
+Dans toute branche d'activité où l'intérêt général le commande, des établissements d'utilité publique dénommés  centres
+techniques industriels  sont créés par l'autorité administrative compétente après avis des organisations syndicales les plus
+représentatives des employeurs et des salariés de ces branches d'activité.
 
 **Liens relatifs à cet article**
 
@@ -3275,9 +2989,13 @@ _Cité par_:
   - Code de la recherche - art. L367-1 (V)
   - Code rural et de la pêche maritime - art. D823-2 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
 ###### Article L342-2
@@ -3578,7 +3296,7 @@ _Cite_:
   - Code de la recherche - art. L342-1
 
 
-#### Chapitre III : Dispositions générales.<a id=59></a>
+#### Chapitre III : Dispositions générales.<a id=66></a>
 
 ###### Article L343-1
 
@@ -3619,7 +3337,7 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-#### Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique<a id=60></a>
+#### Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique<a id=67></a>
 
 ###### Article L344-12
 
@@ -3735,7 +3453,7 @@ _Créé par_:
   - DEPLACE: Loi n°2013-660 du 22 juillet 2013 - art. 66
 
 
-##### Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins.<a id=61></a>
+##### Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins.<a id=68></a>
 
 ###### Article L344-1
 
@@ -3888,7 +3606,7 @@ _Cite_:
   - Code de la santé publique - art. L1121-1
 
 
-##### Section 2 : Les établissements publics de coopération scientifique.<a id=62></a>
+##### Section 2 : Les établissements publics de coopération scientifique.<a id=69></a>
 
 ###### Article L344-4
 
@@ -4148,7 +3866,7 @@ _Cite_:
   - Code de l'éducation - art. L719-9
 
 
-##### Section 3 : Les fondations de coopération scientifique.<a id=63></a>
+##### Section 3 : Les fondations de coopération scientifique.<a id=70></a>
 
 ###### Article L344-11
 
@@ -4184,170 +3902,173 @@ _Cité par_:
   - Code de la santé publique - art. R5124-34 (V)
 
 
-### TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=64></a>
+### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=71></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=65></a>
+#### Chapitre Ier : Dispositions relatives à Mayotte.<a id=72></a>
 
-###### Article L351-1
+###### Article L361-1
 
-1° Pour l'application du présent livre à Mayotte, le ministre chargé de l'enseignement supérieur et de la recherche exerce
-les compétences dévolues au recteur d'académie. 
-
-2° Pour l'application de l'article L. 342-11, la référence à l'article 1039 du code général des impôts est remplacée par la
-référence aux dispositions ayant le même objet applicables localement.
+Pour l'application du présent livre à Mayotte, le ministre chargé de la recherche exerce les compétences dévolues au recteur
+d'académie.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
-_Cité par_:
 
-  - Loi n°2005-781 du 13 juillet 2005 - art. 25 (VT)
-  - Code de l'énergie - art. L211-3 (VD)
+#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=73></a>
 
-_Modifié par_:
+###### Article L362-1
 
-  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 5
+Pour l'application du présent livre à Saint-Barthélemy, le ministre chargé de la recherche exerce les compétences dévolues au
+recteur d'académie.
 
-_Abrogé par_:
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
+
+#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=74></a>
+
+###### Article L363-1
+
+Pour l'application du présent livre à Saint-Martin, le ministre chargé de la recherche exerce les compétences dévolues au
+recteur d'académie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
+
+#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=75></a>
+
+###### Article L364-1
+
+Pour l'application du présent livre à Saint-Pierre-et-Miquelon, le ministre chargé de la recherche exerce les compétences
+dévolues au recteur d'académie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
+
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=76></a>
+
+###### Article L365-1
+
+Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 313-1 à L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8,
+L. 332-1 à L. 332-7, L. 341-1 à L. 341-4, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables dans les îles Wallis
+et Futuna. 
+
+Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences
+dévolues au recteur d'académie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
 
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1039
-  - Code de la recherche - art. L342-11
-
-
-#### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.<a id=66></a>
-
-###### Article L352-1
-
-Les dispositions du premier alinéa de l'article L. 341-1 et des articles L. 341-2 à L. 341-4 sont applicables en Nouvelle-
-Calédonie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-610 1982-07-15 art. 21
-  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - Loi n°2005-32 2005-01-18 art. 131 2° JORF 19 janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
-
-_Cite_:
-
-  - Code de la recherche
+  - Code de la recherche - art. L311-1
+  - Code de la recherche - art. L312-1
+  - Code de la recherche - art. L313-1
+  - Code de la recherche - art. L321-1
+  - Code de la recherche - art. L331-1
+  - Code de la recherche - art. L332-1
   - Code de la recherche - art. L341-1
+  - Code de la recherche - art. L342-1
+  - Code de la recherche - art. L344-1
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=67></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=77></a>
 
-###### Article L353-1
+###### Article L366-1
 
-Les dispositions du premier alinéa de l'article L. 341-1 et des articles L. 341-2 à L. 341-4 sont applicables en Polynésie
-française.
+Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 313-1 à L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8,
+L. 332-1 à L. 332-7, L. 341-1 à L. 341-4, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables en Polynésie
+française. 
+
+Pour l'application du présent livre en Polynésie française, le ministre chargé de la recherche exerce les compétences
+dévolues au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°82-610 1982-07-15 art. 21
-  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - Loi n°2005-32 2005-01-18 art. 131 2° JORF 19 janvier 2005
-
-_Abrogé par_:
+_Créé par_:
 
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 _Cite_:
 
-  - Code de la recherche
+  - Code de la recherche - art. L311-1
+  - Code de la recherche - art. L312-1
+  - Code de la recherche - art. L313-1
+  - Code de la recherche - art. L321-1
+  - Code de la recherche - art. L331-1
+  - Code de la recherche - art. L332-1
   - Code de la recherche - art. L341-1
+  - Code de la recherche - art. L342-1
+  - Code de la recherche - art. L344-1
 
 
-#### Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.<a id=68></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=78></a>
 
-###### Article L354-1
+###### Article L367-1
 
-Les dispositions des articles L. 341-1 à L. 341-4 sont applicables dans les îles Wallis et Futuna.
+Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 313-1 à L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8,
+L. 332-1 à L. 332-7, L. 341-1 à L. 341-4, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables en Nouvelle-
+Calédonie. 
+
+Pour l'application du présent livre en Nouvelle-Calédonie, le ministre chargé de la recherche exerce les compétences dévolues
+au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°82-610 1982-07-15 art. 21
-  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Abrogé par_:
+_Créé par_:
 
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 _Cite_:
 
-  - Code de la recherche
-
-
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=69></a>
-
-###### Article L355-1
-
-Les dispositions du premier alinéa de l'article L. 341-1 et des articles L. 341-2 à L. 341-4 sont applicables dans les Terres
-australes et antarctiques françaises.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-610 1982-07-15 art. 21
-  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Modifié par_:
-
-  - Loi n°2005-32 2005-01-18 art. 131 2° JORF 19 janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
-
-_Cite_:
-
-  - Code de la recherche
+  - Code de la recherche - art. L311-1
+  - Code de la recherche - art. L312-1
+  - Code de la recherche - art. L313-1
+  - Code de la recherche - art. L321-1
+  - Code de la recherche - art. L331-1
+  - Code de la recherche - art. L332-1
   - Code de la recherche - art. L341-1
+  - Code de la recherche - art. L342-1
+  - Code de la recherche - art. L344-1
 
 
-## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=70></a>
+#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=79></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=71></a>
+###### Article L368-1
 
-#### Chapitre Ier : Missions et garanties fondamentales.<a id=72></a>
+Pour l'application du présent livre dans les Terres australes et antarctiques françaises, le ministre chargé de la recherche
+exerce les compétences dévolues au recteur d'académie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
+
+## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=80></a>
+
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=81></a>
+
+#### Chapitre Ier : Missions et garanties fondamentales.<a id=82></a>
 
 ###### Article L411-1
 
@@ -4421,16 +4142,20 @@ _Modifié par_:
 
 Pour l'accomplissement des missions de la recherche publique, les statuts des personnels de recherche ou les règles régissant
 leur emploi doivent garantir l'autonomie de leur démarche scientifique, leur participation à l'évaluation des travaux qui
-leur incombent, le droit à la formation permanente.
+leur incombent, le droit à la formation permanente. 
 
 Ces statuts doivent favoriser la libre circulation des idées et, sans préjudice pour leur carrière, la mobilité des
 personnels entre les divers métiers de la recherche au sein du même organisme, entre les services publics de toute nature,
 les différents établissements publics de recherche et les établissements d'enseignement supérieur, et entre ces services et
-établissements et les entreprises.
+établissements et les entreprises. 
 
 Ces statuts doivent permettre aux chercheurs, tout en poursuivant leurs travaux au sein des établissements publics de
 recherche, de collaborer, pour une période déterminée, renouvelable, avec des laboratoires publics ou privés, afin d'y
-développer des applications spécifiques.
+développer des applications spécifiques. 
+
+Les personnels de recherche des organismes de recherche qui exercent leur activité dans les établissements publics à
+caractère scientifique, culturel et professionnel participent à la vie démocratique de ces établissements dans les conditions
+fixées par les articles L. 952-24 et L. 953-7 du code de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -4450,27 +4175,32 @@ _Cité par_:
   - Code de la recherche - art. L446-1 (V)
   - Code de la recherche - art. L447-1 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
+
+_Cite_:
+
+  - Code de l'éducation - art. L952-24
+  - Code de l'éducation - art. L953-7
 
 
 ###### Article L411-4
 
 Les orientations définies aux articles L. 411-1, L. 411-3 et L. 421-3 servent de référence aux dispositions des conventions
-collectives fixant les conditions d'emploi des travailleurs scientifiques des entreprises, afin de :
+collectives fixant les conditions d'emploi des travailleurs scientifiques des entreprises, afin de : 
 
 a) Assurer aux intéressés des conditions d'emploi et de déroulement de carrière comparables à celles des autres travailleurs
-de l'entreprise ;
+de l'entreprise ; 
 
 b) Reconnaître les qualifications professionnelles acquises grâce à la formation par la recherche et à la pratique de ses
-métiers ;
+métiers ; 
 
 c) Garantir aux intéressés de larges possibilités de mobilité à l'intérieur de l'entreprise ou hors de l'entreprise,
-notamment dans les laboratoires publics.
+notamment dans les laboratoires publics. 
 
 Afin d'encourager l'emploi des docteurs scientifiques dans une activité couverte par une convention de branche ou un accord
-professionnel ou interprofessionnel au sens de l'article L. 132-1 du code du travail, une commission formée de délégués des
+professionnel ou interprofessionnel au sens de l'article L. 2221-2 du code du travail, une commission formée de délégués des
 parties signataires à la convention ou à l'accord peut être convoquée par un arrêté conjoint du ministre chargé de la
 recherche, du ministre chargé de l'industrie et du ministre chargé du travail, en vue de permettre la discussion des
 conditions de la reconnaissance, dans le cadre de la convention ou de l'accord, du titre de docteur.
@@ -4481,63 +4211,19 @@ _Anciens textes_:
 
   - Loi n°82-610 du 15 juillet 1982 - art. 27 (V)
 
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
 _Modifié par_:
 
-  - loi n°2006-450 du 18 avril 2006 - art. 7 () JORF 19 avril 2006
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
 
 _Cite_:
 
-  - Code de la recherche - art. L411-1 (M)
-  - Code de la recherche - art. L411-3 (V)
-  - Code de la recherche - art. L421-3 (M)
-  - Code du travail - art. L132-1 (M)
+  - Code de la recherche - art. L411-1
+  - Code de la recherche - art. L411-3
+  - Code de la recherche - art. L421-3
+  - Code du travail - art. L2221-2
 
 
-###### Article L411-5
-
-Les personnels de droit privé non marins des établissements publics de recherche à caractère industriel ou commercial ou des
-groupements dans lesquels les établissements publics de recherche détiennent des participations majoritaires, s'il s'agit de
-personnels chargés d'assurer la maintenance et le fonctionnement des équipements de recherche, sont soumis aux articles 24,
-25, 28, 29 et 30 du code du travail maritime pendant la durée de leurs missions temporaires à bord d'un navire de recherche
-océanographique ou halieutique.
-
-Par dérogation aux dispositions des articles 24 et 25 du code du travail maritime, les mesures d'application du présent
-article sont prises par décrets en Conseil d'Etat. Ces décrets sont pris après consultation des établissements publics et
-groupements ainsi que des organisations les plus représentatives des personnels mentionnés au premier alinéa.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-610 du 15 juillet 1982 - art. 26-1 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-**Liens**:
-
-  - TRANSFERE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
-
-_Nouveaux textes_:
-
-  - Code des transports - art. L5549-2 (V)
-  - Code de la recherche - art. L431-3 (V)
-
-_Cite_:
-
-  - Code du travail maritime - art. 24
-  - Code du travail maritime - art. 25
-  - Code du travail maritime - art. 28
-  - Code du travail maritime - art. 29
-  - Code du travail maritime - art. 30
-
-
-#### Chapitre II : La formation.<a id=73></a>
+#### Chapitre II : La formation.<a id=83></a>
 
 ###### Article L412-1
 
@@ -4651,9 +4337,9 @@ _Modifié par_:
   - loi n°2006-450 du 18 avril 2006 - art. 6 () JORF 19 avril 2006
 
 
-#### Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=74></a>
+#### Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=84></a>
 
-##### Section 1 : Participation des personnels de la recherche à la création d'entreprises.<a id=75></a>
+##### Section 1 : Participation des personnels de la recherche à la création d'entreprises.<a id=85></a>
 
 ###### Article L413-1
 
@@ -4953,7 +4639,7 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=76></a>
+##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=86></a>
 
 ###### Article L413-8
 
@@ -5134,7 +4820,7 @@ _Cite_:
   - Code de la recherche - art. L413-7
 
 
-##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme.<a id=77></a>
+##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme.<a id=87></a>
 
 ###### Article L413-12
 
@@ -5260,7 +4946,7 @@ _Cite_:
   - Code de la recherche - art. L413-7
 
 
-##### Section 4 : Dispositions générales.<a id=78></a>
+##### Section 4 : Dispositions générales.<a id=88></a>
 
 ###### Article L413-15
 
@@ -5301,9 +4987,9 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=79></a>
+### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=89></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=80></a>
+#### Chapitre Ier : Dispositions générales.<a id=90></a>
 
 ###### Article L421-1
 
@@ -5426,7 +5112,7 @@ _Cité par_:
   - Code de la recherche - art. L411-4 (V)
 
 
-#### Chapitre II : Chercheurs.<a id=81></a>
+#### Chapitre II : Chercheurs.<a id=91></a>
 
 ###### Article L422-1
 
@@ -5481,28 +5167,29 @@ _Cité par_:
   - Code de la recherche - art. L447-1 (V)
 
 
-### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=82></a>
+### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=92></a>
 
-#### Chapitre Ier : Les personnels contractuels.<a id=83></a>
+#### Chapitre Ier : Les personnels contractuels.<a id=93></a>
 
 ###### Article L431-1
 
 Par dérogation aux principes énoncés à l'article 3 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
-fonctionnaires ou, le cas échéant, aux articles L. 122-1 à L. 122-3 du code du travail, peuvent être appelés à exercer
-temporairement par contrat leurs fonctions, à temps complet ou à temps partiel, dans les services de recherche des
-administrations, dans les établissements publics de recherche et dans les établissements d'enseignement supérieur :
+fonctionnaires ou, le cas échéant, aux articles L. 1242-1 à L. 1242-3, L. 1242-5 à L. 1242-8, L. 1243-13, L. 1244-4 et L.
+1246-1 du code du travail, peuvent être appelés à exercer temporairement par contrat leurs fonctions, à temps complet ou à
+temps partiel, dans les services de recherche des administrations, dans les établissements publics de recherche et dans les
+établissements d'enseignement supérieur : 
 
 a) Les chercheurs, ingénieurs et techniciens de recherche français appartenant au personnel d'une entreprise publique ou
 privée, française ou étrangère, ou d'un établissement public à caractère industriel et commercial français ou d'un organisme
-de recherche étranger ;
+de recherche étranger ; 
 
 b) Les chercheurs, ingénieurs ou techniciens de recherche non titulaires qui relèvent d'un établissement public n'ayant pas
-le caractère industriel et commercial ou d'un service de recherche de l'Etat ;
+le caractère industriel et commercial ou d'un service de recherche de l'Etat ; 
 
-c) Les chercheurs, ingénieurs et techniciens de recherche de nationalité étrangère ;
+c) Les chercheurs, ingénieurs et techniciens de recherche de nationalité étrangère ; 
 
 d) Les docteurs en médecine ou en pharmacie ou en odontologie ayant terminé leur internat de spécialité et n'ayant pas la
-qualité de fonctionnaire titulaire.
+qualité de fonctionnaire titulaire. 
 
 Les personnels mentionnés au présent article doivent avoir exercé antérieurement une activité professionnelle effective d'une
 durée fixée par voie réglementaire.
@@ -5511,16 +5198,20 @@ durée fixée par voie réglementaire.
 
 _Cite_:
 
-  - Loi n°83-634 du 13 juillet 1983 - art. 3 (V)
-  - Code du travail L122-1 à L122-3
+  - Loi n°83-634 du 13 juillet 1983 - art. 3
+  - Code du travail - art. L1242-1
+  - Code du travail - art. L1242-5
+  - Code du travail - art. L1243-13
+  - Code du travail - art. L1244-4
+  - Code du travail - art. L1246-1
 
 _Anciens textes_:
 
   - Loi n°85-1376 du 23 décembre 1985 - art. 8 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
 
 _Cité par_:
 
@@ -5566,7 +5257,38 @@ _Cité par_:
   - Code de la recherche - art. L447-1 (V)
 
 
-#### Chapitre II : Les chercheurs et enseignants associés.<a id=84></a>
+###### Article L431-3
+
+Les personnels de droit privé non marins des établissements publics de recherche à caractère industriel ou commercial ou des
+groupements dans lesquels les établissements publics de recherche détiennent des participations majoritaires, s'il s'agit de
+personnels chargés d'assurer la maintenance et le fonctionnement des équipements de recherche, sont soumis aux articles 24,
+25, 28, 29 et 30 du code du travail maritime pendant la durée de leurs missions temporaires à bord d'un navire de recherche
+océanographique ou halieutique. 
+
+Par dérogation aux dispositions des articles 24 et 25 du code du travail maritime, les mesures d'application du présent
+article sont prises par décrets en Conseil d'Etat. Ces décrets sont pris après consultation des établissements publics et
+groupements ainsi que des organisations les plus représentatives des personnels mentionnés au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
+
+_Anciens textes_:
+
+  - Code de la recherche - art. L411-5 (T)
+
+_Cite_:
+
+  - Code du travail maritime - art. 24
+  - Code du travail maritime - art. 25
+  - Code du travail maritime - art. 28
+  - Code du travail maritime - art. 29
+  - Code du travail maritime - art. 30
+
+
+#### Chapitre II : Les chercheurs et enseignants associés.<a id=94></a>
 
 ###### Article L432-1
 
@@ -5638,18 +5360,18 @@ _Cite_:
   - Code de l'éducation - art. L952-1 (V)
 
 
-#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=85></a>
+#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=95></a>
 
 ###### Article L433-1
 
-Les conditions d'accès au congé d'enseignement ou de recherche sont fixées par les dispositions de l'article L. 931-28 du
-code du travail.
+Les conditions d'accès au congé d'enseignement ou de recherche sont fixées par les dispositions de l'article L. 6322-53 à L.
+6322-57 du code du travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
 
 _Cité par_:
 
@@ -5663,124 +5385,95 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail - art. L931-28 (M)
+  - Code du travail - art. L6322-53
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=86></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=96></a>
 
-#### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.<a id=87></a>
-
-###### Article L442-1
-
-Les dispositions des articles L. 411-3, L. 413-1 à L. 413-16, L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L.
-432-1, L. 432-2 et L. 433-1 sont applicables en Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
-
-_Cite_:
-
-  - Code de la recherche
-  - Code de la recherche - art. L411-3
-  - Code de la recherche - art. L422-1
-  - Code de la recherche - art. L422-2
-  - Code de la recherche - art. L431-1
-  - Code de la recherche - art. L431-2
-  - Code de la recherche - art. L432-1
-  - Code de la recherche - art. L432-2
-  - Code de la recherche - art. L433-1
-
-
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=88></a>
-
-###### Article L443-1
-
-Les dispositions des articles L. 411-3, L. 413-1 à L. 413-16, L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L.
-432-1, L. 432-2 et L. 433-1 sont applicables en Polynésie française.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
-
-_Cite_:
-
-  - Code de la recherche
-  - Code de la recherche - art. L411-3
-  - Code de la recherche - art. L422-1
-  - Code de la recherche - art. L422-2
-  - Code de la recherche - art. L431-1
-  - Code de la recherche - art. L431-2
-  - Code de la recherche - art. L432-1
-  - Code de la recherche - art. L432-2
-  - Code de la recherche - art. L433-1
-
-
-#### Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.<a id=89></a>
-
-###### Article L444-1
-
-Les dispositions des articles L. 411-3, L. 413-1 à L. 413-16, L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L.
-432-1, L. 432-2 et L. 433-1 sont applicables dans les îles Wallis et Futuna.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
-
-_Cite_:
-
-  - Code de la recherche
-  - Code de la recherche - art. L411-3
-  - Code de la recherche - art. L422-1
-  - Code de la recherche - art. L422-2
-  - Code de la recherche - art. L431-1
-  - Code de la recherche - art. L431-2
-  - Code de la recherche - art. L432-1
-  - Code de la recherche - art. L432-2
-  - Code de la recherche - art. L433-1
-
-
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=90></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=97></a>
 
 ###### Article L445-1
 
-Les dispositions des articles L. 411-3, L. 413-1 à L. 413-16, L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L.
-432-1, L. 432-2 et L. 433-1 sont applicables dans les Terres australes et antarctiques françaises.
+Les dispositions des articles L. 411-3, L. 412-1, L. 413-1 à L. 413-16, L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L.
+431-2, L. 432-1, L. 432-2 et L. 433-1 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
 
 _Cite_:
 
-  - Code de la recherche - art. L411-3 (V)
-  - Code de la recherche - art. L422-1 (V)
-  - Code de la recherche - art. L422-2 (V)
-  - Code de la recherche - art. L431-1 (V)
-  - Code de la recherche - art. L431-2 (V)
-  - Code de la recherche - art. L432-1 (V)
-  - Code de la recherche - art. L432-2 (V)
-  - Code de la recherche - art. L433-1 (V)
-  - Code de la recherche L411-3, L413-1 à L413-16, L421-1 à L421-3, L422-1, L422-2, L431-1, L431-2, L432-1, L432-2, L433-1
+  - Code de la recherche - art. L411-3
+  - Code de la recherche - art. L412-1
+  - Code de la recherche - art. L413-1
+  - Code de la recherche - art. L421-1
+  - Code de la recherche - art. L422-1
+  - Code de la recherche - art. L422-2
+  - Code de la recherche - art. L431-1
+  - Code de la recherche - art. L431-2
+  - Code de la recherche - art. L432-1
+  - Code de la recherche - art. L432-2
+  - Code de la recherche - art. L433-1
+
+
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=98></a>
+
+###### Article L446-1
+
+Les dispositions des articles L. 412-1, L. 413-1 à L. 413-16, L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L.
+432-1, L. 432-2 et L. 433-1 sont applicables en Polynésie française. 
+
+Sous réserve des compétences de la collectivité mentionnées à l'article 26 de la loi organique n° 2004-192 du 27 février 2004
+portant statut d'autonomie de la Polynésie française, l'article L. 411-3 y est applicable.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi organique n°2004-192 du 27 février 2004 - art. 26
+  - Code de la recherche - art. L411-3
+  - Code de la recherche - art. L412-1
+  - Code de la recherche - art. L413-1
+  - Code de la recherche - art. L421-1
+  - Code de la recherche - art. L422-1
+  - Code de la recherche - art. L431-1
+  - Code de la recherche - art. L431-2
+  - Code de la recherche - art. L432-1
+  - Code de la recherche - art. L432-2
+  - Code de la recherche - art. L433-1
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
+
+
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=99></a>
+
+###### Article L447-1
+
+Les dispositions des articles L. 411-3, L. 412-1, L. 413-1 à L. 413-16, L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L.
+431-2, L. 432-1, L. 432-2 et L. 433-1 sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
+
+_Cite_:
+
+  - Code de la recherche - art. L411-3
+  - Code de la recherche - art. L412-1
+  - Code de la recherche - art. L413-1
+  - Code de la recherche - art. L421-1
+  - Code de la recherche - art. L422-1
+  - Code de la recherche - art. L422-2
+  - Code de la recherche - art. L431-1
+  - Code de la recherche - art. L431-2
+  - Code de la recherche - art. L432-1
+  - Code de la recherche - art. L432-2
+  - Code de la recherche - art. L433-1
 
 
