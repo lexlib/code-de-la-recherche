@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2009-07-23
+Version Consolidée au 2010-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L447-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -5236,6 +5236,22 @@ _Cité par_:
   - Code de la recherche - art. L445-1 (V)
   - Code de la recherche - art. L446-1 (M)
   - Code de la recherche - art. L447-1 (V)
+
+
+###### Article L431-2-1
+
+Les établissements publics à caractère scientifique et technologique peuvent recruter, pour une durée indéterminée, des
+agents contractuels :
+
+1° Pour occuper des fonctions techniques ou administratives correspondant à des emplois de catégorie A ;
+
+2° Pour assurer des fonctions de recherche.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 124
 
 
 ###### Article L431-3
