@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-03-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L447-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -58,47 +58,48 @@ Version Consolidée au 2010-01-01
         - [Chapitre IX : L'Agence nationale de la recherche. (art. L329-1 à L329-7)](#55)
       - [TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L331-1 à L332-9)](#56)
         - [Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique. (art. L331-1 à L331-8)](#57)
-        - [Chapitre II : Etablissements de recherche dans le domaine de l'énergie. (art. L332-1 à L332-9)](#58)
-          - [Section 1 : Commissariat à l'énergie atomique (CEA). (art. L332-1 à L332-7)](#59)
-          - [Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA). (art. L332-8)](#60)
-          - [Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME). (art. L332-9)](#61)
-      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L341-1 à L344-11)](#62)
-        - [Chapitre Ier : Les groupements d'intérêt public. (art. L341-1 à L341-4)](#63)
-        - [Chapitre II : Les centres techniques industriels. (art. L342-1 à L342-13)](#64)
-        - [Chapitre III : Dispositions générales. (art. L343-1)](#65)
-        - [Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique (art. L344-12 à L344-11)](#66)
-          - [Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins. (art. L344-1 à L344-3)](#67)
-          - [Section 2 : Les établissements publics de coopération scientifique. (art. L344-4 à L344-10)](#68)
-          - [Section 3 : Les fondations de coopération scientifique. (art. L344-11)](#69)
-      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L361-1 à L368-1)](#70)
-        - [Chapitre Ier : Dispositions relatives à Mayotte. (art. L361-1)](#71)
-        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#72)
-        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#73)
-        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#74)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#75)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#76)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#77)
-        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#78)
-    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#79)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L413-16)](#80)
-        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#81)
-        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#82)
-        - [Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L413-1 à L413-16)](#83)
-          - [Section 1 : Participation des personnels de la recherche à la création d'entreprises. (art. L413-1 à L413-7)](#84)
-          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante. (art. L413-8 à L413-11)](#85)
-          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme. (art. L413-12 à L413-14)](#86)
-          - [Section 4 : Dispositions générales. (art. L413-15 à L413-16)](#87)
-      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#88)
-        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#89)
-        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#90)
-      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#91)
-        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-3)](#92)
-        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#93)
-        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#94)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#95)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#96)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#97)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#98)
+        - [Chapitre II : Etablissements de recherche dans le domaine de l'énergie. (art.  à L332-9)](#58)
+          - [Section 1 : Commissariat à l'énergie atomique (CEA). (art.  à L331-8)](#59)
+          - [Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA). (art. L332-1 à L332-7)](#60)
+          - [Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA). (art. L332-8)](#61)
+          - [Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME). (art. L332-9)](#62)
+      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L341-1 à L344-11)](#63)
+        - [Chapitre Ier : Les groupements d'intérêt public. (art. L341-1 à L341-4)](#64)
+        - [Chapitre II : Les centres techniques industriels. (art. L342-1 à L342-13)](#65)
+        - [Chapitre III : Dispositions générales. (art. L343-1)](#66)
+        - [Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique (art. L344-12 à L344-11)](#67)
+          - [Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins. (art. L344-1 à L344-3)](#68)
+          - [Section 2 : Les établissements publics de coopération scientifique. (art. L344-4 à L344-10)](#69)
+          - [Section 3 : Les fondations de coopération scientifique. (art. L344-11)](#70)
+      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L361-1 à L368-1)](#71)
+        - [Chapitre Ier : Dispositions relatives à Mayotte. (art. L361-1)](#72)
+        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#73)
+        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#74)
+        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#75)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#76)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#77)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#78)
+        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#79)
+    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#80)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L413-16)](#81)
+        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#82)
+        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#83)
+        - [Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L413-1 à L413-16)](#84)
+          - [Section 1 : Participation des personnels de la recherche à la création d'entreprises. (art. L413-1 à L413-7)](#85)
+          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante. (art. L413-8 à L413-11)](#86)
+          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme. (art. L413-12 à L413-14)](#87)
+          - [Section 4 : Dispositions générales. (art. L413-15 à L413-16)](#88)
+      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#89)
+        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#90)
+        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#91)
+      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#92)
+        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-3)](#93)
+        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#94)
+        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#95)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#96)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#97)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#98)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#99)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=2></a>
@@ -2617,10 +2618,12 @@ _Cite_:
 
 ##### Section 1 : Commissariat à l'énergie atomique (CEA).<a id=59></a>
 
+##### Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA).<a id=60></a>
+
 ###### Article L332-1
 
-Le Commissariat à l'énergie atomique est un établissement à caractère scientifique, technique et industriel, doté de la
-personnalité morale ainsi que de l'autonomie administrative et financière.
+Le     Commissariat à l'énergie atomique et aux énergies alternatives est un établissement à caractère scientifique,
+technique et industriel, doté de la personnalité morale ainsi que de l'autonomie administrative et financière.
 
 **Liens relatifs à cet article**
 
@@ -2641,28 +2644,28 @@ _Cité par_:
   - Code de la recherche - art. L366-1 (V)
   - Code de la recherche - art. L367-1 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 
 ###### Article L332-2
 
 En vue de l'utilisation de l'énergie nucléaire dans les domaines de la science, de l'industrie et de la défense, le
-Commissariat à l'énergie atomique a notamment pour mission de poursuivre les recherches scientifiques et techniques
-nécessaires, de participer à la protection des personnes et des biens contre les effets de l'énergie atomique, d'exercer des
-activités de recherche, de production, de stockage, de transport, de transformation et de commerce de matières premières
-nucléaires. Il peut également, dans des conditions fixées par voie réglementaire, prolonger certaines de ces activités de
-recherche et de développement dans des domaines non nucléaires.
+Commissariat à l'énergie atomique et aux énergies alternatives a notamment pour mission de poursuivre les recherches
+scientifiques et techniques nécessaires, de participer à la protection des personnes et des biens contre les effets de
+l'énergie atomique, d'exercer des activités de recherche, de production, de stockage, de transport, de transformation et de
+commerce de matières premières nucléaires. Il peut également, dans des conditions fixées par voie réglementaire, prolonger
+certaines de ces activités de recherche et de développement dans des domaines non nucléaires. 
 
 Le Comité de l'énergie atomique, dont la composition est fixée par voie réglementaire, arrête le programme de recherche, de
-fabrication et de travaux du Commissariat à l'énergie atomique.
+fabrication et de travaux du     Commissariat à l'énergie atomique et aux énergies alternatives.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 _Cité par_:
 
@@ -2677,10 +2680,10 @@ _Cité par_:
 
 Le conseil d'administration comprend des représentants de l'Etat, dont l'administrateur général, des personnalités désignées
 en raison de leur compétence et des représentants du personnel élus dans les conditions prévues par le chapitre II du titre
-II de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
+II de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public. 
 
-La direction générale du Commissariat à l'énergie atomique est assurée par l'administrateur général nommé par décret en
-conseil des ministres.
+La direction générale du     Commissariat à l'énergie atomique et aux énergies alternatives est assurée par l'administrateur
+général nommé par décret en conseil des ministres.
 
 **Liens relatifs à cet article**
 
@@ -2688,9 +2691,9 @@ _Cite_:
 
   - Loi n°83-675 du 26 juillet 1983
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 
 ###### Article L332-4
@@ -2720,11 +2723,11 @@ _Cite_:
 
 ###### Article L332-5
 
-Les sommes nécessaires à l'accomplissement de la mission du Commissariat à l'énergie atomique sont inscrites chaque année au
-budget de l'Etat.
+Les sommes nécessaires à l'accomplissement de la mission du     Commissariat à l'énergie atomique et aux énergies
+alternatives sont inscrites chaque année au budget de l'Etat. 
 
-Le Commissariat à l'énergie atomique est, en outre, habilité à recevoir toutes subventions publiques ainsi que tous dons ou
-legs en argent ou en nature.
+Le     Commissariat à l'énergie atomique et aux énergies alternatives est, en outre, habilité à recevoir toutes subventions
+publiques ainsi que tous dons ou legs en argent ou en nature.
 
 **Liens relatifs à cet article**
 
@@ -2732,19 +2735,20 @@ _Anciens textes_:
 
   - Ordonnance n°45-2563 du 18 octobre 1945 - art. 7 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 
 ###### Article L332-6
 
-Le Commissariat à l'énergie atomique est autorisé à assurer sa gestion financière et à présenter sa comptabilité suivant les
-règles et usages du commerce.
+Le     Commissariat à l'énergie atomique et aux énergies alternatives est autorisé à assurer sa gestion financière et à
+présenter sa comptabilité suivant les règles et usages du commerce. 
 
-Il est soumis à un contrôle financier spécifique dont les règles sont déterminées par décret en Conseil d'Etat.
+Il est soumis à un contrôle financier spécifique dont les règles sont déterminées par décret en Conseil d'Etat. 
 
-Le commissariat ne peut recourir à des emprunts publics sans l'approbation préalable de l'autorité administrative compétente.
+Le commissariat ne peut recourir à des emprunts publics sans l'approbation préalable de l'autorité administrative
+compétente. 
 
 Afin de prendre en charge des activités nécessitant des modalités particulières de gestion, un décret en Conseil d'État peut
 autoriser le commissariat à créer en son sein des services dotés de l'autonomie administrative et budgétaire, dirigés par un
@@ -2758,9 +2762,9 @@ _Anciens textes_:
 
   - Ordonnance n°45-2563 du 18 octobre 1945 - art. 5 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 _Cité par_:
 
@@ -2782,7 +2786,7 @@ _Cite_:
   - Code de la recherche - art. L332-1 (V)
 
 
-##### Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA).<a id=60></a>
+##### Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA).<a id=61></a>
 
 ###### Article L332-8
 
@@ -2800,7 +2804,7 @@ _Cite_:
   - Code de l'environnement - art. L542-12
 
 
-##### Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME).<a id=61></a>
+##### Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME).<a id=62></a>
 
 ###### Article L332-9
 
@@ -2818,9 +2822,9 @@ _Cite_:
   - Code de l'environnement - art. L131-3
 
 
-### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=62></a>
+### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=63></a>
 
-#### Chapitre Ier : Les groupements d'intérêt public.<a id=63></a>
+#### Chapitre Ier : Les groupements d'intérêt public.<a id=64></a>
 
 ###### Article L341-1
 
@@ -2959,7 +2963,7 @@ _Cite_:
   - Code des juridictions financières - art. L133-2
 
 
-#### Chapitre II : Les centres techniques industriels.<a id=64></a>
+#### Chapitre II : Les centres techniques industriels.<a id=65></a>
 
 ###### Article L342-1
 
@@ -3290,7 +3294,7 @@ _Cite_:
   - Code de la recherche - art. L342-1
 
 
-#### Chapitre III : Dispositions générales.<a id=65></a>
+#### Chapitre III : Dispositions générales.<a id=66></a>
 
 ###### Article L343-1
 
@@ -3331,7 +3335,7 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-#### Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique<a id=66></a>
+#### Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique<a id=67></a>
 
 ###### Article L344-12
 
@@ -3447,7 +3451,7 @@ _Créé par_:
   - DEPLACE: Loi n°2013-660 du 22 juillet 2013 - art. 66
 
 
-##### Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins.<a id=67></a>
+##### Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins.<a id=68></a>
 
 ###### Article L344-1
 
@@ -3600,7 +3604,7 @@ _Cite_:
   - Code de la santé publique - art. L1121-1
 
 
-##### Section 2 : Les établissements publics de coopération scientifique.<a id=68></a>
+##### Section 2 : Les établissements publics de coopération scientifique.<a id=69></a>
 
 ###### Article L344-4
 
@@ -3860,7 +3864,7 @@ _Cite_:
   - Code de l'éducation - art. L719-9
 
 
-##### Section 3 : Les fondations de coopération scientifique.<a id=69></a>
+##### Section 3 : Les fondations de coopération scientifique.<a id=70></a>
 
 ###### Article L344-11
 
@@ -3896,9 +3900,9 @@ _Cité par_:
   - Code de la santé publique - art. R5124-34 (V)
 
 
-### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=70></a>
+### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=71></a>
 
-#### Chapitre Ier : Dispositions relatives à Mayotte.<a id=71></a>
+#### Chapitre Ier : Dispositions relatives à Mayotte.<a id=72></a>
 
 ###### Article L361-1
 
@@ -3912,7 +3916,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=72></a>
+#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=73></a>
 
 ###### Article L362-1
 
@@ -3926,7 +3930,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=73></a>
+#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=74></a>
 
 ###### Article L363-1
 
@@ -3940,7 +3944,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=74></a>
+#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=75></a>
 
 ###### Article L364-1
 
@@ -3954,7 +3958,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=75></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=76></a>
 
 ###### Article L365-1
 
@@ -3984,7 +3988,7 @@ _Cite_:
   - Code de la recherche - art. L344-1
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=76></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=77></a>
 
 ###### Article L366-1
 
@@ -4014,7 +4018,7 @@ _Cite_:
   - Code de la recherche - art. L344-1
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=77></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=78></a>
 
 ###### Article L367-1
 
@@ -4044,7 +4048,7 @@ _Cite_:
   - Code de la recherche - art. L344-1
 
 
-#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=78></a>
+#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=79></a>
 
 ###### Article L368-1
 
@@ -4058,11 +4062,11 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=79></a>
+## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=80></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=80></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=81></a>
 
-#### Chapitre Ier : Missions et garanties fondamentales.<a id=81></a>
+#### Chapitre Ier : Missions et garanties fondamentales.<a id=82></a>
 
 ###### Article L411-1
 
@@ -4217,7 +4221,7 @@ _Cite_:
   - Code du travail - art. L2221-2
 
 
-#### Chapitre II : La formation.<a id=82></a>
+#### Chapitre II : La formation.<a id=83></a>
 
 ###### Article L412-1
 
@@ -4318,9 +4322,9 @@ _Modifié par_:
   - loi n°2006-450 du 18 avril 2006 - art. 6 () JORF 19 avril 2006
 
 
-#### Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=83></a>
+#### Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=84></a>
 
-##### Section 1 : Participation des personnels de la recherche à la création d'entreprises.<a id=84></a>
+##### Section 1 : Participation des personnels de la recherche à la création d'entreprises.<a id=85></a>
 
 ###### Article L413-1
 
@@ -4620,7 +4624,7 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=85></a>
+##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=86></a>
 
 ###### Article L413-8
 
@@ -4801,7 +4805,7 @@ _Cite_:
   - Code de la recherche - art. L413-7
 
 
-##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme.<a id=86></a>
+##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme.<a id=87></a>
 
 ###### Article L413-12
 
@@ -4927,7 +4931,7 @@ _Cite_:
   - Code de la recherche - art. L413-7
 
 
-##### Section 4 : Dispositions générales.<a id=87></a>
+##### Section 4 : Dispositions générales.<a id=88></a>
 
 ###### Article L413-15
 
@@ -4968,9 +4972,9 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=88></a>
+### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=89></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=89></a>
+#### Chapitre Ier : Dispositions générales.<a id=90></a>
 
 ###### Article L421-1
 
@@ -5093,7 +5097,7 @@ _Cité par_:
   - Code de la recherche - art. L411-4 (V)
 
 
-#### Chapitre II : Chercheurs.<a id=90></a>
+#### Chapitre II : Chercheurs.<a id=91></a>
 
 ###### Article L422-1
 
@@ -5148,9 +5152,9 @@ _Cité par_:
   - Code de la recherche - art. L447-1 (V)
 
 
-### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=91></a>
+### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=92></a>
 
-#### Chapitre Ier : Les personnels contractuels.<a id=92></a>
+#### Chapitre Ier : Les personnels contractuels.<a id=93></a>
 
 ###### Article L431-1
 
@@ -5285,7 +5289,7 @@ _Cite_:
   - Code du travail maritime - art. 30
 
 
-#### Chapitre II : Les chercheurs et enseignants associés.<a id=93></a>
+#### Chapitre II : Les chercheurs et enseignants associés.<a id=94></a>
 
 ###### Article L432-1
 
@@ -5357,7 +5361,7 @@ _Cite_:
   - Code de l'éducation - art. L952-1 (V)
 
 
-#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=94></a>
+#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=95></a>
 
 ###### Article L433-1
 
@@ -5385,9 +5389,9 @@ _Cite_:
   - Code du travail - art. L6322-53
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=95></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=96></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=96></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=97></a>
 
 ###### Article L445-1
 
@@ -5415,7 +5419,7 @@ _Cite_:
   - Code de la recherche - art. L433-1
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=97></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=98></a>
 
 ###### Article L446-1
 
@@ -5446,7 +5450,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=98></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=99></a>
 
 ###### Article L447-1
 
