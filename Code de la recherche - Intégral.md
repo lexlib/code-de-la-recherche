@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-12-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L447-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -48,7 +48,7 @@ Version Consolidée au 2010-05-08
         - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L267-1)](#45)
     - [LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L311-1 à L368-1)](#46)
       - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L311-1 à L313-2)](#47)
-        - [Chapitre Ier : Les établissements publics de recherche. (art. L311-1 à L311-3)](#48)
+        - [Chapitre Ier : Les établissements publics de recherche. (art. L311-1 à L311-4)](#48)
         - [Chapitre II : Les établissements publics d'enseignement supérieur et de recherche. (art. L312-1)](#49)
         - [Chapitre III : La valorisation des résultats de la recherche. (art. L313-1 à L313-2)](#50)
       - [TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L321-1 à L329-7)](#51)
@@ -1964,6 +1964,22 @@ _Cite_:
   - Code civil - art. 2044 (V)
 
 
+###### Article L311-4
+
+Un établissement ou un organisme public ou privé concourant aux missions du service public de la recherche peut être rattaché
+à un établissement public à caractère scientifique et technologique ou à un établissement public à caractère industriel ou
+commercial ayant une mission de recherche, par décret, sur sa demande et sur proposition du ou des établissements auxquels ce
+rattachement est demandé.
+
+En cas de rattachement, les établissements conservent leur personnalité morale et leur autonomie financière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-1536 du 13 décembre 2010 - art. 5
+
+
 #### Chapitre II : Les établissements publics d'enseignement supérieur et de recherche.<a id=49></a>
 
 ###### Article L312-1
@@ -3602,18 +3618,22 @@ _Cite_:
 
 ###### Article L344-4
 
-L'établissement public de coopération scientifique assure la mise en commun des moyens que les établissements et organismes
-fondateurs et associés consacrent au pôle de recherche et d'enseignement supérieur mentionné à l'article L. 344-1.
+L'établissement public de coopération scientifique assure la mise en commun des activités et des moyens que les
+établissements et organismes fondateurs et associés consacrent au pôle de recherche et d'enseignement supérieur mentionné à
+l'article L. 344-1. 
 
-À cet effet, il assure notamment :
+À cet effet, il assure notamment : 
 
-1° La mise en place et la gestion des équipements partagés entre les membres fondateurs et associés participant au pôle ;
+1° La mise en place et la gestion des équipements partagés entre les membres fondateurs et associés participant au pôle ; 
 
-2° La coordination des activités des écoles doctorales ;
+2° La coordination des activités des écoles doctorales ; 
 
-3° La valorisation des activités de recherche menées en commun ;
+3° La valorisation des activités de recherche menées en commun ; 
 
-4° La promotion internationale du pôle.
+4° La promotion internationale du pôle. 
+
+Dans le cadre de la politique contractuelle prévue à l'article L. 711-1 du code de l'éducation, il peut être habilité à
+délivrer des diplômes nationaux dans les conditions fixées à l'article L. 613-1 du même code.
 
 **Liens relatifs à cet article**
 
@@ -3657,15 +3677,17 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
-_Créé par_:
+_Modifié par_:
 
-  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
+  - Loi n°2010-1536 du 13 décembre 2010 - art. 3
 
 _Cite_:
 
-  - Code de la recherche - art. L344-1 (V)
+  - Code de la recherche - art. L344-1
+  - Code de l'éducation - art. L613-1
+  - Code de l'éducation - art. L711-1
 
 
 ###### Article L344-5
@@ -3719,32 +3741,28 @@ _Abrogé par_:
 ###### Article L344-7
 
 Le conseil d'administration de l'établissement public de coopération scientifique comprend des représentants des catégories
-suivantes :
+suivantes : 
 
-1° Organismes ou établissements fondateurs ;
+1° Organismes ou établissements fondateurs ; 
 
-2° Personnalités qualifiées désignées d'un commun accord par les membres mentionnés au 1° ;
+2° Personnalités qualifiées désignées d'un commun accord par les membres mentionnés au 1° ; 
 
-3° Entreprises, collectivités territoriales, associations et autres membres associés ;
+3° Entreprises, collectivités territoriales, associations et autres membres associés ; 
 
-4° Enseignants-chercheurs, enseignants et chercheurs exerçant leurs fonctions au sein de l'établissement ;
+4° Enseignants-chercheurs, enseignants et chercheurs exerçant leurs fonctions au sein de l'établissement ; 
 
-5° Autres personnels exerçant leurs fonctions au sein de l'établissement ;
+5° Autres personnels exerçant leurs fonctions au sein de l'établissement ; 
 
-6° Représentants des étudiants qui suivent une formation doctorale au sein du pôle de recherche et d'enseignement supérieur.
+6° Représentants des étudiants qui suivent une formation au sein du pôle de recherche et d'enseignement supérieur. 
 
-Les membres mentionnés aux 1° et 2° représentent au moins la moitié de l'effectif du conseil et ceux mentionnés aux 1°, 2° et
+Les membres mentionnés aux 1° et 2° représentent au moins la moitié de l'effectif du conseil et ceux mentionnés aux 1°,2° et
 3°, au moins les deux tiers de cet effectif.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Cité par_:
 
@@ -3768,6 +3786,14 @@ _Cité par_:
   - Décret n°2012-952 du 1er août 2012 - art. (VT)
   - Décret n°2012-1111 du 1er octobre 2012 - art. (Ab)
   - Décret n°2012-1169 du 17 octobre 2012 - art.
+
+_Modifié par_:
+
+  - Loi n°2010-1536 du 13 décembre 2010 - art. 3
+
+_Abrogé par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 66
 
 
 ###### Article L344-8
@@ -3862,26 +3888,25 @@ _Cite_:
 
 ###### Article L344-11
 
-Les fondations de coopération scientifique mentionnées aux articles L. 344-1 et L. 344-2 sont des personnes morales de droit
-privé à but non lucratif soumises aux règles relatives aux fondations reconnues d'utilité publique dans les conditions fixées
-notamment par la loi n° 87-571 du 23 juillet 1987 sur le développement du mécénat, sous réserve des dispositions de la
-présente section.
+Plusieurs établissements ou organismes publics ou privés, parmi lesquels au moins un établissement public de recherche ou
+d'enseignement supérieur, peuvent constituer une fondation de coopération scientifique dans l'objectif de conduire, selon
+leur composition, une ou des activités mentionnées aux articles L. 112-1 du présent code et L. 123-3 du code de l'éducation. 
+
+Les fondations de coopération scientifique sont des personnes morales de droit privé à but non lucratif soumises aux règles
+relatives aux fondations reconnues d'utilité publique dans les conditions fixées notamment par la loi n° 87-571 du 23 juillet
+1987 sur le développement du mécénat, sous réserve des dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°87-571 1987-07-23
-  - Code de la recherche - art. L344-1 (V)
-  - Code de la recherche - art. L344-2 (V)
+  - Loi n°87-571 du 23 juillet 1987
+  - Code de la recherche - art. L112-1
+  - Code de l'éducation - art. L123-3
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Cité par_:
 
@@ -3892,6 +3917,10 @@ _Cité par_:
   - Code de la recherche - art. L367-1 (V)
   - Code de la santé publique - art. R4211-32 (V)
   - Code de la santé publique - art. R5124-34 (V)
+
+_Modifié par_:
+
+  - Loi n°2010-1536 du 13 décembre 2010 - art. 6
 
 
 ### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=70></a>
