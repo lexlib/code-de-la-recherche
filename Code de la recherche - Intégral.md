@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2010-12-15
+Version Consolidée au 2011-05-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L447-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -62,43 +62,42 @@ Version Consolidée au 2010-12-15
           - [Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA). (art. L332-1 à L332-7)](#59)
           - [Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA). (art. L332-8)](#60)
           - [Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME). (art. L332-9)](#61)
-      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L341-1 à L344-11)](#62)
-        - [Chapitre Ier : Les groupements d'intérêt public. (art. L341-1 à L341-4)](#63)
-        - [Chapitre II : Les centres techniques industriels. (art. L342-1 à L342-13)](#64)
-        - [Chapitre III : Dispositions générales. (art. L343-1)](#65)
-        - [Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique (art. L344-12 à L344-11)](#66)
-          - [Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins. (art. L344-1 à L344-3)](#67)
-          - [Section 2 : Les établissements publics de coopération scientifique. (art. L344-4 à L344-10)](#68)
-          - [Section 3 : Les fondations de coopération scientifique. (art. L344-11)](#69)
-      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L361-1 à L368-1)](#70)
-        - [Chapitre Ier : Dispositions relatives à Mayotte. (art. L361-1)](#71)
-        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#72)
-        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#73)
-        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#74)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#75)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#76)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#77)
-        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#78)
-    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#79)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L413-16)](#80)
-        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#81)
-        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#82)
-        - [Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L413-1 à L413-16)](#83)
-          - [Section 1 : Participation des personnels de la recherche à la création d'entreprises. (art. L413-1 à L413-7)](#84)
-          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante. (art. L413-8 à L413-11)](#85)
-          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme. (art. L413-12 à L413-14)](#86)
-          - [Section 4 : Dispositions générales. (art. L413-15 à L413-16)](#87)
-      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#88)
-        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#89)
-        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#90)
-      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#91)
-        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-3)](#92)
-        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#93)
-        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#94)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#95)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#96)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#97)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#98)
+      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L342-1 à L344-11)](#62)
+        - [Chapitre II : Les centres techniques industriels. (art. L342-1 à L342-13)](#63)
+        - [Chapitre III : Dispositions générales. (art. L343-1)](#64)
+        - [Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique (art. L344-12 à L344-11)](#65)
+          - [Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins. (art. L344-1 à L344-3)](#66)
+          - [Section 2 : Les établissements publics de coopération scientifique. (art. L344-4 à L344-10)](#67)
+          - [Section 3 : Les fondations de coopération scientifique. (art. L344-11)](#68)
+      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L361-1 à L368-1)](#69)
+        - [Chapitre Ier : Dispositions relatives à Mayotte. (art. L361-1)](#70)
+        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#71)
+        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#72)
+        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#73)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#74)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#75)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#76)
+        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#77)
+    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#78)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L413-16)](#79)
+        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#80)
+        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#81)
+        - [Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L413-1 à L413-16)](#82)
+          - [Section 1 : Participation des personnels de la recherche à la création d'entreprises. (art. L413-1 à L413-7)](#83)
+          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante. (art. L413-8 à L413-11)](#84)
+          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme. (art. L413-12 à L413-14)](#85)
+          - [Section 4 : Dispositions générales. (art. L413-15 à L413-16)](#86)
+      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#87)
+        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#88)
+        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#89)
+      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#90)
+        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-3)](#91)
+        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#92)
+        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#93)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#94)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#95)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#96)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#97)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=2></a>
@@ -2849,147 +2848,7 @@ _Cite_:
 
 ### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=62></a>
 
-#### Chapitre Ier : Les groupements d'intérêt public.<a id=63></a>
-
-###### Article L341-1
-
-Des groupements d'intérêt public dotés de la personnalité morale et de l'autonomie financière peuvent être constitués entre
-des établissements publics ayant une activité de recherche et de développement technologique, entre l'un ou plusieurs d'entre
-eux et une ou plusieurs personnes morales de droit public ou de droit privé pour exercer ensemble, pendant une durée
-déterminée, des activités de recherche ou de développement technologique, ou gérer des équipements d'intérêt commun
-nécessaires à ces activités.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-610 1982-07-15 art. 21
-  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-_Cité par_:
-
-  - Loi n°2005-781 du 13 juillet 2005 - art. 25 (VT)
-  - Arrêté du 24 décembre 2007 - art. 1 (V)
-  - Décret n°2008-1308 du 11 décembre 2008 (Ab)
-  - Loi n°2009-594 du 27 mai 2009 - art. 35 (V)
-  - Code de l'action sociale et des familles - art. L312-8 (V)
-  - Code de l'éducation - art. R313-50 (T)
-  - Code de l'énergie - art. L211-3 (VD)
-  - Code de la recherche - art. L352-1 (Ab)
-  - Code de la recherche - art. L353-1 (Ab)
-  - Code de la recherche - art. L355-1 (Ab)
-  - Code de la recherche - art. L365-1 (V)
-  - Code de la recherche - art. L366-1 (V)
-  - Code de la recherche - art. L367-1 (V)
-  - Code de la santé publique - art. L6113-10 (VT)
-  - Code du sport. - art. L114-1 (Ab)
-  - Code rural - art. L. 256-2-1 (V)
-  - Code rural et de la pêche maritime - art. L812-5 (Ab)
-
-_Modifié par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
-
-_Abrogé par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-
-###### Article L341-2
-
-Le groupement d'intérêt public ne donne pas lieu à la réalisation ni au partage de bénéfices. Il peut être constitué sans
-capital. Les droits de ses membres ne peuvent être représentés par des titres négociables. Toute clause contraire est réputée
-non écrite.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-610 1982-07-15 art. 21
-  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Cité par_:
-
-  - Code des transports - art. L5242-20 (V)
-  - Code de la santé publique - art. L6113-10-1 (V)
-
-_Abrogé par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-
-###### Article L341-3
-
-Les personnes morales de droit public, les entreprises nationales et les personnes morales de droit privé chargées de la
-gestion d'un service public doivent disposer ensemble de la majorité des voix dans l'assemblée du groupement et dans le
-conseil d'administration qu'elles désignent.
-
-Le directeur du groupement, nommé par le conseil d'administration, assure, sous l'autorité du conseil et de son président, le
-fonctionnement du groupement. Dans les rapports avec les tiers, le directeur engage le groupement pour tout acte entrant dans
-l'objet de celui-ci.
-
-Un commissaire du Gouvernement est nommé auprès du groupement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-610 1982-07-15 art. 21
-  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Abrogé par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-
-###### Article L341-4
-
-La convention par laquelle est constitué le groupement doit être approuvée par l'autorité administrative, qui en assure la
-publicité. Elle détermine les modalités de participation des membres et les conditions dans lesquelles ils sont tenus des
-dettes du groupement. Elle indique notamment les conditions dans lesquelles ceux-ci mettent à la disposition du groupement
-des personnels rémunérés par eux.
-
-Le groupement d'intérêt public est soumis au contrôle de la Cour des comptes dans les conditions prévues par l'article L.
-133-2 du code des juridictions financières.
-
-La transformation de toute autre personne morale en groupement d'intérêt public n'entraîne ni dissolution ni création d'une
-personne morale nouvelle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-610 1982-07-15 art. 21
-  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Cité par_:
-
-  - Loi n°2009-594 du 27 mai 2009 - art. 35 (V)
-  - Code de l'action sociale et des familles - art. L312-8 (V)
-  - Code de la santé publique - art. L6113-10-1 (V)
-
-_Abrogé par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-_Cite_:
-
-  - Code des juridictions financières - art. L133-2
-
-
-#### Chapitre II : Les centres techniques industriels.<a id=64></a>
+#### Chapitre II : Les centres techniques industriels.<a id=63></a>
 
 ###### Article L342-1
 
@@ -3320,7 +3179,7 @@ _Cite_:
   - Code de la recherche - art. L342-1
 
 
-#### Chapitre III : Dispositions générales.<a id=65></a>
+#### Chapitre III : Dispositions générales.<a id=64></a>
 
 ###### Article L343-1
 
@@ -3361,7 +3220,7 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-#### Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique<a id=66></a>
+#### Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique<a id=65></a>
 
 ###### Article L344-12
 
@@ -3477,7 +3336,7 @@ _Créé par_:
   - DEPLACE: Loi n°2013-660 du 22 juillet 2013 - art. 66
 
 
-##### Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins.<a id=67></a>
+##### Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins.<a id=66></a>
 
 ###### Article L344-1
 
@@ -3630,7 +3489,7 @@ _Cite_:
   - Code de la santé publique - art. L1121-1
 
 
-##### Section 2 : Les établissements publics de coopération scientifique.<a id=68></a>
+##### Section 2 : Les établissements publics de coopération scientifique.<a id=67></a>
 
 ###### Article L344-4
 
@@ -3900,7 +3759,7 @@ _Cite_:
   - Code de l'éducation - art. L719-9
 
 
-##### Section 3 : Les fondations de coopération scientifique.<a id=69></a>
+##### Section 3 : Les fondations de coopération scientifique.<a id=68></a>
 
 ###### Article L344-11
 
@@ -3939,9 +3798,9 @@ _Modifié par_:
   - Loi n°2010-1536 du 13 décembre 2010 - art. 6
 
 
-### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=70></a>
+### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=69></a>
 
-#### Chapitre Ier : Dispositions relatives à Mayotte.<a id=71></a>
+#### Chapitre Ier : Dispositions relatives à Mayotte.<a id=70></a>
 
 ###### Article L361-1
 
@@ -3959,7 +3818,7 @@ _Abrogé par_:
   - Loi n°2019-791 du 26 juillet 2019 - art. 36
 
 
-#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=72></a>
+#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=71></a>
 
 ###### Article L362-1
 
@@ -3973,7 +3832,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=73></a>
+#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=72></a>
 
 ###### Article L363-1
 
@@ -3987,7 +3846,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=74></a>
+#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=73></a>
 
 ###### Article L364-1
 
@@ -4001,97 +3860,91 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=75></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=74></a>
 
 ###### Article L365-1
 
 Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 313-1 à L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8,
-L. 332-1 à L. 332-7, L. 341-1 à L. 341-4, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables dans les îles Wallis
-et Futuna. 
+L. 332-1 à L. 332-7, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables dans les îles Wallis et Futuna. 
 
 Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2011-525 du 17 mai 2011 - art. 119
 
 _Cite_:
 
-  - Code de la recherche - art. L311-1
-  - Code de la recherche - art. L312-1
-  - Code de la recherche - art. L313-1
-  - Code de la recherche - art. L321-1
-  - Code de la recherche - art. L331-1
-  - Code de la recherche - art. L332-1
-  - Code de la recherche - art. L341-1
-  - Code de la recherche - art. L342-1
-  - Code de la recherche - art. L344-1
+  - Code de la recherche - art. L311-1 (V)
+  - Code de la recherche - art. L312-1 (V)
+  - Code de la recherche - art. L313-1 (V)
+  - Code de la recherche - art. L321-1 (V)
+  - Code de la recherche - art. L331-1 (V)
+  - Code de la recherche - art. L332-1 (V)
+  - Code de la recherche - art. L342-1 (V)
+  - Code de la recherche - art. L344-1 (V)
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=76></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=75></a>
 
 ###### Article L366-1
 
 Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 313-1 à L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8,
-L. 332-1 à L. 332-7, L. 341-1 à L. 341-4, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables en Polynésie
-française. 
+L. 332-1 à L. 332-7, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables en Polynésie française. 
 
 Pour l'application du présent livre en Polynésie française, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2011-525 du 17 mai 2011 - art. 119
 
 _Cite_:
 
-  - Code de la recherche - art. L311-1
-  - Code de la recherche - art. L312-1
-  - Code de la recherche - art. L313-1
-  - Code de la recherche - art. L321-1
-  - Code de la recherche - art. L331-1
-  - Code de la recherche - art. L332-1
-  - Code de la recherche - art. L341-1
-  - Code de la recherche - art. L342-1
-  - Code de la recherche - art. L344-1
+  - Code de la recherche - art. L311-1 (V)
+  - Code de la recherche - art. L312-1 (V)
+  - Code de la recherche - art. L313-1 (V)
+  - Code de la recherche - art. L321-1 (V)
+  - Code de la recherche - art. L331-1 (V)
+  - Code de la recherche - art. L332-1 (V)
+  - Code de la recherche - art. L342-1 (V)
+  - Code de la recherche - art. L344-1 (V)
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=77></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=76></a>
 
 ###### Article L367-1
 
 Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 313-1 à L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8,
-L. 332-1 à L. 332-7, L. 341-1 à L. 341-4, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables en Nouvelle-
-Calédonie. 
+L. 332-1 à L. 332-7, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables en Nouvelle-Calédonie. 
 
 Pour l'application du présent livre en Nouvelle-Calédonie, le ministre chargé de la recherche exerce les compétences dévolues
 au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2011-525 du 17 mai 2011 - art. 119
 
 _Cite_:
 
-  - Code de la recherche - art. L311-1
-  - Code de la recherche - art. L312-1
-  - Code de la recherche - art. L313-1
-  - Code de la recherche - art. L321-1
-  - Code de la recherche - art. L331-1
-  - Code de la recherche - art. L332-1
-  - Code de la recherche - art. L341-1
-  - Code de la recherche - art. L342-1
-  - Code de la recherche - art. L344-1
+  - Code de la recherche - art. L311-1 (V)
+  - Code de la recherche - art. L312-1 (V)
+  - Code de la recherche - art. L313-1 (V)
+  - Code de la recherche - art. L321-1 (V)
+  - Code de la recherche - art. L331-1 (V)
+  - Code de la recherche - art. L332-1 (V)
+  - Code de la recherche - art. L342-1 (V)
+  - Code de la recherche - art. L344-1 (V)
 
 
-#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=78></a>
+#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=77></a>
 
 ###### Article L368-1
 
@@ -4105,11 +3958,11 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=79></a>
+## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=78></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=80></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=79></a>
 
-#### Chapitre Ier : Missions et garanties fondamentales.<a id=81></a>
+#### Chapitre Ier : Missions et garanties fondamentales.<a id=80></a>
 
 ###### Article L411-1
 
@@ -4266,7 +4119,7 @@ _Cite_:
   - Code du travail - art. L2221-2
 
 
-#### Chapitre II : La formation.<a id=82></a>
+#### Chapitre II : La formation.<a id=81></a>
 
 ###### Article L412-1
 
@@ -4403,9 +4256,9 @@ _Modifié par_:
   - loi n°2006-450 du 18 avril 2006 - art. 6 () JORF 19 avril 2006
 
 
-#### Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=83></a>
+#### Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=82></a>
 
-##### Section 1 : Participation des personnels de la recherche à la création d'entreprises.<a id=84></a>
+##### Section 1 : Participation des personnels de la recherche à la création d'entreprises.<a id=83></a>
 
 ###### Article L413-1
 
@@ -4705,7 +4558,7 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=85></a>
+##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=84></a>
 
 ###### Article L413-8
 
@@ -4886,7 +4739,7 @@ _Cite_:
   - Code de la recherche - art. L413-7
 
 
-##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme.<a id=86></a>
+##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme.<a id=85></a>
 
 ###### Article L413-12
 
@@ -5012,7 +4865,7 @@ _Cite_:
   - Code de la recherche - art. L413-7
 
 
-##### Section 4 : Dispositions générales.<a id=87></a>
+##### Section 4 : Dispositions générales.<a id=86></a>
 
 ###### Article L413-15
 
@@ -5053,9 +4906,9 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=88></a>
+### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=87></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=89></a>
+#### Chapitre Ier : Dispositions générales.<a id=88></a>
 
 ###### Article L421-1
 
@@ -5178,7 +5031,7 @@ _Cité par_:
   - Code de la recherche - art. L411-4 (V)
 
 
-#### Chapitre II : Chercheurs.<a id=90></a>
+#### Chapitre II : Chercheurs.<a id=89></a>
 
 ###### Article L422-1
 
@@ -5233,9 +5086,9 @@ _Cité par_:
   - Code de la recherche - art. L447-1 (V)
 
 
-### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=91></a>
+### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=90></a>
 
-#### Chapitre Ier : Les personnels contractuels.<a id=92></a>
+#### Chapitre Ier : Les personnels contractuels.<a id=91></a>
 
 ###### Article L431-1
 
@@ -5370,7 +5223,7 @@ _Cite_:
   - Code du travail maritime - art. 30
 
 
-#### Chapitre II : Les chercheurs et enseignants associés.<a id=93></a>
+#### Chapitre II : Les chercheurs et enseignants associés.<a id=92></a>
 
 ###### Article L432-1
 
@@ -5442,7 +5295,7 @@ _Cite_:
   - Code de l'éducation - art. L952-1 (V)
 
 
-#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=94></a>
+#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=93></a>
 
 ###### Article L433-1
 
@@ -5470,9 +5323,9 @@ _Cite_:
   - Code du travail - art. L6322-53
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=95></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=94></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=96></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=95></a>
 
 ###### Article L445-1
 
@@ -5500,7 +5353,7 @@ _Cite_:
   - Code de la recherche - art. L433-1
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=97></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=96></a>
 
 ###### Article L446-1
 
@@ -5531,7 +5384,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=98></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=97></a>
 
 ###### Article L447-1
 
