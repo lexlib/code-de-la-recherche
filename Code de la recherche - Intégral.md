@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2011-08-03
+Version Consolidée au 2012-03-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L447-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -1465,13 +1465,14 @@ _Cite_:
 
 ###### Article L223-1
 
-Les recherches biomédicales sont définies par les dispositions de l'article L. 1121-1 du code de la santé publique.
+Les recherches impliquant la personne humaine sont définies par les dispositions de l'article L. 1121-1 du code de la santé
+publique.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+  - Loi n°2012-300 du 5 mars 2012 - art. 1 (V)
 
 _Cite_:
 
@@ -1480,30 +1481,31 @@ _Cite_:
 
 ###### Article L223-2
 
-Les principes et procédures de mise en œuvre de recherches biomédicales ainsi que les missions des comités de protection des
-personnes sont fixés par les dispositions du titre II du livre Ier de la première partie du code de la santé publique.
+Les principes et procédures de mise en œuvre de recherches impliquant la personne humaine ainsi que les missions des comités
+de protection des personnes sont fixés par les dispositions du titre II du livre Ier de la première partie du code de la
+santé publique.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+  - Loi n°2012-300 du 5 mars 2012 - art. 1 (V)
 
 
 ###### Article L223-3
 
-Les manquements à l'obligation d'obtention du consentement des personnes qui se prêtent à des recherches biomédicales sont
-sanctionnés dans les conditions prévues par les dispositions des articles 223-8 et 223-9 du code pénal.
+Les manquements à l'obligation d'obtention du consentement des personnes qui se prêtent à des recherches impliquant la
+personne humaine sont sanctionnés dans les conditions prévues par les dispositions des articles 223-8 et 223-9 du code pénal.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Loi n°2012-300 du 5 mars 2012 - art. 1 (V)
 
 _Cite_:
 
-  - Code pénal - art. 223-8 (VT)
+  - Code pénal - art. 223-8 (V)
 
 
 #### Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires.<a id=30></a>
