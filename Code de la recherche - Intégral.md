@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2012-03-07
+Version Consolidée au 2012-03-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L447-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -16,7 +16,7 @@ Version Consolidée au 2012-03-07
       - [TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L123-1)](#13)
         - [Chapitre III : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER). (art. L123-1)](#14)
       - [TITRE III : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L131-1 à L133-1)](#15)
-        - [Chapitre Ier : Le crédit d'impôt-recherche. (art. L131-1 à L131-2)](#16)
+        - [Chapitre Ier : Le crédit d'impôt-recherche. (art. L131-1 à L131-3)](#16)
         - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI). (art. L132-1)](#17)
         - [Chapitre III : L'aide à l'innovation. (art. L133-1)](#18)
       - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L145-1 à L147-1)](#19)
@@ -1203,6 +1203,30 @@ _Abrogé par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L45 B
+
+
+###### Article L131-3
+
+Les agents relevant du ministre chargé de la recherche transmettent chaque année les informations mentionnées dans la
+déclaration dont ils reçoivent copie en application du II de l'article 49 septies M de l'annexe III au code général des
+impôts aux agents des services chargés de la réalisation d'études économiques mentionnés dans l'arrêté prévu au II de
+l'article L. 135 D du livre des procédures fiscales et relevant du ministre chargé de l'économie, en vue de l'élaboration
+d'études relatives à l'innovation et à la compétitivité des entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 60
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies M
+  - Livre des procédures fiscales - art. L135 D
 
 
 #### Chapitre II : Les fonds communs de placement dans l'innovation (FCPI).<a id=17></a>
