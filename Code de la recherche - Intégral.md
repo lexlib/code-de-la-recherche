@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2013-07-10
+Version Consolidée au 2013-07-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L447-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -8,96 +8,95 @@ Version Consolidée au 2013-07-10
           - [Section 1 : La politique nationale. (art. L111-1 à L111-7-1)](#5)
           - [Section 2 : Les politiques régionales. (art. L111-8 à L111-9)](#6)
         - [Chapitre II : Objectifs et moyens institutionnels de la recherche publique. (art. L112-1 à L112-5)](#7)
-        - [Chapitre III : Programmation des moyens de la recherche publique et des actions de développement technologique. (art. L113-1 à L113-3)](#8)
+        - [Chapitre III : Programmation des moyens de la recherche publique et des actions de développement technologique. (art. L113-1 à L113-4)](#8)
         - [Chapitre IV : Evaluation et contrôle de la recherche et du développement technologique. (art. L114-1 à L114-6)](#9)
           - [Section 1 : Objectifs de l'évaluation (art. L114-1 à L114-3)](#10)
-          - [Section 2 : L'Agence d'évaluation de la recherche et de l'enseignement supérieur. (art. L114-3-1 à L114-3-7)](#11)
+          - [Section 2 : Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur. (art. L114-3-1 à L114-3-7)](#11)
           - [Section 3 : Dispositions diverses relatives à l'évaluation et au contrôle (art. L114-4 à L114-6)](#12)
-      - [TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L123-1)](#13)
-        - [Chapitre III : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER). (art. L123-1)](#14)
-      - [TITRE III : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L131-1 à L133-1)](#15)
-        - [Chapitre Ier : Le crédit d'impôt-recherche. (art. L131-1 à L131-3)](#16)
-        - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI). (art. L132-1)](#17)
-        - [Chapitre III : L'aide à l'innovation. (art. L133-1)](#18)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L145-1 à L147-1)](#19)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L145-1)](#20)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L146-1)](#21)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L147-1)](#22)
-    - [LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE (art. L211-1 à L267-1)](#23)
-      - [TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE (art. L211-1)](#24)
-        - [Chapitre unique (art. L211-1)](#25)
-      - [TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE (art. L221-1 à L225-2)](#26)
-        - [Chapitre Ier : La génétique. (art. L221-1 à L221-3)](#27)
-        - [Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés. (art. L222-1)](#28)
-        - [Chapitre III : Les recherches biomédicales. (art. L223-1 à L223-3)](#29)
-        - [Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires. (art. L224-1)](#30)
-        - [Chapitre V : Les traitements de données à caractère personnel. (art. L225-1 à L225-2)](#31)
-      - [TITRE III : L'EXPÉRIMENTATION ANIMALE (art. L231-1 à L236-1)](#32)
-        - [Chapitre Ier : Dispositions générales. (art. L231-1 à L231-2)](#33)
-        - [Chapitre VI : Sanctions. (art. L236-1)](#34)
-      - [TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS (art. L241-1 à L241-3)](#35)
-        - [Chapitre unique. (art. L241-1 à L241-3)](#36)
-      - [TITRE V : AUTRES DOMAINES DE RECHERCHE (art. L251-1 à L254-1)](#37)
-        - [Chapitre Ier : La recherche scientifique marine. (art. L251-1)](#38)
-        - [Chapitre II : Les recherches sur la gestion des déchets radioactifs. (art. L252-1)](#39)
-        - [Chapitre III : Utilisation en recherche de certains produits chimiques. (art. L253-1 à L253-3)](#40)
-        - [Chapitre IV : La recherche en archéologie. (art. L254-1)](#41)
-      - [TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER. (art. L265-1 à L267-1)](#42)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L265-1)](#43)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L266-1)](#44)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L267-1)](#45)
-    - [LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L311-1 à L368-1)](#46)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L311-1 à L313-2)](#47)
-        - [Chapitre Ier : Les établissements publics de recherche. (art. L311-1 à L311-4)](#48)
-        - [Chapitre II : Les établissements publics d'enseignement supérieur et de recherche. (art. L312-1)](#49)
-        - [Chapitre III : La valorisation des résultats de la recherche. (art. L313-1 à L313-2)](#50)
-      - [TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L321-1 à L329-7)](#51)
-        - [Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique. (art. L321-1 à L321-4)](#52)
-        - [Chapitre VIII : Autres établissements à caractère administratif. (art. L328-1 à L328-3)](#53)
-          - [Section unique (art. L328-1 à L328-3)](#54)
-        - [Chapitre IX : L'Agence nationale de la recherche. (art. L329-1 à L329-7)](#55)
-      - [TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L331-1 à L332-9)](#56)
-        - [Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique. (art. L331-1 à L331-8)](#57)
-        - [Chapitre II : Etablissements de recherche dans le domaine de l'énergie. (art. L332-1 à L332-9)](#58)
-          - [Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA). (art. L332-1 à L332-7)](#59)
-          - [Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA). (art. L332-8)](#60)
-          - [Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME). (art. L332-9)](#61)
-      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L342-1 à L344-11)](#62)
-        - [Chapitre II : Les centres techniques industriels. (art. L342-1 à L342-13)](#63)
-        - [Chapitre III : Dispositions générales. (art. L343-1)](#64)
-        - [Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique (art. L344-12 à L344-11)](#65)
-          - [Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins. (art. L344-1 à L344-3)](#66)
-          - [Section 2 : Les établissements publics de coopération scientifique. (art. L344-4 à L344-10)](#67)
-          - [Section 3 : Les fondations de coopération scientifique. (art. L344-11)](#68)
-      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L361-1 à L368-1)](#69)
-        - [Chapitre Ier : Dispositions relatives à Mayotte. (art. L361-1)](#70)
-        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#71)
-        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#72)
-        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#73)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#74)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#75)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#76)
-        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#77)
-    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#78)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L413-16)](#79)
-        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#80)
-        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#81)
-        - [Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L413-1 à L413-16)](#82)
-          - [Section 1 : Participation des personnels de la recherche à la création d'entreprises. (art. L413-1 à L413-7)](#83)
-          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante. (art. L413-8 à L413-11)](#84)
-          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme. (art. L413-12 à L413-14)](#85)
-          - [Section 4 : Dispositions générales. (art. L413-15 à L413-16)](#86)
-      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#87)
-        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#88)
-        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#89)
-      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#90)
-        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-3)](#91)
-        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#92)
-        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#93)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#94)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#95)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#96)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#97)
+      - [TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L120-1 à L123-1)](#13)
+        - [Chapitre préliminaire : Le Conseil stratégique de la recherche. (art. L120-1)](#14)
+        - [Chapitre III : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER). (art. L123-1)](#15)
+      - [TITRE III : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L131-1 à L133-1)](#16)
+        - [Chapitre Ier : Le crédit d'impôt-recherche. (art. L131-1 à L131-3)](#17)
+        - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI). (art. L132-1)](#18)
+        - [Chapitre III : L'aide à l'innovation. (art. L133-1)](#19)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L145-1 à L147-1)](#20)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L145-1)](#21)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L146-1)](#22)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L147-1)](#23)
+    - [LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE (art. L211-1 à L267-1)](#24)
+      - [TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE (art. L211-1)](#25)
+        - [Chapitre unique (art. L211-1)](#26)
+      - [TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE (art. L221-1 à L225-2)](#27)
+        - [Chapitre Ier : La génétique. (art. L221-1 à L221-3)](#28)
+        - [Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés. (art. L222-1)](#29)
+        - [Chapitre III : Les recherches biomédicales. (art. L223-1 à L223-3)](#30)
+        - [Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires. (art. L224-1)](#31)
+        - [Chapitre V : Les traitements de données à caractère personnel. (art. L225-1 à L225-2)](#32)
+      - [TITRE III : L'EXPÉRIMENTATION ANIMALE (art. L231-1 à L236-1)](#33)
+        - [Chapitre Ier : Dispositions générales. (art. L231-1 à L231-2)](#34)
+        - [Chapitre VI : Sanctions. (art. L236-1)](#35)
+      - [TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS (art. L241-1 à L241-3)](#36)
+        - [Chapitre unique. (art. L241-1 à L241-3)](#37)
+      - [TITRE V : AUTRES DOMAINES DE RECHERCHE (art. L251-1 à L254-1)](#38)
+        - [Chapitre Ier : La recherche scientifique marine. (art. L251-1)](#39)
+        - [Chapitre II : Les recherches sur la gestion des déchets radioactifs. (art. L252-1)](#40)
+        - [Chapitre III : Utilisation en recherche de certains produits chimiques. (art. L253-1 à L253-3)](#41)
+        - [Chapitre IV : La recherche en archéologie. (art. L254-1)](#42)
+      - [TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER. (art. L265-1 à L267-1)](#43)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L265-1)](#44)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L266-1)](#45)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L267-1)](#46)
+    - [LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L311-1 à L368-1)](#47)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L311-1 à L313-2)](#48)
+        - [Chapitre Ier : Les établissements publics de recherche. (art. L311-1 à L311-5)](#49)
+        - [Chapitre II : Les établissements publics d'enseignement supérieur et de recherche. (art. L312-1)](#50)
+        - [Chapitre III : La valorisation des résultats de la recherche. (art. L313-1 à L313-2)](#51)
+      - [TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L321-1 à L329-7)](#52)
+        - [Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique. (art. L321-1 à L321-4)](#53)
+        - [Chapitre VIII : Autres établissements à caractère administratif. (art. L328-1 à L328-3)](#54)
+          - [Section unique (art. L328-1 à L328-3)](#55)
+        - [Chapitre IX : L'Agence nationale de la recherche. (art. L329-1 à L329-7)](#56)
+      - [TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L331-1 à L332-9)](#57)
+        - [Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique. (art. L331-1 à L331-8)](#58)
+        - [Chapitre II : Etablissements de recherche dans le domaine de l'énergie. (art. L332-1 à L332-9)](#59)
+          - [Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA). (art. L332-1 à L332-7)](#60)
+          - [Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA). (art. L332-8)](#61)
+          - [Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME). (art. L332-9)](#62)
+      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L342-1 à L344-16)](#63)
+        - [Chapitre II : Les centres techniques industriels. (art. L342-1 à L342-13)](#64)
+        - [Chapitre III : Dispositions générales. (art. L343-1)](#65)
+        - [Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique (art.  à L343-1)](#66)
+        - [Chapitre IV : Les fondations de coopération scientifique (art. L344-11 à L344-16)](#67)
+      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L361-1 à L368-1)](#68)
+        - [Chapitre Ier : Dispositions relatives à Mayotte. (art. L361-1)](#69)
+        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#70)
+        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#71)
+        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#72)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#73)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#74)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#75)
+        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#76)
+    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#77)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L413-16)](#78)
+        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#79)
+        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#80)
+        - [Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L413-1 à L413-16)](#81)
+          - [Section 1 : Participation des personnels de la recherche à la création d'entreprises. (art. L413-1 à L413-7)](#82)
+          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante. (art. L413-8 à L413-11)](#83)
+          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme. (art. L413-12 à L413-14)](#84)
+          - [Section 4 : Dispositions générales. (art. L413-15 à L413-16)](#85)
+      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#86)
+        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#87)
+        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#88)
+      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#89)
+        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-3)](#90)
+        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#91)
+        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#92)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#93)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#94)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#95)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#96)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=2></a>
@@ -110,20 +109,32 @@ Version Consolidée au 2013-07-10
 
 ###### Article L111-1
 
-La politique de la recherche et du développement technologique vise à l'accroissement des connaissances, à la valorisation
-des résultats de la recherche, à la diffusion de l'information scientifique et à la promotion du français comme langue
-scientifique.
+La politique nationale de la recherche et du développement technologique vise à :
+
+1° Accroître les connaissances ;
+
+2° Partager la culture scientifique, technique et industrielle ;
+
+3° Valoriser les résultats de la recherche au service de la société. A cet effet, elle s'attache au développement de
+l'innovation, du transfert de technologie lorsque celui-ci est possible, de la capacité d'expertise et d'appui aux
+associations et fondations, reconnues d'utilité publique, et aux politiques publiques menées pour répondre aux défis
+sociétaux, aux besoins sociaux, économiques et du développement durable ;
+
+4° Promouvoir la langue française comme langue scientifique.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°82-610 1982-07-15 art. 5
   - Loi n°82-610 du 15 juillet 1982 - art. 5 (V)
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
+
+_Modifié par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 14
 
 _Cité par_:
 
@@ -224,19 +235,49 @@ _Cité par_:
 
 ###### Article L111-6
 
-Les choix en matière de programmation et d'orientation des actions de recherche sont arrêtés après une concertation étroite
-avec la communauté scientifique, d'une part, et les partenaires sociaux et économiques, d'autre part.
+Une stratégie nationale de recherche, comportant une programmation pluriannuelle des moyens, est élaborée et révisée tous les
+cinq ans sous la coordination du ministre chargé de la recherche en concertation avec la société civile. Cette stratégie vise
+à répondre aux défis scientifiques, technologiques, environnementaux et sociétaux en maintenant une recherche fondamentale de
+haut niveau. Elle comprend la valorisation des résultats de la recherche au service de la société. A cet effet, elle veille
+au développement de l'innovation, du transfert de technologie, de la capacité d'expertise et d'appui aux politiques publiques
+et aux associations et fondations, reconnues d'utilité publique. La culture scientifique, technique et industrielle fait
+partie de la stratégie nationale de recherche et est prise en compte dans sa mise en œuvre. 
+
+Les priorités en sont arrêtées après une concertation avec la communauté scientifique et universitaire, les partenaires
+sociaux et économiques et des représentants des associations et fondations, reconnues d'utilité publique, les ministères
+concernés et les collectivités territoriales, en particulier les régions. Le ministre chargé de la recherche veille à la
+cohérence de la stratégie nationale avec celle élaborée dans le cadre de l'Union européenne et à ce que des informations
+sensibles à caractère stratégique pour la compétitivité ou la défense des intérêts nationaux soient préservées. 
+
+La stratégie nationale de recherche et les conditions de sa mise en œuvre font l'objet d'un rapport biennal de l'office
+parlementaire d'évaluation des choix scientifiques et technologiques, délégation mentionnée à l'article 6 ter de l'ordonnance
+n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires, qui inclut l'analyse de l'efficacité
+des aides publiques à la recherche privée. Les éléments quantitatifs de ce rapport sont composés de données sexuées. 
+
+Les contrats pluriannuels conclus avec les organismes de recherche et les établissements d'enseignement supérieur, la
+programmation de l'Agence nationale de la recherche ainsi que les autres financements publics de la recherche concourent à la
+mise en œuvre de la stratégie nationale de recherche. 
+
+L'office parlementaire d'évaluation des choix scientifiques et technologiques, délégation mentionnée à l'article 6 ter de
+l'ordonnance n° 58-1100 du 17 novembre 1958 précitée, contribue à l'évaluation de la mise en œuvre de cette stratégie.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 ter
+
 _Anciens textes_:
 
-  - Loi n°82-610 1982-07-15 art. 10
   - Loi n°82-610 du 15 juillet 1982 - art. 10 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
+
+_Modifié par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 15
 
 _Cité par_:
 
@@ -365,13 +406,25 @@ La recherche publique a pour objectifs :
 
 a) Le développement et le progrès de la recherche dans tous les domaines de la connaissance ;
 
-b) La valorisation des résultats de la recherche ;
+b) La valorisation des résultats de la recherche au service de la société, qui s'appuie sur l'innovation et le transfert de
+technologie  ;
 
-c) Le partage et la diffusion des connaissances scientifiques ;
+c) Le partage et la diffusion des connaissances scientifiques en donnant priorité aux formats libres d'accès  ;
 
-c bis) Le développement d'une capacité d'expertise ;
+c bis) Le développement d'une capacité d'expertise et d'appui aux associations et fondations, reconnues d'utilité publique,
+et aux politiques publiques menées pour répondre aux défis sociétaux, aux besoins sociaux, économiques et du développement
+durable  ;
 
-d) La formation à la recherche et par la recherche.
+d) La formation à la recherche et par la recherche ;
+
+e) L'organisation de l'accès libre aux données scientifiques. 
+
+Les établissements publics de recherche et les établissements d'enseignement supérieur favorisent le développement des
+travaux de coopération avec les associations et fondations, reconnues d'utilité publique. Ils participent à la promotion de
+la recherche participative et au développement des capacités d'innovation technologique et sociale de la Nation. Ces
+coopérations s'exercent dans le respect de l'indépendance des chercheurs et, en l'absence de clauses contraires, dans un but
+non lucratif. Les travaux de recherche menés dans le cadre de ces coopérations sont, en l'absence de clauses contraires,
+rendus publics et accessibles.
 
 **Liens relatifs à cet article**
 
@@ -399,12 +452,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Modifié par_:
 
-  - loi n°2006-450 du 18 avril 2006 - art. 12 () JORF 19 avril 2006
-  - loi n°2006-450 du 18 avril 2006 - art. 14 () JORF 19 avril 2006
+  - Loi n°2013-660 du 22 juillet 2013 - art. 16
 
 
 ###### Article L112-2
@@ -435,54 +487,17 @@ _Cité par_:
 ###### Article L112-3
 
 La recherche constitue une des missions du service public de l'enseignement supérieur conformément aux dispositions des
-articles L. 123-3 à L. 123-9 du code de l'éducation, et notamment aux dispositions de l'article L. 123-5, ci-après
-reproduites : 
-
-" Art.L. 123-5.-Le service public de l'enseignement supérieur s'attache à développer et à valoriser, dans toutes les
-disciplines et, notamment, les sciences humaines et sociales, la recherche fondamentale, la recherche appliquée et la
-technologie. 
-
-" Il assure la liaison nécessaire entre les activités d'enseignement et de recherche. Il offre un moyen privilégié de
-formation à la recherche et par la recherche. 
-
-" Il participe à la politique de développement scientifique et technologique, reconnue comme priorité nationale, en liaison
-avec les grands organismes nationaux de recherche. Il contribue à la mise en oeuvre des objectifs définis par le code de la
-recherche. 
-
-" Il concourt à la politique d'aménagement du territoire par l'implantation et le développement dans les régions d'équipes de
-haut niveau scientifique. Il renforce les liens avec les secteurs socio-économiques publics et privés. 
-
-" Il améliore le potentiel scientifique de la nation en encourageant les travaux des jeunes chercheurs et de nouvelles
-équipes en même temps que ceux des formations confirmées, en favorisant les rapprochements entre équipes relevant de
-disciplines complémentaires ou d'établissements différents, en développant diverses formes d'association avec les grands
-organismes publics de recherche, en menant une politique de coopération et de progrès avec la recherche industrielle et
-l'ensemble des secteurs de la production. 
-
-" Les conditions dans lesquelles les établissements, pôles de recherche et d'enseignement supérieur et réseaux thématiques de
-recherche avancée qui participent à ce service public assurent, par voie de convention, des prestations de services,
-exploitent des brevets et licences et commercialisent les produits de leurs activités sont fixées par leurs statuts. En vue
-de la valorisation des résultats de la recherche dans leurs domaines d'activité, ils peuvent, par convention et pour une
-durée limitée avec information de l'instance scientifique compétente, fournir à des entreprises ou à des personnes physiques
-des moyens de fonctionnement, notamment en mettant à leur disposition des locaux, des équipements et des matériels, dans des
-conditions fixées par décret ; ce décret définit en particulier les prestations de services qui peuvent faire l'objet de ces
-conventions, les modalités de leur évaluation et celles de la rémunération des établissements, pôles de recherche et
-d'enseignement supérieur et réseaux thématiques de recherche avancée. 
-
-" Les activités mentionnées au précédent alinéa peuvent être gérées par des services d'activités industrielles et
-commerciales dans les conditions fixées par l'article L. 714-1. Pour le fonctionnement de ces services et la réalisation de
-ces activités, les établissements, pôles de recherche et d'enseignement supérieur et réseaux thématiques de recherche avancée
-peuvent recruter, dans des conditions définies, en tant que de besoin, par décret en Conseil d'Etat, des agents non
-titulaires par des contrats de droit public à durée déterminée ou indéterminée. "
+articles L. 123-3 à L. 123-9 du code de l'éducation, et notamment aux dispositions de l'article L. 123-5.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Modifié par_:
 
-  - loi n°2006-450 du 18 avril 2006 - art. 22 () JORF 19 avril 2006
+  - Loi n°2013-660 du 22 juillet 2013 - art. 18
 
 _Cité par_:
 
@@ -490,7 +505,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation L123-3 à L123-9
+  - Code de l'éducation - art. L123-3
+  - Code de l'éducation - art. L123-5
 
 
 ###### Article L112-4
@@ -665,6 +681,30 @@ _Cité par_:
   - Code de la recherche - art. L147-1 (V)
 
 
+###### Article L113-4
+
+L'office parlementaire d'évaluation des choix scientifiques et technologiques, délégation mentionnée à l'
+article 6 ter de l'ordonnance n° 58-1100 du 17 novembre 1958
+relative au fonctionnement des assemblées parlementaires, procède tous les trois ans à une analyse de l'efficacité de la
+dépense publique, budgétaire ou fiscale consentie par l'Etat à la recherche conduite dans le secteur privé, y compris la
+recherche partenariale associant des structures publiques et privées. Les résultats de cette étude font l'objet d'un rapport
+transmis au Gouvernement et aux commissions permanentes compétentes de l'Assemblée nationale et du Sénat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 ter
+
+_Créé par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 87
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+
+
 #### Chapitre IV : Evaluation et contrôle de la recherche et du développement technologique.<a id=9></a>
 
 ##### Section 1 : Objectifs de l'évaluation<a id=10></a>
@@ -675,7 +715,9 @@ Les activités de recherche financées en tout ou partie sur fonds publics, réa
 sont évaluées sur la base de critères objectifs adaptés à chacune d'elles et s'inspirant des meilleures pratiques
 internationales.
 
-Parmi ces critères, les contributions au développement de la culture scientifique sont prises en compte.
+Parmi ces critères, les contributions au développement de la culture scientifique et les actions en faveur de la
+participation du public à la prospection, à la collecte de données et au progrès de la connaissance scientifique sont prises
+en compte.
 
 **Liens relatifs à cet article**
 
@@ -685,11 +727,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Modifié par_:
 
-  - loi n°2006-450 du 18 avril 2006 - art. 9 () JORF 19 avril 2006
+  - Loi n°2013-660 du 22 juillet 2013 - art. 88
 
 _Cité par_:
 
@@ -704,10 +746,6 @@ _Cité par_:
   - Code de la recherche - art. L145-1 (M)
   - Code de la recherche - art. L146-1 (V)
   - Code de la recherche - art. L147-1 (V)
-
-_Cite_:
-
-  - Code de la recherche - art. L113-2 (M)
 
 
 ###### Article L114-1-1
@@ -787,35 +825,58 @@ _Modifié par_:
   - loi n°2006-450 du 18 avril 2006 - art. 9 () JORF 19 avril 2006
 
 
-##### Section 2 : L'Agence d'évaluation de la recherche et de l'enseignement supérieur.<a id=11></a>
+##### Section 2 : Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur.<a id=11></a>
 
 ###### Article L114-3-1
 
-L'Agence d'évaluation de la recherche et de l'enseignement supérieur est une autorité administrative indépendante.
+Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur est une autorité administrative indépendante. 
 
-L'agence est chargée :
+Pour l'exercice de ses missions, le Haut Conseil s'inspire des meilleures pratiques internationales. Il fonde son action, en
+ce qui concerne les critères d'évaluation, sur les principes d'objectivité, de transparence et d'égalité de traitement entre
+les structures examinées et, en ce qui concerne le choix des personnes chargées de l'évaluation, sur les principes
+d'expertise scientifique au meilleur niveau international, de neutralité et d'équilibre dans la représentation des
+thématiques et des opinions. Il veille à la prévention des conflits d'intérêts dans la constitution des comités d'experts
+chargés de conduire les évaluations. Il peut conduire directement des évaluations ou s'assurer de la qualité des évaluations
+réalisées par d'autres instances en validant les procédures retenues. Il met en mesure les structures et établissements qu'il
+évalue directement de présenter, à leur demande, des observations tout au long et à l'issue de la procédure d'évaluation. 
 
-1° D'évaluer les établissements et organismes de recherche, les établissements d'enseignement supérieur et de recherche, les
-établissements et les fondations de coopération scientifique ainsi que l'Agence nationale de la recherche, en tenant compte
-de l'ensemble de leurs missions et de leurs activités ;
+Il est chargé : 
 
-2° D'évaluer les activités de recherche conduites par les unités de recherche des établissements et organismes mentionnés au
-1° ; elle conduit ces évaluations soit directement, soit en s'appuyant sur les établissements et organismes selon des
-procédures qu'elle a validées ;
+1° D'évaluer les établissements d'enseignement supérieur et leurs regroupements, définis à l'article L. 718-3 du code de
+l'éducation, les organismes de recherche, les fondations de coopération scientifique et l'Agence nationale de la recherche
+ou, le cas échéant, de s'assurer de la qualité des évaluations conduites par d'autres instances ; 
 
-3° D'évaluer les formations et les diplômes des établissements d'enseignement supérieur ;
+2° D'évaluer les unités de recherche à la demande de l'établissement dont elles relèvent, en l'absence de validation des
+procédures d'évaluation ou en l'absence de décision de l'établissement dont relèvent ces unités de recourir à une autre
+instance ou, le cas échéant, de valider les procédures d'évaluation des unités de recherche par d'autres instances. 
 
-4° De valider les procédures d'évaluation des personnels des établissements et organismes mentionnés au 1° et de donner son
-avis sur les conditions dans lesquelles elles sont mises en oeuvre.
+Lorsqu'une unité relève de plusieurs établissements, il n'est procédé qu'à une seule évaluation. Lorsque les établissements
+décident conjointement de recourir à une autre instance, le Haut Conseil valide les procédures d'évaluation mises en œuvre
+par cette instance. En l'absence de décision conjointe des établissements de recourir à une autre instance ou en l'absence de
+validation des procédures d'évaluation, le Haut Conseil évalue l'unité de recherche ; 
 
-Elle peut également participer, dans le cadre de programmes de coopération européens ou internationaux ou à la demande des
-autorités compétentes, à l'évaluation d'organismes étrangers ou internationaux de recherche et d'enseignement supérieur.
+3° D'évaluer les formations et diplômes des établissements d'enseignement supérieur ou, le cas échéant, de valider les
+procédures d'évaluation réalisées par d'autres instances. 
 
-Des documents élaborés par les structures privées sur l'utilisation des aides publiques à la recherche lui sont communiqués.
+Lorsque ces formations font l'objet d'une demande d'accréditation prévue à l'article L. 613-1 du code de l'éducation,
+l'évaluation est préalable à l'accréditation ou à sa reconduction. Le Haut Conseil s'assure de la conformité de la formation
+au cadre national des formations et de l'effectivité de la participation des étudiants à l'évaluation des enseignements ; 
 
-A ce titre, l'agence veille à ce que les procédures d'évaluation mises en œuvre prennent en compte les activités d'expertise
-conduites par ces personnels dans le cadre de commissions à caractère consultatif placées auprès d'une autorité de l'Etat,
-quelles que soient leurs dénominations, ou dans le cadre des activités d'une autorité administrative indépendante.
+4° De s'assurer de la prise en compte, dans les évaluations des personnels de l'enseignement supérieur et de la recherche, de
+l'ensemble des missions qui leur sont assignées par la loi et leurs statuts particuliers. Les missions réalisées dans le
+cadre des dispositifs prévus au chapitre III du titre Ier du livre IV du présent code sont intégrées à cette évaluation ; 
+
+5° De s'assurer de la valorisation des activités de diffusion de la culture scientifique, technique et industrielle dans la
+carrière des personnels de l'enseignement supérieur et de la recherche ; 
+
+6° D'évaluer a posteriori les programmes d'investissement ainsi que les structures de droit privé recevant des fonds publics
+destinés à la recherche ou à l'enseignement supérieur. 
+
+Il peut également participer, dans le cadre de programmes de coopération européens ou internationaux ou à la demande des
+autorités compétentes, à l'évaluation d'organismes étrangers ou internationaux de recherche et d'enseignement supérieur. 
+
+Le décret en Conseil d'Etat mentionné à l'article L. 114-3-6 détermine les règles de confidentialité et de publicité des
+évaluations des unités de recherche.
 
 **Liens relatifs à cet article**
 
@@ -856,18 +917,24 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-595 du 25 juin 2008 - art. 16
+  - Loi n°2013-660 du 22 juillet 2013 - art. 90
+
+_Cite_:
+
+  - Code de la recherche - art. L114-3-6
+  - Code de l'éducation - art. L613-1
+  - Code de l'éducation - art. L718-3
 
 
 ###### Article L114-3-2
 
-L'Agence d'évaluation de la recherche et de l'enseignement supérieur tient compte des résultats obtenus dans le domaine de la
-valorisation de la recherche pour remplir sa mission d'évaluation des établissements mentionnée au 1° de l'article L.
-114-3-1. 
+Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur tient compte des résultats obtenus dans le
+domaine de la valorisation de la recherche pour remplir sa mission d'évaluation des établissements mentionnée au 1° de
+l'article L. 114-3-1. 
 
-À cette fin, ces établissements communiquent à l'agence toutes les informations et pièces se rapportant à leurs activités de
-valorisation, notamment celles relatives à l'exploitation des résultats issus de leurs recherches par des entreprises
-employant moins de deux cent cinquante salariés domiciliées sur le territoire de l'Union européenne. 
+À cette fin, ces établissements communiquent au Haut Conseil toutes les informations et pièces se rapportant à leurs
+activités de valorisation, notamment celles relatives à l'exploitation des résultats issus de leurs recherches par des
+entreprises employant moins de deux cent cinquante salariés domiciliées sur le territoire de l'Union européenne. 
 
 Le bilan des actions des établissements en faveur de la valorisation de la recherche fait l'objet d'un développement
 spécifique dans les annexes générales relatives au budget coordonné de l'enseignement supérieur et au budget de la recherche
@@ -877,11 +944,11 @@ et du développement technologique.
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
-_Créé par_:
+_Modifié par_:
 
-  - n°2006-450 du 18 avril 2006 - art. 9 () JORF 19 avril 2006
+  - Loi n°2013-660 du 22 juillet 2013 - art. 93
 
 _Cité par_:
 
@@ -890,40 +957,52 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la recherche - art. L114-3-1 (V)
+  - Code de la recherche - art. L114-3-1
 
 
 ###### Article L114-3-3
 
-L'agence est administrée par un conseil.
+I.-Le Haut Conseil est administré par un conseil garant de la qualité de ses travaux. 
 
-Le conseil définit les mesures propres à garantir la qualité, la transparence et la publicité des procédures d'évaluation.
+II.-Le conseil arrête le programme annuel d'évaluation du Haut Conseil. Il définit les mesures propres à garantir la qualité,
+la transparence et la publicité des procédures d'évaluation. 
 
-Son président, nommé parmi ses membres, dirige l'agence et a autorité sur ses personnels.
+Son président, nommé parmi ses membres, dirige le Haut Conseil et a autorité sur ses personnels. 
 
-Le conseil est composé de vingt-cinq membres français, communautaires ou internationaux, reconnus pour la qualité de leurs
-travaux scientifiques, nommés par décret. Il comprend :
+Le conseil est composé de trente membres nommés par décret. Il comprend autant d'hommes que de femmes. A cette fin, le décret
+en Conseil d'Etat prévu à l'article L. 114-3-6 précise le nombre et la répartition par sexe des candidats proposés par
+chacune des instances, autorités et associations compétentes. 
 
-1° Neuf personnalités qualifiées, dont un tiers au moins issu du secteur de la recherche privée ;
+Le conseil comprend : 
 
-2° Sept membres ayant la qualité de chercheurs, d'ingénieurs ou d'enseignants-chercheurs, sur proposition des directeurs ou
-présidents des établissements publics d'enseignement supérieur et de recherche et des organismes de recherche ;
+1° Neuf membres ayant la qualité de chercheur, d'ingénieur ou d'enseignant-chercheur, nommés sur proposition des instances
+d'évaluation compétentes en matière d'enseignement supérieur et de recherche parmi leurs membres élus, dont au moins trois
+sur proposition de l'instance nationale mentionnée à l'article L. 952-6 du code de l'éducation et au moins trois sur
+proposition des instances d'évaluation mentionnées à l'article L. 321-2 du présent code ; 
 
-3° Sept membres ayant la qualité de chercheurs, d'ingénieurs ou d'enseignants-chercheurs, sur proposition des instances
-d'évaluation compétentes en matière d'enseignement supérieur et de recherche, notamment celles mentionnées à l'article L.
-952-6 du code de l'éducation et à l'article L. 321-2 du présent code ;
+2° Huit membres ayant la qualité de chercheur, d'ingénieur ou d'enseignant-chercheur, dont trois sur proposition des
+présidents ou directeurs d'organismes de recherche et trois sur proposition des conférences des chefs d'établissements
+mentionnées à l'article L. 233-1 du code de l'éducation ; 
 
-4° Deux parlementaires membres de l'Office parlementaire d'évaluation des choix scientifiques et technologiques.
+3° Deux membres représentant les étudiants, sur proposition des associations d'étudiants en fonction du nombre de voix
+obtenues par ces associations lors de l'élection des représentants des étudiants au Conseil national de l'enseignement
+supérieur et de la recherche ; 
+
+4° Neuf personnalités qualifiées, françaises et étrangères, dont au moins trois issues du secteur de la recherche privée et
+trois appartenant à des agences d'accréditation ou d'évaluation étrangères ; 
+
+5° Un député et un sénateur désignés par la commission permanente compétente en matière d'enseignement supérieur et de
+recherche de chaque assemblée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
-_Créé par_:
+_Modifié par_:
 
-  - n°2006-450 du 18 avril 2006 - art. 9 () JORF 19 avril 2006
+  - Loi n°2013-660 du 22 juillet 2013 - art. 92
 
 _Cité par_:
 
@@ -937,15 +1016,17 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la recherche - art. L321-2 (V)
-  - Code de l'éducation - art. L952-6 (M)
+  - Code de la recherche - art. L114-3-6
+  - Code de la recherche - art. L321-2
+  - Code de l'éducation - art. L233-1
+  - Code de l'éducation - art. L952-6
 
 
-###### Article L114-3-4
+###### Article L114-3-5
 
-L'agence est composée de sections dirigées par des personnalités justifiant d'une expérience en matière d'évaluation
-scientifique, nommées par le conseil de l'agence, sur proposition du président. Ces sections comprennent des personnalités
-étrangères, notamment issues d'États membres de l'Union européenne.
+Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur peut, sur demande motivée, exiger de la part
+des établissements et des unités de recherche qu'il évalue, toutes informations et pièces utiles à l'exercice de sa mission.
+Il dispose d'un pouvoir d'investigation sur pièces et sur place.
 
 **Liens relatifs à cet article**
 
@@ -953,38 +1034,9 @@ _Codifié par_:
 
   - Ordonnance n°2004-545 du 11 juin 2004
 
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 9 () JORF 19 avril 2006
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°2013-660 du 22 juillet 2013 - art. 93
-
-_Cité par_:
-
-  - Code de la recherche - art. L141-1 (Ab)
-  - Code de la recherche - art. L142-1 (Ab)
-  - Code de la recherche - art. L143-1 (Ab)
-  - Code de la recherche - art. L144-1 (Ab)
-  - Code de la recherche - art. L145-1 (V)
-
-
-###### Article L114-3-5
-
-L'Agence d'évaluation de la recherche et de l'enseignement supérieur peut, sur demande motivée, exiger de la part des
-établissements et des unités de recherche qu'elle évalue, toutes informations et pièces utiles à l'exercice de sa mission.
-Elle dispose d'un pouvoir d'investigation sur pièces et sur place.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 9 () JORF 19 avril 2006
 
 _Cité par_:
 
@@ -998,7 +1050,7 @@ _Cité par_:
 
 ###### Article L114-3-6
 
-Un décret en Conseil d'État précise l'organisation et le fonctionnement de l'Agence d'évaluation de la recherche et de
+Un décret en Conseil d'État précise l'organisation et le fonctionnement du Haut Conseil de l'évaluation de la recherche et de
 l'enseignement supérieur, notamment la durée du mandat des membres et du président, ainsi que les règles de déontologie
 s'appliquant à ses membres afin de garantir leur indépendance et leur impartialité.
 
@@ -1006,11 +1058,7 @@ s'appliquant à ses membres afin de garantir leur indépendance et leur impartia
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 9 () JORF 19 avril 2006
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Cité par_:
 
@@ -1026,21 +1074,21 @@ _Cité par_:
   - Code de la recherche - art. L145-1 (V)
   - Code de la recherche - art. L146-1 (M)
 
+_Modifié par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 93
+
 
 ###### Article L114-3-7
 
-L'Agence d'évaluation de la recherche et de l'enseignement supérieur remet chaque année au Gouvernement un rapport sur ses
-travaux. Ce rapport est transmis au Parlement et au Haut Conseil de la science et de la technologie.
+Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur remet chaque année au Gouvernement un rapport
+sur ses travaux. Ce rapport est transmis au Parlement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 9 () JORF 19 avril 2006
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Cité par_:
 
@@ -1048,6 +1096,14 @@ _Cité par_:
   - Décret n°2014-1365 du 14 novembre 2014 - art. 2 (V)
   - Code de la recherche - art. L146-1 (M)
   - Code rural et de la pêche maritime - art. D812-27 (V)
+
+_Modifié par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 93
+
+_Abrogé par_:
+
+  - Loi n°2017-55 du 20 janvier 2017 - art. 44
 
 
 ##### Section 3 : Dispositions diverses relatives à l'évaluation et au contrôle<a id=12></a>
@@ -1075,7 +1131,7 @@ _Cite_:
 ###### Article L114-5
 
 Le Gouvernement présente au Parlement un rapport triennal sur l'application des dispositions des articles L. 311-2 et L.
-311-3, de l'article L. 321-4, des articles L. 321-5, L. 413-1 à L. 413-16 du présent code, des deux derniers alinéas de
+311-3, de l'article L. 321-4, des articles L. 313-1, L. 413-1 à L. 413-16 du présent code, des deux derniers alinéas de
 l'article L. 123-5, du dernier alinéa de l'article L. 123-6, des articles L. 423-1 et L. 423-3, du dernier alinéa de
 l'article L. 711-1, des articles L. 912-2 et L. 932-4 du code de l'éducation. Ce rapport comporte notamment l'avis du Conseil
 national de l'enseignement supérieur et de la recherche sur la mise en oeuvre des conventions passées entre les
@@ -1090,11 +1146,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Modifié par_:
 
-  - loi n°2006-450 du 18 avril 2006 - art. 10 () JORF 19 avril 2006
+  - Loi n°2013-660 du 22 juillet 2013 - art. 129 (V)
 
 _Cité par_:
 
@@ -1104,11 +1160,17 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la recherche - art. L321-4 (V)
-  - Code de la recherche - art. L321-5 (M)
-  - Code de la recherche L321-5, L413-1 à L413-16, L321-4, L123-5, L123-6, L711-1
-  - Code de l'éducation - art. L912-2 (V)
-  - Code de l'éducation - art. L932-4 (V)
+  - Code de la recherche - art. L311-2
+  - Code de la recherche - art. L313-1
+  - Code de la recherche - art. L321-4
+  - Code de la recherche - art. L413-1
+  - Code de l'éducation - art. L123-5
+  - Code de l'éducation - art. L123-6
+  - Code de l'éducation - art. L423-1
+  - Code de l'éducation - art. L423-3
+  - Code de l'éducation - art. L711-1
+  - Code de l'éducation - art. L912-2
+  - Code de l'éducation - art. L932-4
 
 
 ###### Article L114-6
@@ -1135,7 +1197,51 @@ _Créé par_:
 
 ### TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=13></a>
 
-#### Chapitre III : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER).<a id=14></a>
+#### Chapitre préliminaire : Le Conseil stratégique de la recherche.<a id=14></a>
+
+###### Article L120-1
+
+Il est créé un Conseil stratégique de la recherche placé auprès du Premier ministre et comprenant autant de femmes que
+d'hommes. 
+
+Le Conseil stratégique de la recherche propose les grandes orientations de la stratégie nationale de recherche définie à
+l'article L. 111-6 et participe à l'évaluation de leur mise en œuvre. 
+
+Le Conseil stratégique est présidé par le Premier ministre ou, par délégation, par le ministre chargé de la recherche. 
+
+Il comprend notamment un député et un sénateur désignés par l'office parlementaire d'évaluation des choix scientifiques et
+technologiques, délégation mentionnée à l'article 6 ter de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au
+fonctionnement des assemblées parlementaires. 
+
+Il comprend un représentant des régions. 
+
+Un décret précise la composition et les missions, l'organisation et le fonctionnement du Conseil stratégique de la recherche.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 ter
+  - Code de la recherche - art. L111-6
+
+_Codifié par_:
+
+  - Ordonnance n°2004-545 du 11 juin 2004
+
+_Modifié par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 95
+
+_Cité par_:
+
+  - Décret n°2013-943 du 21 octobre 2013 (V)
+  - Décret n°2013-943 du 21 octobre 2013 - art. 1 (VD)
+  - Code de la recherche - art. L145-1 (V)
+  - Code de la recherche - art. L146-1 (V)
+  - Code de la recherche - art. L147-1 (V)
+
+
+#### Chapitre III : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER).<a id=15></a>
 
 ###### Article L123-1
 
@@ -1157,9 +1263,9 @@ _Cite_:
   - Code de l'éducation - art. L232-1
 
 
-### TITRE III : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=15></a>
+### TITRE III : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=16></a>
 
-#### Chapitre Ier : Le crédit d'impôt-recherche.<a id=16></a>
+#### Chapitre Ier : Le crédit d'impôt-recherche.<a id=17></a>
 
 ###### Article L131-1
 
@@ -1228,7 +1334,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L135 D
 
 
-#### Chapitre II : Les fonds communs de placement dans l'innovation (FCPI).<a id=17></a>
+#### Chapitre II : Les fonds communs de placement dans l'innovation (FCPI).<a id=18></a>
 
 ###### Article L132-1
 
@@ -1254,7 +1360,7 @@ _Cite_:
   - Code monétaire et financier - art. L214-30
 
 
-#### Chapitre III : L'aide à l'innovation.<a id=18></a>
+#### Chapitre III : L'aide à l'innovation.<a id=19></a>
 
 ###### Article L133-1
 
@@ -1278,9 +1384,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 sexies-0 A
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=19></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=20></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=20></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=21></a>
 
 ###### Article L145-1
 
@@ -1304,7 +1410,7 @@ _Cite_:
   - Code de la recherche - art. L114-5
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=21></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=22></a>
 
 ###### Article L146-1
 
@@ -1338,7 +1444,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=22></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=23></a>
 
 ###### Article L147-1
 
@@ -1364,11 +1470,11 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 1
 
 
-## LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE<a id=23></a>
+## LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE<a id=24></a>
 
-### TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE<a id=24></a>
+### TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE<a id=25></a>
 
-#### Chapitre unique<a id=25></a>
+#### Chapitre unique<a id=26></a>
 
 ###### Article L211-1
 
@@ -1382,9 +1488,9 @@ _Modifié par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 
-### TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE<a id=26></a>
+### TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE<a id=27></a>
 
-#### Chapitre Ier : La génétique.<a id=27></a>
+#### Chapitre Ier : La génétique.<a id=28></a>
 
 ###### Article L221-1
 
@@ -1442,7 +1548,7 @@ _Cite_:
   - Code de la santé publique - art. L1131-4 (V)
 
 
-#### Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés.<a id=28></a>
+#### Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés.<a id=29></a>
 
 ###### Article L222-1
 
@@ -1478,7 +1584,7 @@ _Cite_:
   - Code de la santé publique - art. L1245-5
 
 
-#### Chapitre III : Les recherches biomédicales.<a id=29></a>
+#### Chapitre III : Les recherches biomédicales.<a id=30></a>
 
 ###### Article L223-1
 
@@ -1525,7 +1631,7 @@ _Cite_:
   - Code pénal - art. 223-8 (V)
 
 
-#### Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires.<a id=30></a>
+#### Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires.<a id=31></a>
 
 ###### Article L224-1
 
@@ -1544,7 +1650,7 @@ _Cite_:
   - Code de la santé publique - art. L2151-5
 
 
-#### Chapitre V : Les traitements de données à caractère personnel.<a id=31></a>
+#### Chapitre V : Les traitements de données à caractère personnel.<a id=32></a>
 
 ###### Article L225-1
 
@@ -1606,9 +1712,9 @@ _Cite_:
   - Code pénal - art. 226-19-1
 
 
-### TITRE III : L'EXPÉRIMENTATION ANIMALE<a id=32></a>
+### TITRE III : L'EXPÉRIMENTATION ANIMALE<a id=33></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=33></a>
+#### Chapitre Ier : Dispositions générales.<a id=34></a>
 
 ###### Article L231-1
 
@@ -1644,7 +1750,7 @@ _Cite_:
   - Code de la santé publique - art. L5144-3 (V)
 
 
-#### Chapitre VI : Sanctions.<a id=34></a>
+#### Chapitre VI : Sanctions.<a id=35></a>
 
 ###### Article L236-1
 
@@ -1662,9 +1768,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-### TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS<a id=35></a>
+### TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS<a id=36></a>
 
-#### Chapitre unique.<a id=36></a>
+#### Chapitre unique.<a id=37></a>
 
 ###### Article L241-1
 
@@ -1716,9 +1822,9 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 
-### TITRE V : AUTRES DOMAINES DE RECHERCHE<a id=37></a>
+### TITRE V : AUTRES DOMAINES DE RECHERCHE<a id=38></a>
 
-#### Chapitre Ier : La recherche scientifique marine.<a id=38></a>
+#### Chapitre Ier : La recherche scientifique marine.<a id=39></a>
 
 ###### Article L251-1
 
@@ -1752,7 +1858,7 @@ _Cité par_:
   - Code de la recherche - art. L267-1 (V)
 
 
-#### Chapitre II : Les recherches sur la gestion des déchets radioactifs.<a id=39></a>
+#### Chapitre II : Les recherches sur la gestion des déchets radioactifs.<a id=40></a>
 
 ###### Article L252-1
 
@@ -1766,7 +1872,7 @@ _Codifié par_:
   - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
 
-#### Chapitre III : Utilisation en recherche de certains produits chimiques.<a id=40></a>
+#### Chapitre III : Utilisation en recherche de certains produits chimiques.<a id=41></a>
 
 ###### Article L253-1
 
@@ -1819,7 +1925,7 @@ _Cite_:
   - Code de la défense. - art. L2342-8 (V)
 
 
-#### Chapitre IV : La recherche en archéologie.<a id=41></a>
+#### Chapitre IV : La recherche en archéologie.<a id=42></a>
 
 ###### Article L254-1
 
@@ -1833,9 +1939,9 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 
-### TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER.<a id=42></a>
+### TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER.<a id=43></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=43></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=44></a>
 
 ###### Article L265-1
 
@@ -1852,7 +1958,7 @@ _Cite_:
   - Code de la recherche - art. L251-1
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=44></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=45></a>
 
 ###### Article L266-1
 
@@ -1876,7 +1982,7 @@ _Cité par_:
   - Code de la recherche - art. L146-1 (V)
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=45></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=46></a>
 
 ###### Article L267-1
 
@@ -1895,16 +2001,21 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 
-## LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=46></a>
+## LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=47></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=47></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=48></a>
 
-#### Chapitre Ier : Les établissements publics de recherche.<a id=48></a>
+#### Chapitre Ier : Les établissements publics de recherche.<a id=49></a>
 
 ###### Article L311-1
 
 Les établissements publics de recherche ont soit un caractère industriel et commercial, soit un caractère administratif. Les
 établissements publics à caractère scientifique et technologique ont un caractère administratif.
+
+Les dirigeants des établissements publics à caractère scientifique et technologique et le directeur général de l'Agence
+nationale de la recherche sont choisis après un appel public à candidatures et l'examen de ces candidatures par une
+commission dont la composition et le fonctionnement sont fixés par les statuts de l'établissement et dont les membres sont
+nommés par les ministres de tutelle.
 
 **Liens relatifs à cet article**
 
@@ -1915,7 +2026,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
+
+_Modifié par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 96
 
 _Cité par_:
 
@@ -1935,18 +2050,17 @@ _Cité par_:
 
 Tout établissement public de recherche conclut avec l'Etat des contrats pluriannuels qui définissent, pour l'ensemble de ses
 activités, les objectifs de l'établissement ainsi que les engagements réciproques des parties. L'exécution de ces contrats
-fait l'objet d'une évaluation.
+fait l'objet d'une évaluation. 
 
-L'État tient compte des résultats de l'évaluation réalisée par l'Agence d'évaluation de la recherche et de l'enseignement
-supérieur, en particulier des résultats obtenus en application des dispositions de l'article L. 114-3-2 du code de la
-recherche, pour déterminer les engagements financiers qu'il prend envers les établissements dans le cadre des contrats
-pluriannuels susmentionnés.
+L'État tient compte des résultats de l'évaluation réalisée par le Haut Conseil de l'évaluation de la recherche et de
+l'enseignement supérieur, en particulier des résultats obtenus en application des dispositions de l'article L. 114-3-2 du
+code de la recherche, pour déterminer les engagements financiers qu'il prend envers les établissements dans le cadre des
+contrats pluriannuels susmentionnés.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°82-610 1982-07-15 art. 14
   - Loi n°82-610 du 15 juillet 1982 - art. 14 (V)
 
 _Cité par_:
@@ -1964,15 +2078,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Modifié par_:
 
-  - loi n°2006-450 du 18 avril 2006 - art. 8 () JORF 19 avril 2006
+  - Loi n°2013-660 du 22 juillet 2013 - art. 93
 
 _Cite_:
 
-  - Code de la recherche - art. L114-3-2 (V)
+  - Code de la recherche - art. L114-3-2
 
 
 ###### Article L311-3
@@ -2012,7 +2126,26 @@ _Créé par_:
   - Loi n°2010-1536 du 13 décembre 2010 - art. 5
 
 
-#### Chapitre II : Les établissements publics d'enseignement supérieur et de recherche.<a id=49></a>
+###### Article L311-5
+
+En l'absence de dispositions particulières prévues par les textes réglementaires régissant l'établissement ou ses personnels,
+la limite d'âge des présidents, des directeurs et des personnes qui, quel que soit leur titre, exercent la fonction de chef
+d'établissement des établissements publics de recherche est fixée à soixante-huit ans.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 96
+
+_Cité par_:
+
+  - Code de la recherche - art. L365-1 (V)
+  - Code de la recherche - art. L366-1 (V)
+  - Code de la recherche - art. L367-1 (V)
+
+
+#### Chapitre II : Les établissements publics d'enseignement supérieur et de recherche.<a id=50></a>
 
 ###### Article L312-1
 
@@ -2040,14 +2173,13 @@ _Cité par_:
   - Code de la recherche - art. L367-1 (V)
 
 
-#### Chapitre III : La valorisation des résultats de la recherche.<a id=50></a>
+#### Chapitre III : La valorisation des résultats de la recherche.<a id=51></a>
 
 ###### Article L313-1
 
 Dans le cadre des objectifs définis à l'article L. 112-1, les établissements publics à caractère scientifique et
-technologique, les pôles de recherche et d'enseignement supérieur ainsi que les réseaux thématiques de recherche avancée
-peuvent assurer par convention des prestations de service, gérer des contrats de recherche, exploiter des brevets et licences
-et commercialiser les produits de leurs activités. 
+technologique peuvent assurer par convention des prestations de service, gérer des contrats de recherche, exploiter des
+brevets et licences et commercialiser les produits de leurs activités. 
 
 En vue de la valorisation des résultats de la recherche dans leurs domaines d'activité, ils peuvent, par convention et pour
 une durée limitée, avec information de l'instance scientifique compétente, fournir à des entreprises ou à des personnes
@@ -2056,15 +2188,18 @@ Un décret fixe les conditions d'application du présent alinéa.
 
 Les activités mentionnées au présent article peuvent être gérées par des services d'activités industrielles et commerciales,
 dont le régime financier et comptable est défini par décret. Pour le fonctionnement de ces services et la réalisation de ces
-activités, les établissements, les pôles de recherche et d'enseignement supérieur ainsi que les réseaux thématiques de
-recherche avancée peuvent recruter, dans des conditions définies, en tant que de besoin, par décret en Conseil d'Etat, des
-agents non titulaires par des contrats de droit public à durée déterminée ou indéterminée.
+activités, les établissements peuvent recruter, dans des conditions définies, en tant que de besoin, par décret en Conseil
+d'Etat, des agents non titulaires par des contrats de droit public à durée déterminée ou indéterminée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2013-660 du 22 juillet 2013 - art. 66
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 _Cite_:
 
@@ -2079,27 +2214,19 @@ _Cité par_:
   - Code de la recherche - art. L367-1 (V)
   - Code général des impôts, CGI. - art. 1464 H (M)
 
-_Anciens textes_:
-
-  - Code de la recherche - art. L321-5 (T)
-
 
 ###### Article L313-2
 
-Les établissements publics à caractère scientifique et technologique ainsi que, le cas échéant, les pôles de recherche et
-d'enseignement supérieur et les réseaux thématiques de recherche avancée peuvent également confier par convention les
-activités mentionnées à l'article L. 313-1 à des entités de droit privé. Ces conventions sont approuvées par leur autorité de
-tutelle. 
+Les établissements publics à caractère scientifique et technologique peuvent également confier par convention les activités
+mentionnées à l'article L. 313-1 à des entités de droit privé. Ces conventions sont approuvées par leur autorité de tutelle. 
 
 Il est tenu compte notamment :
 
 - de la capacité financière et des moyens de gestion de l'entité ;
 
-- de l'adéquation de l'action de l'entité avec la politique de l'établissement public ou, le cas échéant, du pôle de
-recherche et d'enseignement supérieur ou du réseau thématique de recherche avancée ;
+- de l'adéquation de l'action de l'entité avec la politique de l'établissement public ;
 
-- de l'équilibre des droits et obligations entre l'entité et l'établissement public ou, le cas échéant, le pôle de recherche
-et d'enseignement supérieur et le réseau thématique de recherche avancée. 
+- de l'équilibre des droits et obligations entre l'entité et l'établissement public. 
 
 La convention mentionnée au premier alinéa peut prévoir l'attribution ou la mise à disposition de moyens matériels et
 financiers par l'une à l'autre des parties.
@@ -2109,9 +2236,13 @@ initiatives conduites en application du présent article au plus tard le 31 déc
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2013-660 du 22 juillet 2013 - art. 66
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 _Cité par_:
 
@@ -2124,14 +2255,10 @@ _Cite_:
 
   - Code de la recherche - art. L313-1
 
-_Anciens textes_:
 
-  - Code de la recherche - art. L321-6 (T)
+### TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF<a id=52></a>
 
-
-### TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF<a id=51></a>
-
-#### Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique.<a id=52></a>
+#### Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique.<a id=53></a>
 
 ###### Article L321-1
 
@@ -2252,19 +2379,20 @@ _Cité par_:
   - Code de la recherche - art. L114-5 (V)
 
 
-#### Chapitre VIII : Autres établissements à caractère administratif.<a id=53></a>
+#### Chapitre VIII : Autres établissements à caractère administratif.<a id=54></a>
 
-##### Section unique<a id=54></a>
+##### Section unique<a id=55></a>
 
 ###### Article L328-1
 
-L'Académie des technologies est un établissement public national à caractère administratif.
+L'Académie des technologies est un établissement public national à caractère administratif placé sous la protection du
+Président de la République.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2013-660 du 22 juillet 2013 - art. 111
 
 
 ###### Article L328-2
@@ -2300,7 +2428,7 @@ _Cité par_:
   - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre IX : L'Agence nationale de la recherche.<a id=55></a>
+#### Chapitre IX : L'Agence nationale de la recherche.<a id=56></a>
 
 ###### Article L329-1
 
@@ -2425,44 +2553,56 @@ _Créé par_:
 
 ###### Article L329-7
 
-I. - Les fonctionnaires ou agents de l'État et de ses établissements publics auteurs, dans le cadre des projets de recherche
-financés par l'Agence nationale de la recherche, d'une invention dans les conditions précisées par l'article L. 611-7 du code
-de la propriété intellectuelle en font immédiatement la déclaration à la personne publique dont ils relèvent.
+I.-Les agents de l'Etat et des personnes publiques investies d'une mission de recherche, auteurs, dans le cadre de recherches
+financées par des dotations de l'Etat et des collectivités territoriales ou par des subventions d'agences de financement
+nationales, d'une invention dans les conditions prévues au 1 de l'article L. 611-7 du code de la propriété intellectuelle en
+font immédiatement déclaration auprès de la personne publique employeur dont ils relèvent. 
 
-II. - Lorsqu'elles entrent dans le champ des inventions nouvelles définies à l'article L. 611-10 du code de la propriété
-intellectuelle et lorsqu'elles sont susceptibles d'un développement économique, ces inventions donnent lieu à un dépôt en vue
-de l'acquisition d'un titre de propriété industrielle tel qu'il est défini aux articles L. 611-1 et L. 611-2 du même code.
+II.-Lorsqu'elles sont susceptibles d'un développement économique, ces inventions donnent lieu à un dépôt en vue de
+l'acquisition d'un titre de propriété industrielle tel qu'il est défini aux articles L. 611-1 et L. 611-2 du même code. 
 
-III. - Les établissements mentionnés au I valorisent les résultats issus de leurs recherches en exploitant l'invention objet
-du titre de propriété industrielle, acquis en application des dispositions du II, dans les conditions prévues par le code de
-la propriété intellectuelle, de préférence auprès des entreprises employant moins de deux cent cinquante salariés domiciliées
-sur le territoire de l'Union européenne.
+III.-Les personnes publiques employeurs des personnels mentionnés au I valorisent l'invention objet du titre de propriété
+industrielle acquis en application du II, dans les conditions prévues par le code de la propriété intellectuelle, auprès
+d'entreprises qui prévoient une exploitation de l'invention au moins en partie sous la forme d'une production industrielle ou
+de la création de services, de préférence sur le territoire de l'Union européenne et, parmi ces entreprises, de préférence
+auprès des petites et moyennes entreprises et industries et des entreprises de taille intermédiaire. 
 
-IV. - Les établissements mentionnés au I informent l'Agence d'évaluation de la recherche et de l'enseignement supérieur et
-leur ministère de tutelle des titres de propriété industrielle acquis et des conditions de leur exploitation en application
-des dispositions des II et III.
+IV.-Les personnes publiques investies d'une mission de recherche autres que l'Etat mentionnées au I informent leur ministère
+de tutelle des titres de propriété industrielle acquis et des conditions de leur exploitation en application des II et III. 
+
+V.-Afin de simplifier et d'accélérer le transfert d'un titre de propriété industrielle acquis en application du II, en cas de
+copropriété publique constatée au dépôt de l'invention, un mandataire unique chargé de la gestion, de l'exploitation et de la
+négociation du titre est désigné par les déposants avant sa publication. Un décret fixe les missions et le mode de
+désignation du mandataire. 
+
+VI.-Sauf excuses légitimes, après cinq ans à compter de la date du transfert sans exploitation par l'entreprise de
+l'invention objet d'un titre de propriété industrielle acquis en application du II, la cession est nulle et la propriété du
+titre revient intégralement à la personne publique qui l'a cédé. Les restitutions et compensations sont réglées par le code
+civil.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
-_Créé par_:
+_Modifié par_:
 
-  - n°2006-450 du 18 avril 2006 - art. 16 () JORF 19 avril 2006
+  - Loi n°2013-660 du 22 juillet 2013 - art. 97
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L611-1 (M)
-  - Code de la propriété intellectuelle - art. L611-10 (M)
-  - Code de la propriété intellectuelle - art. L611-2 (V)
-  - Code de la propriété intellectuelle - art. L611-7 (M)
+  - Code de la propriété intellectuelle - art. L611-1
+  - Code de la propriété intellectuelle - art. L611-7
 
 
-### TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=56></a>
+### TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=57></a>
 
-#### Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique.<a id=57></a>
+#### Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique.<a id=58></a>
 
 ###### Article L331-1
 
@@ -2662,9 +2802,9 @@ _Cite_:
   - Code de la recherche - art. L331-6
 
 
-#### Chapitre II : Etablissements de recherche dans le domaine de l'énergie.<a id=58></a>
+#### Chapitre II : Etablissements de recherche dans le domaine de l'énergie.<a id=59></a>
 
-##### Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA).<a id=59></a>
+##### Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA).<a id=60></a>
 
 ###### Article L332-1
 
@@ -2832,7 +2972,7 @@ _Cite_:
   - Code de la recherche - art. L332-1 (V)
 
 
-##### Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA).<a id=60></a>
+##### Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA).<a id=61></a>
 
 ###### Article L332-8
 
@@ -2850,7 +2990,7 @@ _Cite_:
   - Code de l'environnement - art. L542-12
 
 
-##### Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME).<a id=61></a>
+##### Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME).<a id=62></a>
 
 ###### Article L332-9
 
@@ -2868,9 +3008,9 @@ _Cite_:
   - Code de l'environnement - art. L131-3
 
 
-### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=62></a>
+### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=63></a>
 
-#### Chapitre II : Les centres techniques industriels.<a id=63></a>
+#### Chapitre II : Les centres techniques industriels.<a id=64></a>
 
 ###### Article L342-1
 
@@ -2914,15 +3054,24 @@ accord avec les organismes habilités à cette fin, ils participent aux enquête
 règles permettant le contrôle de la qualité. Ils font profiter la branche d'activité intéressée des résultats de leurs
 travaux.
 
+Les centres techniques industriels fonctionnent en réseau et sont tenus de communiquer à l'instance de coordination des
+centres, avec l'accord des entreprises concernées par une demande de recherche et d'innovation, les informations susceptibles
+de contribuer à l'implication de tous les centres du réseau. A ce titre, ils veillent à ce que les secrets d'affaires dont
+ils ont connaissance ne soient pas divulgués, sauf dans les cas où la loi en dispose autrement.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°48-1228 du 22 juillet 1948 - art. 2 (V)
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
+
+_Modifié par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 98
+
+_Abrogé par_:
+
+  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 _Cité par_:
 
@@ -3201,7 +3350,7 @@ _Cite_:
   - Code de la recherche - art. L342-1
 
 
-#### Chapitre III : Dispositions générales.<a id=64></a>
+#### Chapitre III : Dispositions générales.<a id=65></a>
 
 ###### Article L343-1
 
@@ -3242,7 +3391,50 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-#### Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique<a id=65></a>
+#### Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique<a id=66></a>
+
+#### Chapitre IV : Les fondations de coopération scientifique<a id=67></a>
+
+###### Article L344-11
+
+Plusieurs établissements ou organismes publics ou privés, parmi lesquels au moins un établissement public de recherche ou
+d'enseignement supérieur, peuvent constituer une fondation de coopération scientifique dans l'objectif de conduire, selon
+leur composition, une ou des activités mentionnées aux articles L. 112-1 du présent code et L. 123-3 du code de l'éducation.
+Une communauté d'universités et établissements mentionnée à l'article L. 711-2 du code de l'éducation peut constituer une
+fondation de coopération scientifique seule. D'autres partenaires, en particulier des entreprises, des collectivités
+territoriales et des associations, peuvent être associés à la fondation. 
+
+Les fondations de coopération scientifique sont des personnes morales de droit privé à but non lucratif soumises aux règles
+relatives aux fondations reconnues d'utilité publique dans les conditions fixées notamment par la loi n° 87-571 du 23 juillet
+1987 sur le développement du mécénat, sous réserve des dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°87-571 du 23 juillet 1987 (V)
+  - Code de la recherche - art. L112-1 (V)
+  - Code de l'éducation - art. L123-3 (V)
+  - Code de l'éducation - art. L711-2 (V)
+
+_Codifié par_:
+
+  - Ordonnance n°2004-545 du 11 juin 2004
+
+_Cité par_:
+
+  - Arrêté du 24 décembre 2007 - art. 1 (V)
+  - Décret du 22 juin 2010 - art. Annexe (VD)
+  - Code de la recherche - art. L365-1 (V)
+  - Code de la recherche - art. L366-1 (V)
+  - Code de la recherche - art. L367-1 (V)
+  - Code de la santé publique - art. R4211-32 (V)
+  - Code de la santé publique - art. R5124-34 (V)
+
+_Modifié par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 66
+
 
 ###### Article L344-12
 
@@ -3358,486 +3550,9 @@ _Créé par_:
   - DEPLACE: Loi n°2013-660 du 22 juillet 2013 - art. 66
 
 
-##### Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins.<a id=66></a>
+### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=68></a>
 
-###### Article L344-1
-
-Plusieurs établissements ou organismes de recherche ou d'enseignement supérieur et de recherche, publics ou privés, y compris
-les centres hospitaliers universitaires ainsi que les centres de lutte contre le cancer, et dont au moins un établissement
-public à caractère scientifique, culturel et professionnel, peuvent décider de regrouper tout ou partie de leurs activités et
-de leurs moyens, notamment en matière de recherche, dans un pôle de recherche et d'enseignement supérieur afin de conduire
-ensemble des projets d'intérêt commun. Ces établissements ou organismes peuvent être français ou européens.
-
-Les pôles de recherche et d'enseignement supérieur sont créés par convention entre les établissements et organismes
-fondateurs. D'autres partenaires, en particulier des entreprises et des collectivités territoriales ou des associations,
-peuvent y être associés.
-
-Ces pôles peuvent être dotés de la personnalité morale, notamment sous la forme d'un groupement d'intérêt public, d'un
-établissement public de coopération scientifique régi par la section 2 ou d'une fondation de coopération scientifique régie
-par la section 3 du présent chapitre.
-
-Lorsqu'il prend la forme d'un établissement public de coopération scientifique, le pôle de recherche et d'enseignement
-supérieur peut comprendre une école supérieure du professorat et de l'éducation dans les conditions fixées au chapitre Ier du
-titre II du livre VII de la troisième partie du code de l'éducation.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°84-431 du 6 juin 1984 - art. 9-1 (VD)
-  - Décret  n°2007-378 du 21 mars 2007 - art. 1 (Ab)
-  - Décret  n°2007-379 du 21 mars 2007 - art. 1 (Ab)
-  - Décret  n°2007-381 du 21 mars 2007 - art. 1 (Ab)
-  - Décret  n°2007-381 du 21 mars 2007 - art. Annexe (Ab)
-  - Décret  n°2007-382 du 21 mars 2007 - art. 1 (VT)
-  - Décret  n°2007-382 du 21 mars 2007 - art. ANNEXE (VT)
-  - Décret  n°2007-383 du 21 mars 2007 - art. 1 (VT)
-  - Décret  n°2007-383 du 21 mars 2007 - art. ANNEXE (VT)
-  - Décret  n°2007-384 du 21 mars 2007 - art. 1 (Ab)
-  - Décret  n°2007-384 du 21 mars 2007 - art. ANNEXE (Ab)
-  - Décret  n°2007-385 du 21 mars 2007 - art. 1 (VT)
-  - Décret  n°2007-386 du 21 mars 2007 - art. 1 (VT)
-  - Décret  n°2007-386 du 21 mars 2007 - art. ANNEXE (VT)
-  - Décret n°2007-380 du 21 mars 2007 - art. 1 (VT)
-  - Arrêté du 20 avril 2007 - art. 12 (V)
-  - Arrêté du 24 décembre 2007 - art. 1 (V)
-  - Décret n°2008-503 du 28 mai 2008 - art. 1 (Ab)
-  - Décret n°2008-503 du 28 mai 2008 - art. Annexe (Ab)
-  - Décret n°2008-1561 du 31 décembre 2008 (Ab)
-  - Décret n°2008-1561 du 31 décembre 2008 - art. (Ab)
-  - Décret n°2008-1561 du 31 décembre 2008 - art. 1 (Ab)
-  - Décret n°2009-33 du 9 janvier 2009 (VT)
-  - Décret n°2009-33 du 9 janvier 2009 - art. (VD)
-  - Décret n°2009-33 du 9 janvier 2009 - art. 1 (VT)
-  - Décret n°2009-522 du 7 mai 2009 - art. 1 (Ab)
-  - Décret n°2009-646 du 9 juin 2009 - art. 1 (Ab)
-  - Décret n°2009-646 du 9 juin 2009 - art. Annexe (Ab)
-  - Décret n°2009-773 du 23 juin 2009 - art. (Ab)
-  - Décret n°2009-773 du 23 juin 2009 - art. 1 (Ab)
-  - Décret n°2009-809 du 29 juin 2009 - art. 1 (VT)
-  - Décret n°2009-809 du 29 juin 2009 - art. Annexe (VT)
-  - Décret n°2010-143 du 10 février 2010 - art. 1 (Ab)
-  - Décret n°2010-143 du 10 février 2010 - art. Annexe (Ab)
-  - Décret du 22 juin 2010 - art. 1 (V)
-  - Décret du 8 juillet 2010 - art. (VT)
-  - Décret du 8 juillet 2010 - art. 1 (VT)
-  - Décret n°2010-1751 du 30 décembre 2010 - art. (Ab)
-  - Décret n°2010-1751 du 30 décembre 2010 - art. 1 (Ab)
-  - Décret n°2011-1306 du 14 octobre 2011 - art. (Ab)
-  - Décret n°2011-1306 du 14 octobre 2011 - art. 1 (Ab)
-  - Décret n°2012-178 du 6 février 2012 - art. (VT)
-  - Décret n°2012-178 du 6 février 2012 - art. 1 (VT)
-  - Décret n°2012-286 du 28 février 2012 - art. (Ab)
-  - Décret n°2012-286 du 28 février 2012 - art. 1 (Ab)
-  - Décret n°2012-573 du 24 avril 2012 - art. (VT)
-  - Décret n°2012-573 du 24 avril 2012 - art. 1 (VT)
-  - Décret n°2012-574 du 24 avril 2012 - art. (Ab)
-  - Décret n°2012-574 du 24 avril 2012 - art. 1 (Ab)
-  - Décret n°2012-952 du 1er août 2012 - art. (VT)
-  - Décret n°2012-952 du 1er août 2012 - art. 1 (VT)
-  - Décret n°2012-1111 du 1er octobre 2012 - art. (Ab)
-  - Décret n°2012-1111 du 1er octobre 2012 - art. 1 (Ab)
-  - Décret n°2012-1169 du 17 octobre 2012 - art.
-  - Code de la recherche - art. L344-11 (V)
-  - Code de la recherche - art. L344-4 (Ab)
-  - Code de la recherche - art. L365-1 (V)
-  - Code de la recherche - art. L366-1 (V)
-  - Code de la recherche - art. L367-1 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Modifié par_:
-
-  - Loi n°2013-595 du 8 juillet 2013 - art. 75
-
-_Abrogé par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 66
-
-
-###### Article L344-2
-
-Un réseau thématique de recherche avancée peut être créé sous la forme d'une fondation de coopération scientifique, régie par
-la section 3 du présent chapitre, pour conduire un projet d'excellence scientifique dans un ou plusieurs domaines de
-recherche. Ce projet est mené en commun par plusieurs établissements ou organismes de recherche ou d'enseignement supérieur
-et de recherche, publics ou privés, français ou européens. D'autres partenaires, en particulier des entreprises, des
-collectivités territoriales et des associations, peuvent être associés au réseau.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 66
-
-_Cité par_:
-
-  - Code de la recherche - art. L344-11 (V)
-
-
-###### Article L344-3
-
-Un ou plusieurs groupements de coopération sanitaires, un ou plusieurs centres hospitaliers et universitaires ou un ou
-plusieurs centres de lutte contre le cancer peuvent, en commun avec un ou plusieurs établissements de recherche ou
-d'enseignement supérieur et de recherche, publics ou privés, français ou européens, décider de regrouper tout ou partie de
-leurs activités et de leurs moyens dans un centre thématique de recherche et de soins dans le but de conduire ensemble un ou
-plusieurs projets d'excellence scientifique dans le domaine de la recherche biomédicale telle qu'elle est définie à l'article
-L. 1121-1 du code de la santé publique.
-
-Le centre thématique de recherche et de soins est créé par convention entre les établissements et organismes fondateurs.
-D'autres partenaires, en particulier des entreprises, des collectivités territoriales et des associations, peuvent y être
-associés.
-
-Le centre peut être doté de la personnalité morale sous la forme d'une fondation de coopération scientifique régie par la
-section 3 du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 66
-
-_Cite_:
-
-  - Code de la santé publique - art. L1121-1
-
-
-##### Section 2 : Les établissements publics de coopération scientifique.<a id=67></a>
-
-###### Article L344-4
-
-L'établissement public de coopération scientifique assure la mise en commun des activités et des moyens que les
-établissements et organismes fondateurs et associés consacrent au pôle de recherche et d'enseignement supérieur mentionné à
-l'article L. 344-1. 
-
-À cet effet, il assure notamment : 
-
-1° La mise en place et la gestion des équipements partagés entre les membres fondateurs et associés participant au pôle ; 
-
-2° La coordination des activités des écoles doctorales ; 
-
-3° La valorisation des activités de recherche menées en commun ; 
-
-4° La promotion internationale du pôle ;
-
-5° La formation des personnels enseignants et d'éducation lorsqu'il comprend une école supérieure du professorat et de
-l'éducation.
-
-Dans le cadre de la politique contractuelle prévue à l'article L. 711-1 du code de l'éducation, il peut être habilité à
-délivrer des diplômes nationaux dans les conditions fixées à l'article L. 613-1 du même code.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 15 décembre 1997 - art. 2 (Ab)
-  - Décret  n°2007-381 du 21 mars 2007 - art. 1 (Ab)
-  - Décret  n°2007-383 du 21 mars 2007 - art. 1 (VT)
-  - Décret  n°2007-383 du 21 mars 2007 - art. ANNEXE (VT)
-  - Décret  n°2007-384 du 21 mars 2007 - art. 1 (Ab)
-  - Arrêté du 24 décembre 2007 - art. 1 (V)
-  - Décret n°2008-503 du 28 mai 2008 - art. Annexe (Ab)
-  - Décret n°2008-1561 du 31 décembre 2008 - art. (Ab)
-  - Décret n°2008-1561 du 31 décembre 2008 - art. 1 (Ab)
-  - Décret n°2009-33 du 9 janvier 2009 (VT)
-  - Décret n°2009-522 du 7 mai 2009 - art. 1 (Ab)
-  - Décret n°2009-522 du 7 mai 2009 - art. Annexe (Ab)
-  - Décret n°2009-646 du 9 juin 2009 - art. 1 (Ab)
-  - Décret n°2009-646 du 9 juin 2009 - art. Annexe (Ab)
-  - Décret n°2009-773 du 23 juin 2009 - art. 1 (Ab)
-  - Décret n°2009-809 du 29 juin 2009 - art. 1 (VT)
-  - Décret n°2010-143 du 10 février 2010 - art. 1 (Ab)
-  - Décret n°2010-143 du 10 février 2010 - art. Annexe (Ab)
-  - Décret n°2010-1751 du 30 décembre 2010 - art. (Ab)
-  - Décret n°2010-1751 du 30 décembre 2010 - art. 1 (Ab)
-  - Décret n°2011-1306 du 14 octobre 2011 - art. 1 (Ab)
-  - Décret n°2012-178 du 6 février 2012 - art. (VT)
-  - Décret n°2012-178 du 6 février 2012 - art. 1 (VT)
-  - Arrêté du 10 février 2012 - art. 3 (V)
-  - Décret n°2012-286 du 28 février 2012 - art. 1 (Ab)
-  - Décret n°2012-573 du 24 avril 2012 - art. (VT)
-  - Décret n°2012-573 du 24 avril 2012 - art. 1 (VT)
-  - Décret n°2012-574 du 24 avril 2012 - art. (Ab)
-  - Décret n°2012-574 du 24 avril 2012 - art. 1 (Ab)
-  - Décret n°2012-952 du 1er août 2012 - art. (VT)
-  - Décret n°2012-952 du 1er août 2012 - art. 1 (VT)
-  - Décret n°2012-1111 du 1er octobre 2012 - art. (Ab)
-  - Décret n°2012-1111 du 1er octobre 2012 - art. 1 (Ab)
-  - Loi n°2013-660 du 22 juillet 2013 - art. 117 (V)
-  - Code de l'éducation - art. D613-4 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Modifié par_:
-
-  - Loi n°2013-595 du 8 juillet 2013 - art. 75
-
-_Abrogé par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 66
-
-_Cite_:
-
-  - Code de la recherche - art. L344-1
-  - Code de l'éducation - art. L613-1
-  - Code de l'éducation - art. L711-1
-
-
-###### Article L344-5
-
-Le projet de création et les statuts d'un établissement public de coopération scientifique sont adoptés par l'ensemble des
-membres fondateurs et des membres associés ayant vocation à y participer.
-
-L'établissement public de coopération scientifique est créé par un décret qui en approuve les statuts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
-
-_Cité par_:
-
-  - Arrêté du 28 septembre 2011 - art. (Ab)
-
-_Abrogé par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 66
-
-
-###### Article L344-6
-
-L'établissement public de coopération scientifique est administré par un conseil d'administration qui détermine la politique
-de l'établissement, approuve son budget et en contrôle l'exécution.
-
-Le président, élu par le conseil d'administration en son sein, dirige l'établissement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 66
-
-
-###### Article L344-7
-
-Le conseil d'administration de l'établissement public de coopération scientifique comprend des représentants des catégories
-suivantes : 
-
-1° Organismes ou établissements fondateurs ; 
-
-2° Personnalités qualifiées désignées d'un commun accord par les membres mentionnés au 1° ; 
-
-3° Entreprises, collectivités territoriales, associations et autres membres associés ; 
-
-4° Enseignants-chercheurs, enseignants et chercheurs exerçant leurs fonctions au sein de l'établissement ; 
-
-5° Autres personnels exerçant leurs fonctions au sein de l'établissement ; 
-
-6° Représentants des étudiants qui suivent une formation au sein du pôle de recherche et d'enseignement supérieur. 
-
-Les membres mentionnés aux 1° et 2° représentent au moins la moitié de l'effectif du conseil et ceux mentionnés aux 1°,2° et
-3°, au moins les deux tiers de cet effectif.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Cité par_:
-
-  - Décret  n°2007-381 du 21 mars 2007 - art. Annexe (Ab)
-  - Décret  n°2007-382 du 21 mars 2007 - art. ANNEXE (VT)
-  - Décret  n°2007-383 du 21 mars 2007 - art. ANNEXE (VT)
-  - Décret  n°2007-384 du 21 mars 2007 - art. ANNEXE (Ab)
-  - Décret  n°2007-386 du 21 mars 2007 - art. ANNEXE (VT)
-  - Décret n°2008-1561 du 31 décembre 2008 - art. (Ab)
-  - Décret n°2009-33 du 9 janvier 2009 - art. (VD)
-  - Décret n°2009-522 du 7 mai 2009 - art. Annexe (Ab)
-  - Décret n°2009-646 du 9 juin 2009 - art. Annexe (Ab)
-  - Décret n°2009-773 du 23 juin 2009 - art. (Ab)
-  - Décret n°2009-809 du 29 juin 2009 - art. Annexe (VT)
-  - Décret n°2010-143 du 10 février 2010 - art. Annexe (Ab)
-  - Décret du 8 juillet 2010 - art. (VT)
-  - Décret n°2011-1306 du 14 octobre 2011 - art. (Ab)
-  - Décret n°2012-178 du 6 février 2012 - art. (VT)
-  - Décret n°2012-286 du 28 février 2012 - art. (Ab)
-  - Décret n°2012-573 du 24 avril 2012 - art. (VT)
-  - Décret n°2012-952 du 1er août 2012 - art. (VT)
-  - Décret n°2012-1111 du 1er octobre 2012 - art. (Ab)
-  - Décret n°2012-1169 du 17 octobre 2012 - art.
-
-_Modifié par_:
-
-  - Loi n°2010-1536 du 13 décembre 2010 - art. 3
-
-_Abrogé par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 66
-
-
-###### Article L344-8
-
-Le recteur d'académie, chancelier des universités, assiste ou se fait représenter aux séances du conseil d'administration.
-
-Les dispositions des articles L. 719-7 et L. 719-8 du code de l'éducation relatifs au contrôle administratif sont applicables
-aux établissements publics de coopération scientifique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 66
-
-_Cite_:
-
-  - Code de l'éducation - art. L719-7
-  - Code de l'éducation - art. L719-8
-
-
-###### Article L344-9
-
-Chaque établissement ou organisme fondateur désigne, selon ses règles propres et dans le respect des dispositions statutaires
-qui leur sont applicables, les agents qui sont appelés à exercer tout ou partie de leurs fonctions au sein de l'établissement
-public de coopération scientifique.
-
-Ces agents, qui demeurent en position d'activité dans leur établissement ou organisme, sont placés, pour l'exercice de leur
-activité au sein de l'établissement public de coopération scientifique, sous l'autorité du président de l'établissement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 66
-
-
-###### Article L344-10
-
-Les ressources de l'établissement public de coopération scientifique proviennent notamment des contributions de toute nature
-apportées par les membres fondateurs ou associés, des subventions versées par l'État dans le cadre des contrats qui le lient
-avec les établissements membres, des ressources obtenues au titre de la participation à des programmes nationaux ou
-internationaux de recherche, du produit des contrats de recherche ou de valorisation de la recherche, des subventions des
-collectivités territoriales et du produit des dons et legs.
-
-Le premier alinéa de l'article L. 719-9 du code de l'éducation s'applique aux établissements publics de coopération
-scientifique. L'agent comptable de l'un des établissements membres exerce les fonctions d'agent comptable de l'établissement
-public de coopération scientifique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-_Créé par_:
-
-  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
-
-_Cité par_:
-
-  - Décret  n°2007-383 du 21 mars 2007 - art. 1 (VT)
-  - Décret n°2008-503 du 28 mai 2008 - art. Annexe (Ab)
-  - Décret n°2009-773 du 23 juin 2009 - art. 1 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 66
-
-_Cite_:
-
-  - Code de l'éducation - art. L719-9
-
-
-##### Section 3 : Les fondations de coopération scientifique.<a id=68></a>
-
-###### Article L344-11
-
-Plusieurs établissements ou organismes publics ou privés, parmi lesquels au moins un établissement public de recherche ou
-d'enseignement supérieur, peuvent constituer une fondation de coopération scientifique dans l'objectif de conduire, selon
-leur composition, une ou des activités mentionnées aux articles L. 112-1 du présent code et L. 123-3 du code de l'éducation. 
-
-Les fondations de coopération scientifique sont des personnes morales de droit privé à but non lucratif soumises aux règles
-relatives aux fondations reconnues d'utilité publique dans les conditions fixées notamment par la loi n° 87-571 du 23 juillet
-1987 sur le développement du mécénat, sous réserve des dispositions de la présente section.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°87-571 du 23 juillet 1987
-  - Code de la recherche - art. L112-1
-  - Code de l'éducation - art. L123-3
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Cité par_:
-
-  - Arrêté du 24 décembre 2007 - art. 1 (V)
-  - Décret du 22 juin 2010 - art. Annexe (VD)
-  - Code de la recherche - art. L365-1 (V)
-  - Code de la recherche - art. L366-1 (V)
-  - Code de la recherche - art. L367-1 (V)
-  - Code de la santé publique - art. R4211-32 (V)
-  - Code de la santé publique - art. R5124-34 (V)
-
-_Modifié par_:
-
-  - Loi n°2010-1536 du 13 décembre 2010 - art. 6
-
-
-### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=69></a>
-
-#### Chapitre Ier : Dispositions relatives à Mayotte.<a id=70></a>
+#### Chapitre Ier : Dispositions relatives à Mayotte.<a id=69></a>
 
 ###### Article L361-1
 
@@ -3851,7 +3566,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=71></a>
+#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=70></a>
 
 ###### Article L362-1
 
@@ -3865,7 +3580,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=72></a>
+#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=71></a>
 
 ###### Article L363-1
 
@@ -3879,7 +3594,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=73></a>
+#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=72></a>
 
 ###### Article L364-1
 
@@ -3893,7 +3608,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=74></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=73></a>
 
 ###### Article L365-1
 
@@ -3921,7 +3636,7 @@ _Cite_:
   - Code de la recherche - art. L344-1 (V)
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=75></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=74></a>
 
 ###### Article L366-1
 
@@ -3949,7 +3664,7 @@ _Cite_:
   - Code de la recherche - art. L344-1 (V)
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=76></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=75></a>
 
 ###### Article L367-1
 
@@ -3977,7 +3692,7 @@ _Cite_:
   - Code de la recherche - art. L344-1 (V)
 
 
-#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=77></a>
+#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=76></a>
 
 ###### Article L368-1
 
@@ -3991,11 +3706,11 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=78></a>
+## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=77></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=79></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=78></a>
 
-#### Chapitre Ier : Missions et garanties fondamentales.<a id=80></a>
+#### Chapitre Ier : Missions et garanties fondamentales.<a id=79></a>
 
 ###### Article L411-1
 
@@ -4074,7 +3789,8 @@ leur incombent, le droit à la formation permanente.
 Ces statuts doivent favoriser la libre circulation des idées et, sans préjudice pour leur carrière, la mobilité des
 personnels entre les divers métiers de la recherche au sein du même organisme, entre les services publics de toute nature,
 les différents établissements publics de recherche et les établissements d'enseignement supérieur, et entre ces services et
-établissements et les entreprises. 
+établissements et les entreprises. Les missions réalisées dans le cadre du dispositif prévu aux articles L. 413-1 et suivants
+sont intégrées à l'évaluation du personnel de recherche lors de sa réintégration au sein de son corps d'origine. 
 
 Ces statuts doivent permettre aux chercheurs, tout en poursuivant leurs travaux au sein des établissements publics de
 recherche, de collaborer, pour une période déterminée, renouvelable, avec des laboratoires publics ou privés, afin d'y
@@ -4104,10 +3820,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
+  - Loi n°2013-660 du 22 juillet 2013 - art. 81
 
 _Cite_:
 
+  - Code de la recherche - art. L413-1
   - Code de l'éducation - art. L952-24
   - Code de l'éducation - art. L953-7
 
@@ -4128,9 +3845,9 @@ notamment dans les laboratoires publics.
 
 Afin d'encourager l'emploi des docteurs scientifiques dans une activité couverte par une convention de branche ou un accord
 professionnel ou interprofessionnel au sens de l'article L. 2221-2 du code du travail, une commission formée de délégués des
-parties signataires à la convention ou à l'accord peut être convoquée par un arrêté conjoint du ministre chargé de la
-recherche, du ministre chargé de l'industrie et du ministre chargé du travail, en vue de permettre la discussion des
-conditions de la reconnaissance, dans le cadre de la convention ou de l'accord, du titre de docteur.
+parties signataires à la convention ou à l'accord est convoquée par un arrêté conjoint du ministre chargé de la recherche, du
+ministre chargé de l'industrie et du ministre chargé du travail, en vue de permettre la discussion des conditions de la
+reconnaissance, dans le cadre de la convention ou de l'accord, du titre de docteur, avant le 1er janvier 2016.
 
 **Liens relatifs à cet article**
 
@@ -4140,7 +3857,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
+  - Loi n°2013-660 du 22 juillet 2013 - art. 82
 
 _Cite_:
 
@@ -4150,18 +3867,42 @@ _Cite_:
   - Code du travail - art. L2221-2
 
 
-#### Chapitre II : La formation.<a id=81></a>
+#### Chapitre II : La formation.<a id=80></a>
 
 ###### Article L412-1
 
 La formation à la recherche et par la recherche intéresse, outre les travailleurs scientifiques, la société tout entière.
 Elle ouvre à ceux qui en bénéficient la possibilité d'exercer une activité dans la recherche comme dans l'enseignement, les
-administrations et les entreprises.
+administrations et les entreprises. 
 
 Cette formation s'effectue dans les universités, les écoles d'ingénieurs, les instituts universitaires de technologie, les
 grands établissements, les services et organismes de recherche et les laboratoires d'entreprise. Les diplômes et grades
 universitaires qui peuvent la sanctionner sont décernés dans des conditions définies par l'autorité administrative
-compétente.
+compétente. 
+
+Les concours et procédures de recrutement dans les corps et cadres d'emplois de catégorie A relevant du statut général de la
+fonction publique sont adaptés, dans les conditions fixées par les statuts particuliers des corps et cadres d'emplois
+concernés, afin d'assurer la reconnaissance des acquis de l'expérience professionnelle résultant de la formation à la
+recherche et par la recherche lorsqu'elle a été sanctionnée par la délivrance du doctorat. 
+
+Les statuts particuliers de chaque corps ou cadre d'emplois prévoient les modalités de prise en compte de cette expérience
+professionnelle pour le classement effectué lors de la nomination ou de la titularisation en leur sein, sans distinguer les
+modalités contractuelles de réalisation des recherches ayant été sanctionnées par la collation du grade de docteur. 
+
+Les périodes pendant lesquelles les titulaires d'un diplôme de doctorat mentionné à l'article L. 612-7 du code de l'éducation
+ont bénéficié d'un contrat doctoral sont assimilées à des services effectifs pour se présenter au concours interne d'accès à
+l'Ecole nationale d'administration. 
+
+Pour les titulaires d'un doctorat et dans la limite de trois ans, la période de préparation du doctorat est assimilée à une
+période d'activité professionnelle pour se présenter au troisième concours d'entrée à l'Ecole nationale d'administration. Le
+second alinéa de l'article 1er de la loi n° 90-8 du 2 janvier 1990 relative à la création d'un troisième concours d'entrée à
+l'Ecole nationale d'administration ne s'applique pas pour la prise en compte de cette période. 
+
+Les titulaires d'un doctorat peuvent faire usage du titre de docteur, en en mentionnant la spécialité, dans tout emploi et
+toute circonstance professionnelle qui le justifient. 
+
+Les titulaires d'un doctorat en médecine, en chirurgie dentaire ou en pharmacie radiés du tableau de l'ordre professionnel
+compétent ne peuvent faire état du titre de docteur dans le cadre de leurs activités professionnelles ou associatives.
 
 **Liens relatifs à cet article**
 
@@ -4169,6 +3910,11 @@ _Anciens textes_:
 
   - Loi n°82-610 1982-07-15 art. 22
   - Loi n°82-610 du 15 juillet 1982 - art. 22 (Ab)
+
+_Cite_:
+
+  - Loi n°90-8 du 2 janvier 1990 - art. 1 (V)
+  - Code de l'éducation - art. L612-7
 
 _Cité par_:
 
@@ -4223,7 +3969,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
+
+_Modifié par_:
+
+  - Loi n°2013-660 du 22 juillet 2013 - art. 78
 
 
 ###### Article L412-2
@@ -4264,9 +4014,9 @@ _Modifié par_:
   - loi n°2006-450 du 18 avril 2006 - art. 6 () JORF 19 avril 2006
 
 
-#### Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=82></a>
+#### Chapitre III : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=81></a>
 
-##### Section 1 : Participation des personnels de la recherche à la création d'entreprises.<a id=83></a>
+##### Section 1 : Participation des personnels de la recherche à la création d'entreprises.<a id=82></a>
 
 ###### Article L413-1
 
@@ -4566,7 +4316,7 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=84></a>
+##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante.<a id=83></a>
 
 ###### Article L413-8
 
@@ -4747,7 +4497,7 @@ _Cite_:
   - Code de la recherche - art. L413-7
 
 
-##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme.<a id=85></a>
+##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme.<a id=84></a>
 
 ###### Article L413-12
 
@@ -4873,7 +4623,7 @@ _Cite_:
   - Code de la recherche - art. L413-7
 
 
-##### Section 4 : Dispositions générales.<a id=86></a>
+##### Section 4 : Dispositions générales.<a id=85></a>
 
 ###### Article L413-15
 
@@ -4914,9 +4664,9 @@ _Abrogé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=87></a>
+### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=86></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=88></a>
+#### Chapitre Ier : Dispositions générales.<a id=87></a>
 
 ###### Article L421-1
 
@@ -5039,7 +4789,7 @@ _Cité par_:
   - Code de la recherche - art. L411-4 (V)
 
 
-#### Chapitre II : Chercheurs.<a id=89></a>
+#### Chapitre II : Chercheurs.<a id=88></a>
 
 ###### Article L422-1
 
@@ -5094,9 +4844,9 @@ _Cité par_:
   - Code de la recherche - art. L447-1 (V)
 
 
-### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=90></a>
+### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=89></a>
 
-#### Chapitre Ier : Les personnels contractuels.<a id=91></a>
+#### Chapitre Ier : Les personnels contractuels.<a id=90></a>
 
 ###### Article L431-1
 
@@ -5231,7 +4981,7 @@ _Cite_:
   - Code du travail maritime - art. 30
 
 
-#### Chapitre II : Les chercheurs et enseignants associés.<a id=92></a>
+#### Chapitre II : Les chercheurs et enseignants associés.<a id=91></a>
 
 ###### Article L432-1
 
@@ -5303,7 +5053,7 @@ _Cite_:
   - Code de l'éducation - art. L952-1 (V)
 
 
-#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=93></a>
+#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=92></a>
 
 ###### Article L433-1
 
@@ -5331,9 +5081,9 @@ _Cite_:
   - Code du travail - art. L6322-53
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=94></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=93></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=95></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=94></a>
 
 ###### Article L445-1
 
@@ -5361,7 +5111,7 @@ _Cite_:
   - Code de la recherche - art. L433-1
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=96></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=95></a>
 
 ###### Article L446-1
 
@@ -5392,7 +5142,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=97></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=96></a>
 
 ###### Article L447-1
 
