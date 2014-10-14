@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2014-02-19
+Version Consolidée au 2014-10-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -248,8 +248,9 @@ cinq ans sous la coordination du ministre chargé de la recherche en concertatio
 à répondre aux défis scientifiques, technologiques, environnementaux et sociétaux en maintenant une recherche fondamentale de
 haut niveau. Elle comprend la valorisation des résultats de la recherche au service de la société. A cet effet, elle veille
 au développement de l'innovation, du transfert de technologie, de la capacité d'expertise et d'appui aux politiques publiques
-et aux associations et fondations, reconnues d'utilité publique. La culture scientifique, technique et industrielle fait
-partie de la stratégie nationale de recherche et est prise en compte dans sa mise en œuvre. 
+et aux associations et fondations, reconnues d'utilité publique. Elle comprend également un volet relatif à la recherche et à
+l'innovation agronomiques. La culture scientifique, technique et industrielle fait partie de la stratégie nationale de
+recherche et est prise en compte dans sa mise en œuvre. 
 
 Les priorités en sont arrêtées après une concertation avec la communauté scientifique et universitaire, les partenaires
 sociaux et économiques et des représentants des associations et fondations, reconnues d'utilité publique, les ministères
@@ -283,10 +284,6 @@ _Codifié par_:
 
   - Ordonnance n°2004-545 du 11 juin 2004
 
-_Modifié par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 15
-
 _Cité par_:
 
   - Loi n°2013-660 du 22 juillet 2013 - art. 17 (V)
@@ -297,6 +294,10 @@ _Cité par_:
   - Code de la recherche - art. L120-1 (V)
   - Code de la recherche - art. L146-1 (M)
   - Code rural - art. L812-7 (V)
+
+_Modifié par_:
+
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 64 (V)
 
 
 ###### Article L111-7
@@ -4250,20 +4251,24 @@ b) Les fondations prévues par la loi n° 87-571 du 23 juillet 1987 sur le déve
 
 c) Les groupements d'intérêt économique prévus par les articles L. 251-1 à L. 251-23 du code de commerce ; 
 
-d) Les groupements européens d'intérêt économique prévus par les articles L. 252-1 à L. 252-12 du code de commerce.
+d) Les groupements européens d'intérêt économique prévus par les articles L. 252-1 à L. 252-12 du code de commerce ; 
+
+e) Les instituts techniques liés aux professions mentionnées à l'article L. 830-1 du code rural et de la pêche maritime ainsi
+que leurs structures nationales de coordination.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°87-571 du 23 juillet 1987
-  - Loi n°2011-525 du 17 mai 2011 (V)
+  - Loi n°2011-525 du 17 mai 2011
   - Code de commerce - art. L251-1
   - Code de commerce - art. L252-1
+  - Code rural - art. L830-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 64
 
 
 ### TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=93></a>
