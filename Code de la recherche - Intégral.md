@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2014-10-15
+Version Consolidée au 2015-01-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -1230,14 +1230,17 @@ _Cite_:
 
 ###### Article L145-1
 
-Les dispositions des articles L. 111-1, L. 111-2, L. 111-4 à L. 111-6, L. 112-1, L. 112-2, L. 114-1 à L. 114-3-7 et L. 114-5
-sont applicables dans les îles Wallis et Futuna.
+Les dispositions des articles L. 111-1, L. 111-2, L. 111-4 à L. 111-6, L. 112-1, L. 112-2, L. 112-3, 
+L. 114-1 à L. 114-3-7, L. 114-5 et L. 120-1 sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de
+l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
+française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
+recherche.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 4
 
 _Cite_:
 
@@ -1245,68 +1248,78 @@ _Cite_:
   - Code de la recherche - art. L111-2
   - Code de la recherche - art. L111-4
   - Code de la recherche - art. L112-1
-  - Code de la recherche - art. L112-2
-  - Code de la recherche - art. L114-1 (V)
+  - Code de la recherche - art. L114-1
   - Code de la recherche - art. L114-5
+  - Code de la recherche - art. L120-1
 
 
 #### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=18></a>
 
 ###### Article L146-1
 
-Les dispositions des articles L. 111-1, L. 111-2, L. 111-4, L. 114-1 à L. 114-3-4, L. 114-3-6 et L. 114-3-7, et L. 114-5 sont
-applicables en Polynésie française. 
+1.-Dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles
+Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à
+l'enseignement supérieur et à la recherche : 
 
-Sous réserve des compétences de la collectivité mentionnées au chapitre Ier du titre III de la loi organique n° 2004-192 du
-27 février 2004 portant statut d'autonomie de la Polynésie française, les articles L. 111-5, L. 111-6, L. 112-1, L. 112-2 et
-L. 114-3-5 y sont également applicables.
+1° Les dispositions des articles L. 111-1, L. 111-2, L. 111-4, L. 114-1 à L. 114-3-4, L. 114-3-6 et L. 114-3-7, et L. 114-5
+sont applicables en Polynésie française ; 
+
+2° Sous réserve des compétences de la collectivité mentionnées au chapitre Ier du titre III de la loi organique n° 2004-192
+du 27 février 2004 portant statut d'autonomie de la Polynésie française, les articles L. 111-5, L. 111-6, L. 112-1, L. 112-2,
+L 112-3, L. 114-3-5 et L. 120-1 y sont également applicables.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi organique n°2004-192 du 27 février 2004
+  - Loi n°2013-660 du 22 juillet 2013
   - Code de la recherche - art. L111-1
   - Code de la recherche - art. L111-4
   - Code de la recherche - art. L111-5
-  - Code de la recherche - art. L111-6
   - Code de la recherche - art. L112-1
-  - Code de la recherche - art. L112-2
   - Code de la recherche - art. L114-1
   - Code de la recherche - art. L114-3-5
   - Code de la recherche - art. L114-3-6
-  - Code de la recherche - art. L114-3-7
   - Code de la recherche - art. L114-5
+  - Code de la recherche - art. L120-1
+  - Code de la recherche - art. L266-1
 
 _Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
 
 
 #### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=19></a>
 
 ###### Article L147-1
 
-Les dispositions des articles L. 111-1, L. 111-2, L. 111-4 à L. 111-6, L. 112-1, L. 112-2, L. 114-1 à L. 114-3-7 et L. 114-5
-sont applicables en Nouvelle-Calédonie, sous réserve des dispositions de l'article 38 de la loi organique n° 99-209 du 19 mai
-1999 relative à la Nouvelle-Calédonie.
+Les dispositions des articles L. 111-1, L. 111-2, L. 111-4 à L. 111-6, L. 112-1, L. 112-2, L. 112-3, 
+L. 114-1 à L. 114-3-7, L. 114-5 et L. 120-1 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant de
+l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
+française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
+recherche et, sous réserve des dispositions de l'article 38 de la loi organique n° 99-209 du 19 mai 1999 relative à la
+Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°99-209 du 19 mars 1999 - art. 38
+  - Loi n°2013-660 du 22 juillet 2013
   - Code de la recherche - art. L111-1
   - Code de la recherche - art. L111-2
   - Code de la recherche - art. L111-4
   - Code de la recherche - art. L112-1
   - Code de la recherche - art. L112-2
-  - Code de la recherche - art. L114-1 (V)
+  - Code de la recherche - art. L112-3
+  - Code de la recherche - art. L114-1
   - Code de la recherche - art. L114-5
+  - Code de la recherche - art. L120-1
 
 _Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
 
 
 ## LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE<a id=20></a>
@@ -1784,13 +1797,16 @@ _Créé par_:
 
 ###### Article L265-1
 
-Les dispositions de l'article L. 251-1 sont applicables dans les îles Wallis et Futuna.
+Les dispositions de l'article L. 251-1 sont applicables dans les îles Wallis et Futuna, dans sa rédaction résultant de
+l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
+française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
+recherche.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 4
 
 _Cite_:
 
@@ -1802,7 +1818,10 @@ _Cite_:
 ###### Article L266-1
 
 Sous réserve des dispositions des articles 26 et 37 de la loi organique n° 2004-192 du 27 février 2004 portant statut
-d'autonomie de la Polynésie française, les dispositions de l'article L. 251-1 sont applicables en Polynésie française.
+d'autonomie de la Polynésie française, les dispositions de l'article L. 251-1 sont applicables en Polynésie française, dans
+sa rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et
+Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement
+supérieur et à la recherche.
 
 **Liens relatifs à cet article**
 
@@ -1812,9 +1831,9 @@ _Cite_:
   - Loi organique n°2004-192 du 27 février 2004 - art. 37
   - Code de la recherche - art. L251-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
 
 _Cité par_:
 
@@ -1826,18 +1845,21 @@ _Cité par_:
 ###### Article L267-1
 
 Sous réserve des dispositions du 10° de l'article 22 de la loi organique n° 99-209 du 19 mai 1999 relative à la Nouvelle-
-Calédonie, les dispositions de l'article L. 251-1 sont applicables en Nouvelle-Calédonie.
+Calédonie, les dispositions de l'article L. 251-1 sont applicables en Nouvelle-Calédonie dans sa rédaction résultant de
+l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
+française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
+recherche.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°99-209 du 19 mars 1999 - art. 22
-  - Code de la recherche - art. L251-1 (V)
+  - Code de la recherche - art. L251-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
 
 
 ## LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=43></a>
@@ -2947,21 +2969,28 @@ _Créé par_:
 
 ###### Article L365-1
 
-Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8, L. 332-1 à L. 332-7 et
-L. 344-11 à L. 344-16 sont applicables dans les îles Wallis et Futuna. 
+Les dispositions des articles L. 311-1 à L. 311-3, L. 311-5, L. 312-1, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8, L. 332-1 à
+L. 332-7 et L. 344-11 à L. 344-16 sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de
+l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
+française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
+recherche. 
 
 Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur d'académie.
+
+Pour l'application à Wallis et Futuna du premier alinéa de l'article L. 344-11, les mots : " des collectivités territoriales
+" sont remplacés par les mots : " du territoire et des autres circonscriptions territoriales ".
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 4
 
 _Cite_:
 
   - Code de la recherche - art. L311-1
+  - Code de la recherche - art. L311-5
   - Code de la recherche - art. L312-1
   - Code de la recherche - art. L321-1
   - Code de la recherche - art. L331-1
@@ -2973,21 +3002,29 @@ _Cite_:
 
 ###### Article L366-1
 
-Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8, L. 332-1 à L. 332-7 et
-L. 344-11 à L. 344-16 sont applicables en Polynésie française. 
+Les dispositions des articles L. 311-1 à L. 311-3, 
+L. 311-5, 
+L. 312-1, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8, L. 332-1 à L. 332-7 et L. 344-11 à L. 344-16 sont applicables en
+Polynésie française dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et
+adaptation dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22
+juillet 2013 relative à l'enseignement supérieur et à la recherche. 
 
 Pour l'application du présent livre en Polynésie française, le ministre chargé de la recherche exerce les compétences
-dévolues au recteur d'académie.
+dévolues au recteur d'académie. 
+
+Pour l'application à la Polynésie française du premier alinéa de l'article L. 344-11, les mots : " des collectivités
+territoriales " sont remplacés par les mots : " de la Polynésie française et des communes ".
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
 
 _Cite_:
 
   - Code de la recherche - art. L311-1
+  - Code de la recherche - art. L311-5
   - Code de la recherche - art. L312-1
   - Code de la recherche - art. L321-1
   - Code de la recherche - art. L331-1
@@ -2999,28 +3036,38 @@ _Cite_:
 
 ###### Article L367-1
 
-Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8, L. 332-1 à L. 332-7,
-L. 521-1 à L. 521-13 et L. 344-11 à L. 344-16 sont applicables en Nouvelle-Calédonie. 
+Les dispositions des articles L. 311-1 à L. 311-3, L. 311-5, L. 312-1, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8, L. 332-1 à
+L. 332-7, L. 521-1 à L. 521-13 et L. 344-11 à L. 344-16 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant
+de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
+française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
+recherche.
+
+. 
 
 Pour l'application du présent livre en Nouvelle-Calédonie, le ministre chargé de la recherche exerce les compétences dévolues
-au recteur d'académie.
+au recteur d'académie. 
+
+Pour l'application à la Nouvelle-Calédonie du premier alinéa de l'article L. 344-11, les mots : " des collectivités
+territoriales " sont remplacés par les mots : " de la Nouvelle-Calédonie, des provinces et des communes ".
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 3 (V)
-
 _Cite_:
 
+  - Loi n°2013-660 du 22 juillet 2013
   - Code de la recherche - art. L311-1
+  - Code de la recherche - art. L311-5
   - Code de la recherche - art. L312-1
-  - Code de la recherche - art. L321-1 (V)
+  - Code de la recherche - art. L321-1
   - Code de la recherche - art. L331-1
   - Code de la recherche - art. L332-1
   - Code de la recherche - art. L342-1
   - Code de la recherche - art. L344-1
+  - Code de la recherche - art. L344-11
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
 
 
 #### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=68></a>
@@ -3790,13 +3837,15 @@ _Cite_:
 
 Les dispositions des articles L. 411-3, L. 412-1,
 L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L. 432-1, L. 432-2 et L. 433-1 sont applicables dans les îles
-Wallis et Futuna.
+Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation
+dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013
+relative à l'enseignement supérieur et à la recherche.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 4
 
 _Cite_:
 
@@ -3817,50 +3866,51 @@ _Cite_:
 
 ###### Article L446-1
 
-Les dispositions des articles L. 412-1,
-L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L. 432-1, L. 432-2 et L. 433-1 sont applicables en Polynésie
-française. 
+Dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles
+Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à
+l'enseignement supérieur et à la recherche : 
 
-Sous réserve des compétences de la collectivité mentionnées à l'article 26 de la loi organique n° 2004-192 du 27 février 2004
-portant statut d'autonomie de la Polynésie française, l'article L. 411-3 y est applicable.
+1° Les dispositions des articles L. 412-1, L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L. 432-1, L. 432-2 et
+L. 433-1 sont applicables en Polynésie française ; 
+
+2° Sous réserve des compétences de la collectivité mentionnées à l'article 26 de la loi organique n° 2004-192 du 27 février
+2004 portant statut d'autonomie de la Polynésie française, l'article L. 411-3 y est applicable.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi organique n°2004-192 du 27 février 2004 - art. 26
+  - Loi n°2013-660 du 22 juillet 2013
+  - ORDONNANCE n°2015-24 du 14 janvier 2015
   - Code de la recherche - art. L411-3
   - Code de la recherche - art. L412-1
-  - Code de la recherche - art. L413-1
   - Code de la recherche - art. L421-1
   - Code de la recherche - art. L422-1
   - Code de la recherche - art. L431-1
-  - Code de la recherche - art. L431-2
   - Code de la recherche - art. L432-1
-  - Code de la recherche - art. L432-2
   - Code de la recherche - art. L433-1
 
 _Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
 
 
 #### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=83></a>
 
 ###### Article L447-1
 
-Les dispositions des articles L. 411-3, L. 412-1,
+Les dispositions des articles L. 411-3, L. 412-1, 
 L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L. 432-1, L. 432-2 et L. 433-1 sont applicables en Nouvelle-
-Calédonie.
+Calédonie dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans
+les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative
+à l'enseignement supérieur et à la recherche.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
-
 _Cite_:
 
+  - Loi n°2013-660 du 22 juillet 2013
   - Code de la recherche - art. L411-3
   - Code de la recherche - art. L412-1
   - Code de la recherche - art. L413-1
@@ -3872,6 +3922,10 @@ _Cite_:
   - Code de la recherche - art. L432-1
   - Code de la recherche - art. L432-2
   - Code de la recherche - art. L433-1
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
 
 
 ## LIVRE V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE<a id=84></a>
@@ -4896,16 +4950,25 @@ _Cite_:
 ###### Article L545-1
 
 Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 531-1 à L. 531-16, L. 533-2 et L. 533-3 sont applicables
-dans les îles Wallis et Futuna. 
+dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension
+et adaptation dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22
+juillet 2013 relative à l'enseignement supérieur et à la recherche. 
 
 Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 4
+
+_Cite_:
+
+  - Code de la recherche - art. L513-2
+  - Code de la recherche - art. L521-1
+  - Code de la recherche - art. L531-1
+  - Code de la recherche - art. L533-2
 
 
 #### Chapitre VI : Dispositions relatives à la Polynésie française<a id=102></a>
@@ -4913,32 +4976,52 @@ _Créé par_:
 ###### Article L546-1
 
 Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 531-1 à L. 531-16 et L. 533-2 et L. 533-3 sont applicables
-en Polynésie française. 
+en Polynésie française dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et
+adaptation dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22
+juillet 2013 relative à l'enseignement supérieur et à la recherche. 
 
 Pour l'application du présent livre en Polynésie française, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2013-660 du 22 juillet 2013
+  - Code de la recherche - art. L513-2
+  - Code de la recherche - art. L521-1
+  - Code de la recherche - art. L531-1
+  - Code de la recherche - art. L533-2
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
 
 
 #### Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie<a id=103></a>
 
 ###### Article L547-1
 
-Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 531-1 à L. 531-16, L. 533-2 et L. 533-3 sont applicables en
-Nouvelle-Calédonie. 
+Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 531-1 à L. 531-16, 
+L. 533-2 et L. 533-3 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14
+janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie
+de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche. 
 
 Pour l'application du présent livre en Nouvelle-Calédonie, le ministre chargé de la recherche exerce les compétences dévolues
 au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2013-660 du 22 juillet 2013
+  - Code de la recherche - art. L513-2
+  - Code de la recherche - art. L521-1
+  - Code de la recherche - art. L531-1
+  - Code de la recherche - art. L533-2
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
 
 
