@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2015-01-16
+Version Consolidée au 2015-12-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -1737,19 +1737,23 @@ _Cite_:
 
 ###### Article L253-2
 
-Les modalités d'utilisation dans la recherche de produits biocides sont fixées par les dispositions de l'article L. 522-2 et
-de l'article L. 522-7 du code de l'environnement.
+Les modalités d'utilisation dans la recherche de produits biocides sont fixées par les articles L. 522-1 et L. 522-9 du code
+de l'environnement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
+
+_Modifié par_:
+
+  - Loi n°2015-1567 du 2 décembre 2015 - art. 17
 
 _Cite_:
 
   - Code de l'environnement - art. L522-2 (V)
-  - Code de l'environnement - art. L522-7 (V)
+  - Code de l'environnement - art. L522-7 (Ab)
 
 
 ###### Article L253-3
