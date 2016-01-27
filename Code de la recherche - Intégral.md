@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2015-12-04
+Version Consolidée au 2016-01-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -256,7 +256,9 @@ Les priorités en sont arrêtées après une concertation avec la communauté sc
 sociaux et économiques et des représentants des associations et fondations, reconnues d'utilité publique, les ministères
 concernés et les collectivités territoriales, en particulier les régions. Le ministre chargé de la recherche veille à la
 cohérence de la stratégie nationale avec celle élaborée dans le cadre de l'Union européenne et à ce que des informations
-sensibles à caractère stratégique pour la compétitivité ou la défense des intérêts nationaux soient préservées. 
+sensibles à caractère stratégique pour la compétitivité ou la défense des intérêts nationaux soient préservées. Il veille
+également à la cohérence de la stratégie nationale de recherche avec la stratégie nationale de santé définie à l'article L.
+1411-1-1 du code de la santé publique, notamment en matière de risques pour la santé liés à l'environnement. 
 
 La stratégie nationale de recherche et les conditions de sa mise en œuvre font l'objet d'un rapport biennal de l'office
 parlementaire d'évaluation des choix scientifiques et technologiques, délégation mentionnée à l'article 6 ter de l'ordonnance
@@ -275,6 +277,7 @@ l'ordonnance n° 58-1100 du 17 novembre 1958 précitée, contribue à l'évaluat
 _Cite_:
 
   - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 ter
+  - Code de la santé publique - art. L1411-1-1 (V)
 
 _Anciens textes_:
 
@@ -297,7 +300,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 64 (V)
+  - Loi n°2016-41 du 26 janvier 2016 - art. 55
 
 
 ###### Article L111-7
@@ -1500,44 +1503,13 @@ _Cite_:
 ###### Article L225-1
 
 Les traitements de données à caractère personnel ayant pour fin la recherche dans le domaine de la santé sont régis par les
-dispositions du chapitre IX de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés,
-notamment par son article 54 ci-après reproduit : 
-
-Art. 54.-Pour chaque demande de mise en œuvre d'un traitement de données à caractère personnel, un comité consultatif sur le
-traitement de l'information en matière de recherche dans le domaine de la santé, institué auprès du ministre chargé de la
-recherche et composé de personnes compétentes en matière de recherche dans le domaine de la santé, d'épidémiologie, de
-génétique et de biostatistique, émet un avis sur la méthodologie de la recherche au regard des dispositions de la présente
-loi, la nécessité du recours à des données à caractère personnel et la pertinence de celles-ci par rapport à l'objectif de la
-recherche, préalablement à la saisine de la Commission nationale de l'informatique et des libertés. 
-
-Le comité consultatif dispose d'un mois pour transmettre son avis au demandeur.A défaut, l'avis est réputé favorable. En cas
-d'urgence, ce délai peut être ramené à quinze jours. 
-
-Le président du comité consultatif peut mettre en œuvre une procédure simplifiée. 
-
-La mise en œuvre du traitement de données est ensuite soumise à l'autorisation de la Commission nationale de l'informatique
-et des libertés, qui se prononce dans les conditions prévues à l'article 25. 
-
-Pour les catégories les plus usuelles de traitements automatisés ayant pour finalité la recherche dans le domaine de la santé
-et portant sur des données ne permettant pas une identification directe des personnes concernées, la commission peut
-homologuer et publier des méthodologies de référence, établies en concertation avec le comité consultatif ainsi qu'avec les
-organismes publics et privés représentatifs, et destinées à simplifier la procédure prévue aux quatre premiers alinéas du
-présent article. 
-
-Ces méthodologies précisent, eu égard aux caractéristiques mentionnées à l'article 30, les normes auxquelles doivent
-correspondre les traitements pouvant faire l'objet d'une demande d'avis et d'une demande d'autorisation simplifiées. 
-
-Pour les traitements répondant à ces normes, seul un engagement de conformité à l'une d'entre elles est envoyé à la
-commission. Le président de la commission peut autoriser ces traitements à l'issue d'une procédure simplifiée d'examen. 
-
-Pour les autres catégories de traitements, le comité consultatif fixe, en concertation avec la Commission nationale de
-l'informatique et des libertés, les conditions dans lesquelles son avis n'est pas requis.
+dispositions du chapitre IX de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+  - Loi n°2016-41 du 26 janvier 2016 - art. 193
 
 
 ###### Article L225-2
