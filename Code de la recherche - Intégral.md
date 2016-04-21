@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2016-01-28
+Version Consolidée au 2016-04-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -3457,7 +3457,7 @@ règles relatives aux mutations afin de faciliter la libre circulation des perso
 recherche et les institutions qui y concourent ; 
 
 f) Dans le respect des dispositions de l'article 432-12 du code pénal, et par dérogation à l'interdiction d'exercer à titre
-professionnel une activité privée lucrative fixée au premier alinéa de l'article 25 de la loi n° 83-634 du 13 juillet 1983
+professionnel une activité privée lucrative fixée       au I de l'article 25 septies de la loi n° 83-634 du 13 juillet 1983
 portant droits et obligations des fonctionnaires, les personnels de recherche mentionnés aux articles L. 421-1 et L. 421-2
 autorisés à accomplir une période de service à temps partiel peuvent être autorisés à exercer, en sus de leurs fonctions, une
 activité dans une entreprise exerçant une ou plusieurs des missions définies à l'article L. 411-1.
@@ -3470,18 +3470,18 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°83-634 du 13 juillet 1983 - art. 25 (V)
-  - Code pénal - art. 432-12 (V)
-  - Code de la recherche - art. L411-1 (V)
-  - Code de la recherche - art. L421-1 (V)
+  - Loi n°83-634 du 13 juillet 1983 - art. 25
+  - Code pénal - art. 432-12
+  - Code de la recherche - art. L411-1
+  - Code de la recherche - art. L421-1
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Modifié par_:
 
-  - loi n°2006-450 du 18 avril 2006 - art. 18 () JORF 19 avril 2006
+  - Loi n°2016-483 du 20 avril 2016 - art. 10
 
 _Cité par_:
 
@@ -4376,9 +4376,9 @@ _Cite_:
 
 ###### Article L531-3
 
-L'autorisation est accordée par l'autorité dont relève le fonctionnaire après avis de la commission prévue par l'article 87
-de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et
-des procédures publiques, pour une période de temps limitée fixée par voie réglementaire. 
+L'autorisation est accordée par l'autorité dont relève le fonctionnaire après avis de la commission
+mentionnée à l'article 25 octies de la loi n° 83-634 du 13 juillet 1983 relative aux droits et obligations des
+fonctionnaires , pour une période de temps limitée fixée par voie réglementaire. 
 
 L'autorisation est refusée : 
 
@@ -4396,11 +4396,11 @@ pouvoirs publics.
 
 _Cite_:
 
-  - Loi n°93-122 du 29 janvier 1993 - art. 87
+  - Loi n°83-634 du 13 juillet 1983 - art. 25 octies
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2016-483 du 20 avril 2016 - art. 10
 
 _Cité par_:
 
@@ -4481,20 +4481,20 @@ _Cité par_:
 
 L'autorisation est retirée ou non renouvelée si les conditions qui avaient permis sa délivrance ne sont plus réunies ou si le
 fonctionnaire méconnaît les dispositions de la présente section. Dans ce cas, le fonctionnaire ne peut poursuivre son
-activité dans l'entreprise que dans les conditions prévues à l'article 87 de la loi n° 93-122 du 29 janvier 1993 relative à
-la prévention de la corruption et à la transparence de la vie économique et des procédures publiques. S'il ne peut conserver
-d'intérêts dans l'entreprise, il dispose du délai d'un an prévu au b de l'article L. 531-6 pour y renoncer.
+activité dans l'entreprise que dans les conditions prévues à l'article 25 octies de la loi n° 83-634 du 13 juillet 1983
+relative aux droits et obligations des fonctionnaires. S'il ne peut conserver d'intérêts dans l'entreprise, il dispose du
+délai d'un an prévu au b de l'article L. 531-6 pour y renoncer.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°93-122 du 29 janvier 1993 - art. 87
-  - Code de la recherche - art. L531-6 (V)
+  - Loi n°83-634 du 13 juillet 1983 - art. 25 octies
+  - Code de la recherche - art. L531-6
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2016-483 du 20 avril 2016 - art. 10
 
 _Cité par_:
 
