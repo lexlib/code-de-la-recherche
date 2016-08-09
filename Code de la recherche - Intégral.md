@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2016-04-22
+Version Consolidée au 2016-08-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -35,7 +35,7 @@ Version Consolidée au 2016-04-22
       - [TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS (art. L241-1 à L241-3)](#32)
         - [Chapitre unique. (art. L241-1 à L241-3)](#33)
       - [TITRE V : AUTRES DOMAINES DE RECHERCHE (art. L251-1 à L254-1)](#34)
-        - [Chapitre Ier : La recherche scientifique marine. (art. L251-1)](#35)
+        - [Chapitre Ier : La recherche scientifique marine. (art. L251-1 à L251-3)](#35)
         - [Chapitre II : Les recherches sur la gestion des déchets radioactifs. (art. L252-1)](#36)
         - [Chapitre III : Utilisation en recherche de certains produits chimiques. (art. L253-1 à L253-3)](#37)
         - [Chapitre IV : La recherche en archéologie. (art. L254-1)](#38)
@@ -1647,17 +1647,17 @@ _Créé par_:
 
 ###### Article L251-1
 
-Toute activité de recherche scientifique marine, menée dans la mer territoriale, dans la zone économique et dans la zone de
-protection écologique définies par la loi n° 76-655 du 16 juillet 1976 relative à la zone économique et à la zone de
-protection écologique au large des côtes du territoire de la République et sur le plateau continental, est soumise à une
-autorisation assortie, le cas échéant, de prescriptions dans les conditions et selon les modalités fixées par décret en
+Toute activité de recherche scientifique marine, menée dans la mer territoriale, dans la zone économique exclusive et dans la
+zone de protection écologique définies par la loi n° 76-655 du 16 juillet 1976 relative à la zone économique exclusive et à
+la zone de protection écologique au large des côtes du territoire de la République et sur le plateau continental, est soumise
+à une autorisation assortie, le cas échéant, de prescriptions dans les conditions et selon les modalités fixées par décret en
 Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°76-655 du 16 juillet 1976 (V)
+  - Loi n°76-655 du 16 juillet 1976
 
 _Anciens textes_:
 
@@ -1665,7 +1665,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+  - Ordonnance n°2004-545 du 11 juin 2004
 
 _Cité par_:
 
@@ -1675,6 +1675,53 @@ _Cité par_:
   - Code de la recherche - art. L265-1 (V)
   - Code de la recherche - art. L266-1 (V)
   - Code de la recherche - art. L267-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2016-1087 du 8 août 2016 - art. 96
+
+
+###### Article L251-2
+
+Est puni de 15 000 € d'amende le fait d'entreprendre ou de poursuivre sans autorisation, lorsqu'elle y est soumise, une
+activité de recherche scientifique marine dans les zones mentionnées à l'article L. 251-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1087 du 8 août 2016 - art. 96
+
+
+###### Article L251-3
+
+Toute autorisation de réaliser des recherches dans les espaces maritimes sous souveraineté ou juridiction nationale est
+subordonnée à l'engagement de communiquer les renseignements et données recueillis ainsi que les éléments nécessaires à leur
+exploitation, selon leur contenu, à l'Institut français de recherche pour l'exploitation de la mer, à l'Agence française pour
+la biodiversité, à Météo-France, au service hydrographique et océanographique de la marine ou à tout autre organisme
+scientifique public désigné par l'Etat. 
+
+Les renseignements et les données recueillis lors des recherches et intéressant la sécurité de la navigation ainsi que ceux
+concernant les propriétés physico-chimiques ou les mouvements des eaux sous-jacentes tombent immédiatement dans le domaine
+public. Ils sont directement communiqués, dès leur obtention, à Météo-France et au service hydrographique et océanographique
+de la marine à raison de leurs missions respectives. 
+
+Les agents des organismes mentionnés au premier alinéa ayant accès à ces renseignements et à ces données sont astreints au
+secret professionnel. Ils peuvent toutefois utiliser les renseignements et les données pour leurs travaux de recherche ou
+pour les expertises qui leur sont demandées en application d'une disposition législative ou réglementaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1087 du 8 août 2016 - art. 96
+
+_Cité par_:
+
+  - Décret n°2017-956 du 10 mai 2017 - art. 11 (VD)
+  - Décret n°2017-956 du 10 mai 2017 - art. 15 (VD)
+  - Décret n°2017-956 du 10 mai 2017 - art. 3 (VD)
+  - Décret n°2017-956 du 10 mai 2017 - art. 4 (VD)
 
 
 #### Chapitre II : Les recherches sur la gestion des déchets radioactifs.<a id=36></a>
@@ -1768,7 +1815,7 @@ _Créé par_:
 
 ###### Article L265-1
 
-Les dispositions de l'article L. 251-1 sont applicables dans les îles Wallis et Futuna, dans sa rédaction résultant de
+Les articles L. 251-1, L. 251-2 et L. 251-3 sont applicables dans les îles Wallis et Futuna, dans sa rédaction résultant de
 l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
 française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
 recherche.
@@ -1777,7 +1824,7 @@ recherche.
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 4
+  - Loi n°2016-1087 du 8 août 2016 - art. 97
 
 _Cite_:
 
@@ -1789,10 +1836,10 @@ _Cite_:
 ###### Article L266-1
 
 Sous réserve des dispositions des articles 26 et 37 de la loi organique n° 2004-192 du 27 février 2004 portant statut
-d'autonomie de la Polynésie française, les dispositions de l'article L. 251-1 sont applicables en Polynésie française, dans
-sa rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et
-Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement
-supérieur et à la recherche.
+d'autonomie de la Polynésie française, les articles L. 251-1, L. 251-2 et L. 251-3 sont applicables en Polynésie française,
+dans sa rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles
+Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à
+l'enseignement supérieur et à la recherche.
 
 **Liens relatifs à cet article**
 
@@ -1804,7 +1851,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
+  - Loi n°2016-1087 du 8 août 2016 - art. 97
 
 _Cité par_:
 
@@ -1816,7 +1863,7 @@ _Cité par_:
 ###### Article L267-1
 
 Sous réserve des dispositions du 10° de l'article 22 de la loi organique n° 99-209 du 19 mai 1999 relative à la Nouvelle-
-Calédonie, les dispositions de l'article L. 251-1 sont applicables en Nouvelle-Calédonie dans sa rédaction résultant de
+Calédonie, les articles L. 251-1, L. 251-2 et L. 251-3 sont applicables en Nouvelle-Calédonie dans sa rédaction résultant de
 l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
 française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
 recherche.
@@ -1830,7 +1877,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
+  - Loi n°2016-1087 du 8 août 2016 - art. 97
 
 
 ## LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=43></a>
