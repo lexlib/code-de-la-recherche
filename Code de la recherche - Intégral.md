@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2016-08-10
+Version Consolidée au 2016-10-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -93,14 +93,14 @@ Version Consolidée au 2016-08-10
       - [TITRE II  : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE (art. L521-1 à L522-1)](#90)
         - [Chapitre Ier : Les centres techniques industriels (art. L521-1 à L521-13)](#91)
         - [Chapitre II : Autres structures (art. L522-1)](#92)
-      - [TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L531-1 à L533-3)](#93)
+      - [TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L531-1 à L533-4)](#93)
         - [Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L531-1 à L531-16)](#94)
           - [Section 1 : Participation des personnels de la recherche 
 à la création d'entreprises (art. L531-1 à L531-7)](#95)
           - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante (art. L531-8 à L531-11)](#96)
           - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme (art. L531-12 à L531-14)](#97)
           - [Section 4 : Dispositions générales (art. L531-15 à L531-16)](#98)
-        - [Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche (art. L533-1 à L533-3)](#99)
+        - [Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche (art. L533-1 à L533-4)](#99)
       - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L545-1 à L547-1)](#100)
         - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna (art. L545-1)](#101)
         - [Chapitre VI : Dispositions relatives à la Polynésie française (art. L546-1)](#102)
@@ -4865,16 +4865,47 @@ _Cite_:
   - Code de la recherche - art. L533-2 (V)
 
 
+###### Article L533-4
+
+I.-Lorsqu'un écrit scientifique issu d'une activité de recherche financée au moins pour moitié par des dotations de l'Etat,
+des collectivités territoriales ou des établissements publics, par des subventions d'agences de financement nationales ou par
+des fonds de l'Union européenne est publié dans un périodique paraissant au moins une fois par an, son auteur dispose, même
+après avoir accordé des droits exclusifs à un éditeur, du droit de mettre à disposition gratuitement dans un format ouvert,
+par voie numérique, sous réserve de l'accord des éventuels coauteurs, la version finale de son manuscrit acceptée pour
+publication, dès lors que l'éditeur met lui-même celle-ci gratuitement à disposition par voie numérique ou, à défaut, à
+l'expiration d'un délai courant à compter de la date de la première publication. Ce délai est au maximum de six mois pour une
+publication dans le domaine des sciences, de la technique et de la médecine et de douze mois dans celui des sciences humaines
+et sociales. 
+
+La version mise à disposition en application du premier alinéa ne peut faire l'objet d'une exploitation dans le cadre d'une
+activité d'édition à caractère commercial. 
+
+II.-Dès lors que les données issues d'une activité de recherche financée au moins pour moitié par des dotations de l'Etat,
+des collectivités territoriales, des établissements publics, des subventions d'agences de financement nationales ou par des
+fonds de l'Union européenne ne sont pas protégées par un droit spécifique ou une réglementation particulière et qu'elles ont
+été rendues publiques par le chercheur, l'établissement ou l'organisme de recherche, leur réutilisation est libre. 
+
+III.-L'éditeur d'un écrit scientifique mentionné au I ne peut limiter la réutilisation des données de la recherche rendues
+publiques dans le cadre de sa publication. 
+
+IV.-Les dispositions du présent article sont d'ordre public et toute clause contraire à celles-ci est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 30
+
+
 ### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=100></a>
 
 #### Chapitre V : Dispositions relatives aux îles Wallis et Futuna<a id=101></a>
 
 ###### Article L545-1
 
-Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 531-1 à L. 531-16, L. 533-2 et L. 533-3 sont applicables
-dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension
-et adaptation dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22
-juillet 2013 relative à l'enseignement supérieur et à la recherche. 
+Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 531-1 à L. 531-16,  L. 533-2 et L. 533-4 sont applicables
+dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République
+numérique.
 
 Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur d'académie.
@@ -4883,7 +4914,7 @@ dévolues au recteur d'académie.
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 4
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 _Cite_:
 
