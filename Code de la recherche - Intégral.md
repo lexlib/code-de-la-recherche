@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2016-12-10
+Version Consolidée au 2017-01-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -11,7 +11,7 @@ Version Consolidée au 2016-12-10
         - [Chapitre III : Programmation des moyens de la recherche publique et des actions de développement technologique. (art. L113-1 à L113-2)](#8)
         - [Chapitre IV : Evaluation et contrôle de la recherche et du développement technologique. (art. L114-1 à L114-6)](#9)
           - [Section 1 : Objectifs de l'évaluation (art. L114-1 à L114-3)](#10)
-          - [Section 2 : Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur. (art. L114-3-1 à L114-3-7)](#11)
+          - [Section 2 : Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur. (art. L114-3-1 à L114-3-6)](#11)
           - [Section 3 : Dispositions diverses relatives à l'évaluation et au contrôle (art. L114-4 à L114-6)](#12)
       - [TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L120-1 à L123-1)](#13)
         - [Chapitre préliminaire : Le Conseil stratégique de la recherche. (art. L120-1)](#14)
@@ -912,18 +912,19 @@ _Cite_:
 
 ###### Article L114-3-3
 
-I.-Le Haut Conseil est administré par un conseil garant de la qualité de ses travaux. 
+I.-Le Haut Conseil est administré par un collège garant de la qualité de ses travaux. 
 
-II.-Le conseil arrête le programme annuel d'évaluation du Haut Conseil. Il définit les mesures propres à garantir la qualité,
+II.-Le collège arrête le programme annuel d'évaluation du Haut Conseil. Il définit les mesures propres à garantir la qualité,
 la transparence et la publicité des procédures d'évaluation. 
 
-Son président, nommé parmi ses membres, dirige le Haut Conseil et a autorité sur ses personnels. 
+Le président est nommé par décret du Président de la République parmi les membres du collège. Il exerce ses fonctions à temps
+plein. 
 
-Le conseil est composé de trente membres nommés par décret. Il comprend autant d'hommes que de femmes. A cette fin, le décret
+Le collège est composé de trente membres nommés par décret. Il comprend autant d'hommes que de femmes. A cette fin, le décret
 en Conseil d'Etat prévu à l'article L. 114-3-6 précise le nombre et la répartition par sexe des candidats proposés par
 chacune des instances, autorités et associations compétentes. 
 
-Le conseil comprend : 
+Le collège comprend : 
 
 1° Neuf membres ayant la qualité de chercheur, d'ingénieur ou d'enseignant-chercheur, nommés sur proposition des instances
 d'évaluation compétentes en matière d'enseignement supérieur et de recherche parmi leurs membres élus, dont au moins trois
@@ -944,15 +945,13 @@ trois appartenant à des agences d'accréditation ou d'évaluation étrangères 
 5° Un député et un sénateur désignés par la commission permanente compétente en matière d'enseignement supérieur et de
 recherche de chaque assemblée.
 
+La durée du mandat des membres autres que ceux mentionnés au 5° est de quatre ans. Ce mandat est renouvelable une fois.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2004-545 du 11 juin 2004
-
-_Modifié par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 92
 
 _Cité par_:
 
@@ -963,6 +962,10 @@ _Cité par_:
   - Code de la recherche - art. L143-1 (Ab)
   - Code de la recherche - art. L144-1 (Ab)
   - Code de la recherche - art. L145-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2017-55 du 20 janvier 2017 - art. 44
 
 _Cite_:
 
@@ -1001,8 +1004,7 @@ _Cité par_:
 ###### Article L114-3-6
 
 Un décret en Conseil d'État précise l'organisation et le fonctionnement du Haut Conseil de l'évaluation de la recherche et de
-l'enseignement supérieur, notamment la durée du mandat des membres et du président, ainsi que les règles de déontologie
-s'appliquant à ses membres afin de garantir leur indépendance et leur impartialité.
+l'enseignement supérieur.
 
 **Liens relatifs à cet article**
 
@@ -1022,36 +1024,9 @@ _Cité par_:
   - Code de la recherche - art. L143-1 (Ab)
   - Code de la recherche - art. L144-1 (Ab)
   - Code de la recherche - art. L145-1 (V)
-  - Code de la recherche - art. L146-1 (M)
+  - Code de la recherche - art. L146-1 (V)
 
 _Modifié par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 93
-
-
-###### Article L114-3-7
-
-Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur remet chaque année au Gouvernement un rapport
-sur ses travaux. Ce rapport est transmis au Parlement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2004-545 du 11 juin 2004
-
-_Cité par_:
-
-  - Décret n°2006-1334 du 3 novembre 2006 - art. 6 (Ab)
-  - Décret n°2014-1365 du 14 novembre 2014 - art. 2 (V)
-  - Code de la recherche - art. L146-1 (M)
-  - Code rural et de la pêche maritime - art. D812-27 (V)
-
-_Modifié par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 93
-
-_Abrogé par_:
 
   - Loi n°2017-55 du 20 janvier 2017 - art. 44
 
@@ -1224,17 +1199,16 @@ _Cite_:
 
 ###### Article L145-1
 
-Les dispositions des articles L. 111-1, L. 111-2, L. 111-4 à L. 111-6, L. 112-1, L. 112-2, L. 112-3, 
-L. 114-1 à L. 114-3-7, L. 114-5 et L. 120-1 sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de
-l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
-française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
-recherche.
+Les dispositions des articles L. 111-1, L. 111-2, L. 111-4 à L. 111-6, L. 112-1, L. 112-2, L. 112-3,  L. 114-1 à L. 114-3-6,
+L. 114-5 et L. 120-1 sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n°
+2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie française et en
+Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 4
+  - Loi n°2017-55 du 20 janvier 2017 - art. 44
 
 _Cite_:
 
@@ -1242,7 +1216,6 @@ _Cite_:
   - Code de la recherche - art. L111-2
   - Code de la recherche - art. L111-4
   - Code de la recherche - art. L112-1
-  - Code de la recherche - art. L114-1
   - Code de la recherche - art. L114-5
   - Code de la recherche - art. L120-1
 
@@ -1255,8 +1228,8 @@ _Cite_:
 Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à
 l'enseignement supérieur et à la recherche : 
 
-1° Les dispositions des articles L. 111-1, L. 111-2, L. 111-4, L. 114-1 à L. 114-3-4, L. 114-3-6 et L. 114-3-7, et L. 114-5
-sont applicables en Polynésie française ; 
+1° Les dispositions des articles L. 111-1, L. 111-2, L. 111-4, L. 114-1 à L. 114-3-4,  L. 114-3-6 et L. 114-5 sont
+applicables en Polynésie française ; 
 
 2° Sous réserve des compétences de la collectivité mentionnées au chapitre Ier du titre III de la loi organique n° 2004-192
 du 27 février 2004 portant statut d'autonomie de la Polynésie française, les articles L. 111-5, L. 111-6, L. 112-1, L. 112-2,
@@ -1274,26 +1247,25 @@ _Cite_:
   - Code de la recherche - art. L112-1
   - Code de la recherche - art. L114-1
   - Code de la recherche - art. L114-3-5
-  - Code de la recherche - art. L114-3-6
+  - Code de la recherche - art. L114-3-6 (V)
   - Code de la recherche - art. L114-5
   - Code de la recherche - art. L120-1
   - Code de la recherche - art. L266-1
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
+  - Loi n°2017-55 du 20 janvier 2017 - art. 44
 
 
 #### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=19></a>
 
 ###### Article L147-1
 
-Les dispositions des articles L. 111-1, L. 111-2, L. 111-4 à L. 111-6, L. 112-1, L. 112-2, L. 112-3, 
-L. 114-1 à L. 114-3-7, L. 114-5 et L. 120-1 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant de
-l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
-française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
-recherche et, sous réserve des dispositions de l'article 38 de la loi organique n° 99-209 du 19 mai 1999 relative à la
-Nouvelle-Calédonie.
+Les dispositions des articles L. 111-1, L. 111-2, L. 111-4 à L. 111-6, L. 112-1, L. 112-2, L. 112-3, L. 114-1 à L. 114-3-6,
+L. 114-5 et L. 120-1 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14
+janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie
+de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche et, sous réserve des
+dispositions de l'article 38 de la loi organique n° 99-209 du 19 mai 1999 relative à la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -1313,7 +1285,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
+  - Loi n°2017-55 du 20 janvier 2017 - art. 44
 
 
 ## LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE<a id=20></a>
