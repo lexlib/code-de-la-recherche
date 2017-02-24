@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-02-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -1382,14 +1382,14 @@ suivants du code de la santé publique :
 2° S'agissant des organes, les articles L. 1232-1 à L. 1232-3, le troisième alinéa de l'article L. 1235-1 et l'article L.
 1235-2 ; 
 
-3° S'agissant des tissus et cellules, les articles L. 1241-5, L. 1243-3, L. 1243-4, L. 1245-2 et le septième alinéa de
-l'article L. 1245-5.
+3° S'agissant des tissus et cellules, les articles L. 1241-5, L. 1243-3, L. 1243-4, L. 1245-2 et les articles L. 1245-5 et L.
+1245-5-1.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-814 du 7 juillet 2011 - art. 17
+  - Loi n°2017-220 du 23 février 2017 - art. 3
 
 _Cite_:
 
@@ -1404,6 +1404,7 @@ _Cite_:
   - Code de la santé publique - art. L1243-4
   - Code de la santé publique - art. L1245-2
   - Code de la santé publique - art. L1245-5
+  - Code de la santé publique - art. L1245-5-1
 
 
 #### Chapitre III : Les recherches biomédicales.<a id=26></a>
