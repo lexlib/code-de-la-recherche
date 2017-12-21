@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2017-02-25
+Version Consolidée au 2017-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -3604,10 +3604,10 @@ _Cité par_:
 ###### Article L431-1
 
 Par dérogation aux principes énoncés à l'article 3 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
-fonctionnaires ou, le cas échéant, aux articles L. 1242-1 à L. 1242-3, L. 1242-5 à L. 1242-8, L. 1243-13, L. 1244-4 et L.
-1246-1 du code du travail, peuvent être appelés à exercer temporairement par contrat leurs fonctions, à temps complet ou à
-temps partiel, dans les services de recherche des administrations, dans les établissements publics de recherche et dans les
-établissements d'enseignement supérieur : 
+fonctionnaires ou, le cas échéant, aux articles L. 1242-1 à L. 1242-3, L. 1242-5 à L. 1242-8-1, L. 1243-13, L. 1243-13-1, L.
+1244-4, L. 1244-4-1 et L. 1246-1 du code du travail, peuvent être appelés à exercer temporairement par contrat leurs
+fonctions, à temps complet ou à temps partiel, dans les services de recherche des administrations, dans les établissements
+publics de recherche et dans les établissements d'enseignement supérieur : 
 
 a) Les chercheurs, ingénieurs et techniciens de recherche français appartenant au personnel d'une entreprise publique ou
 privée, française ou étrangère, ou d'un établissement public à caractère industriel et commercial français ou d'un organisme
@@ -3632,6 +3632,7 @@ _Cite_:
   - Code du travail - art. L1242-1
   - Code du travail - art. L1242-5
   - Code du travail - art. L1243-13
+  - Code du travail - art. L1243-13-1 (V)
   - Code du travail - art. L1244-4
   - Code du travail - art. L1246-1
 
@@ -3641,7 +3642,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 4
+  - Ordonnance n°2017-1718 du 20 décembre 2017 - art. 2
 
 _Cité par_:
 
