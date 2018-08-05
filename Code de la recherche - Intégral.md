@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2017-12-22
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -13,98 +13,99 @@ Version Consolidée au 2017-12-22
           - [Section 1 : Objectifs de l'évaluation (art. L114-1 à L114-3)](#10)
           - [Section 2 : Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur. (art. L114-3-1 à L114-3-6)](#11)
           - [Section 3 : Dispositions diverses relatives à l'évaluation et au contrôle (art. L114-4 à L114-6)](#12)
-      - [TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L120-1 à L123-1)](#13)
+      - [TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L120-1 à L124-1)](#13)
         - [Chapitre préliminaire : Le Conseil stratégique de la recherche. (art. L120-1)](#14)
         - [Chapitre III : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER). (art. L123-1)](#15)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L145-1 à L147-1)](#16)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L145-1)](#17)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L146-1)](#18)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L147-1)](#19)
-    - [LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE (art. L211-1 à L267-1)](#20)
-      - [TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE (art. L211-1)](#21)
-        - [Chapitre unique (art. L211-1)](#22)
-      - [TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE (art. L221-1 à L225-2)](#23)
-        - [Chapitre Ier : La génétique. (art. L221-1 à L221-3)](#24)
-        - [Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés. (art. L222-1)](#25)
-        - [Chapitre III : Les recherches biomédicales. (art. L223-1 à L223-3)](#26)
-        - [Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires. (art. L224-1)](#27)
-        - [Chapitre V : Les traitements de données à caractère personnel. (art. L225-1 à L225-2)](#28)
-      - [TITRE III : L'EXPÉRIMENTATION ANIMALE (art. L231-1 à L236-1)](#29)
-        - [Chapitre Ier : Dispositions générales. (art. L231-1 à L231-2)](#30)
-        - [Chapitre VI : Sanctions. (art. L236-1)](#31)
-      - [TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS (art. L241-1 à L241-3)](#32)
-        - [Chapitre unique. (art. L241-1 à L241-3)](#33)
-      - [TITRE V : AUTRES DOMAINES DE RECHERCHE (art. L251-1 à L254-1)](#34)
-        - [Chapitre Ier : La recherche scientifique marine. (art. L251-1 à L251-3)](#35)
-        - [Chapitre II : Les recherches sur la gestion des déchets radioactifs. (art. L252-1)](#36)
-        - [Chapitre III : Utilisation en recherche de certains produits chimiques. (art. L253-1 à L253-3)](#37)
-        - [Chapitre IV : La recherche en archéologie. (art. L254-1)](#38)
-      - [TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER. (art. L265-1 à L267-1)](#39)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L265-1)](#40)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L266-1)](#41)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L267-1)](#42)
-    - [LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L311-1 à L368-1)](#43)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L311-1 à L312-1)](#44)
-        - [Chapitre Ier : Les établissements publics de recherche. (art. L311-1 à L311-5)](#45)
-        - [Chapitre II : Les établissements publics d'enseignement supérieur et de recherche. (art. L312-1)](#46)
-      - [TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L321-1 à L329-6)](#47)
-        - [Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique. (art. L321-1 à L321-4)](#48)
-        - [Chapitre VIII : Autres établissements à caractère administratif. (art. L328-1 à L328-3)](#49)
-          - [Section unique (art. L328-1 à L328-3)](#50)
-        - [Chapitre IX : L'Agence nationale de la recherche. (art. L329-1 à L329-6)](#51)
-      - [TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L331-1 à L332-9)](#52)
-        - [Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique. (art. L331-1 à L331-8)](#53)
-        - [Chapitre II : Etablissements de recherche dans le domaine de l'énergie. (art. L332-1 à L332-9)](#54)
-          - [Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA). (art. L332-1 à L332-7)](#55)
-          - [Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA). (art. L332-8)](#56)
-          - [Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME). (art. L332-9)](#57)
-      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L344-11 à L344-16)](#58)
-        - [Chapitre IV : Les fondations de coopération scientifique (art. L344-11 à L344-16)](#59)
-      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L361-1 à L368-1)](#60)
-        - [Chapitre Ier : Dispositions relatives à Mayotte. (art. L361-1)](#61)
-        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#62)
-        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#63)
-        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#64)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#65)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#66)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#67)
-        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#68)
-    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#69)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L412-2)](#70)
-        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#71)
-        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#72)
-      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#73)
-        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#74)
-        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#75)
-      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#76)
-        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-3)](#77)
-        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#78)
-        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#79)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#80)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#81)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#82)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#83)
-    - [LIVRE V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE (art. L511-1 à L547-1)](#84)
-      - [TITRE Ier : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DE L'INNOVATION (art. L511-1 à L514-1)](#85)
-        - [Chapitre Ier : Le crédit d'impôt recherche (art. L511-1 à L511-3)](#86)
-        - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI) (art. L512-1)](#87)
-        - [Chapitre III : L'aide à l'innovation et les incitations en faveur de la valorisation et du transfert de technologie (art. L513-1 à L513-2)](#88)
-        - [Chapitre IV : L'évaluation des incitations en faveur de la valorisation et du transfert de technologie (art. L514-1)](#89)
-      - [TITRE II  : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE (art. L521-1 à L522-1)](#90)
-        - [Chapitre Ier : Les centres techniques industriels (art. L521-1 à L521-13)](#91)
-        - [Chapitre II : Autres structures (art. L522-1)](#92)
-      - [TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L531-1 à L533-4)](#93)
-        - [Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L531-1 à L531-16)](#94)
+        - [Chapitre IV : Autres instances consultatives. (art. L124-1)](#16)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L145-1 à L147-1)](#17)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L145-1)](#18)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L146-1)](#19)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L147-1)](#20)
+    - [LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE (art. L211-1 à L267-1)](#21)
+      - [TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE (art. L211-1)](#22)
+        - [Chapitre unique (art. L211-1)](#23)
+      - [TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE (art. L221-1 à L225-2)](#24)
+        - [Chapitre Ier : La génétique. (art. L221-1 à L221-3)](#25)
+        - [Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés. (art. L222-1)](#26)
+        - [Chapitre III : Les recherches biomédicales. (art. L223-1 à L223-3)](#27)
+        - [Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires. (art. L224-1)](#28)
+        - [Chapitre V : Les traitements de données à caractère personnel. (art. L225-1 à L225-2)](#29)
+      - [TITRE III : L'EXPÉRIMENTATION ANIMALE (art. L231-1 à L236-1)](#30)
+        - [Chapitre Ier : Dispositions générales. (art. L231-1 à L231-2)](#31)
+        - [Chapitre VI : Sanctions. (art. L236-1)](#32)
+      - [TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS (art. L241-1 à L241-3)](#33)
+        - [Chapitre unique. (art. L241-1 à L241-3)](#34)
+      - [TITRE V : AUTRES DOMAINES DE RECHERCHE (art. L251-1 à L254-1)](#35)
+        - [Chapitre Ier : La recherche scientifique marine. (art. L251-1 à L251-3)](#36)
+        - [Chapitre II : Les recherches sur la gestion des déchets radioactifs. (art. L252-1)](#37)
+        - [Chapitre III : Utilisation en recherche de certains produits chimiques. (art. L253-1 à L253-3)](#38)
+        - [Chapitre IV : La recherche en archéologie. (art. L254-1)](#39)
+      - [TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER. (art. L265-1 à L267-1)](#40)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L265-1)](#41)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L266-1)](#42)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L267-1)](#43)
+    - [LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L311-1 à L368-1)](#44)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L311-1 à L312-1)](#45)
+        - [Chapitre Ier : Les établissements publics de recherche. (art. L311-1 à L311-5)](#46)
+        - [Chapitre II : Les établissements publics d'enseignement supérieur et de recherche. (art. L312-1)](#47)
+      - [TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L321-1 à L329-6)](#48)
+        - [Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique. (art. L321-1 à L321-4)](#49)
+        - [Chapitre VIII : Autres établissements à caractère administratif. (art. L328-1 à L328-3)](#50)
+          - [Section unique (art. L328-1 à L328-3)](#51)
+        - [Chapitre IX : L'Agence nationale de la recherche. (art. L329-1 à L329-6)](#52)
+      - [TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L331-1 à L332-9)](#53)
+        - [Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique. (art. L331-1 à L331-8)](#54)
+        - [Chapitre II : Etablissements de recherche dans le domaine de l'énergie. (art. L332-1 à L332-9)](#55)
+          - [Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA). (art. L332-1 à L332-7)](#56)
+          - [Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA). (art. L332-8)](#57)
+          - [Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME). (art. L332-9)](#58)
+      - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L344-11 à L344-16)](#59)
+        - [Chapitre IV : Les fondations de coopération scientifique (art. L344-11 à L344-16)](#60)
+      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L361-1 à L368-1)](#61)
+        - [Chapitre Ier : Dispositions relatives à Mayotte. (art. L361-1)](#62)
+        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#63)
+        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#64)
+        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#65)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#66)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#67)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#68)
+        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#69)
+    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#70)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L412-2)](#71)
+        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#72)
+        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#73)
+      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#74)
+        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#75)
+        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#76)
+      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#77)
+        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-3)](#78)
+        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#79)
+        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#80)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#81)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#82)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#83)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#84)
+    - [LIVRE V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE (art. L511-1 à L547-1)](#85)
+      - [TITRE Ier : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DE L'INNOVATION (art. L511-1 à L514-1)](#86)
+        - [Chapitre Ier : Le crédit d'impôt recherche (art. L511-1 à L511-3)](#87)
+        - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI) (art. L512-1)](#88)
+        - [Chapitre III : L'aide à l'innovation et les incitations en faveur de la valorisation et du transfert de technologie (art. L513-1 à L513-2)](#89)
+        - [Chapitre IV : L'évaluation des incitations en faveur de la valorisation et du transfert de technologie (art. L514-1)](#90)
+      - [TITRE II  : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE (art. L521-1 à L522-1)](#91)
+        - [Chapitre Ier : Les centres techniques industriels (art. L521-1 à L521-13)](#92)
+        - [Chapitre II : Autres structures (art. L522-1)](#93)
+      - [TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L531-1 à L533-4)](#94)
+        - [Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L531-1 à L531-16)](#95)
           - [Section 1 : Participation des personnels de la recherche 
-à la création d'entreprises (art. L531-1 à L531-7)](#95)
-          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante (art. L531-8 à L531-11)](#96)
-          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme (art. L531-12 à L531-14)](#97)
-          - [Section 4 : Dispositions générales (art. L531-15 à L531-16)](#98)
-        - [Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche (art. L533-1 à L533-4)](#99)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L545-1 à L547-1)](#100)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna (art. L545-1)](#101)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française (art. L546-1)](#102)
-        - [Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie (art. L547-1)](#103)
+à la création d'entreprises (art. L531-1 à L531-7)](#96)
+          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante (art. L531-8 à L531-11)](#97)
+          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme (art. L531-12 à L531-14)](#98)
+          - [Section 4 : Dispositions générales (art. L531-15 à L531-16)](#99)
+        - [Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche (art. L533-1 à L533-4)](#100)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L545-1 à L547-1)](#101)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna (art. L545-1)](#102)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française (art. L546-1)](#103)
+        - [Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie (art. L547-1)](#104)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=2></a>
@@ -1196,9 +1197,25 @@ _Cite_:
   - Code de l'éducation - art. L232-1
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=16></a>
+#### Chapitre IV : Autres instances consultatives.<a id=16></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=17></a>
+###### Article L124-1
+
+I. - Le Conseil national de la culture scientifique, technique et industrielle comprend parmi ses membres un député et un
+sénateur désignés par l'Office parlementaire d'évaluation des choix scientifiques et technologiques.
+
+II. - Les missions, la composition, l'organisation et le fonctionnement du conseil sont précisés par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-699 du 3 août 2018 - art. 17
+
+
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=17></a>
+
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=18></a>
 
 ###### Article L145-1
 
@@ -1223,7 +1240,7 @@ _Cite_:
   - Code de la recherche - art. L120-1
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=18></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=19></a>
 
 ###### Article L146-1
 
@@ -1260,7 +1277,7 @@ _Modifié par_:
   - Loi n°2017-55 du 20 janvier 2017 - art. 44
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=19></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=20></a>
 
 ###### Article L147-1
 
@@ -1291,11 +1308,11 @@ _Modifié par_:
   - Loi n°2017-55 du 20 janvier 2017 - art. 44
 
 
-## LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE<a id=20></a>
+## LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE<a id=21></a>
 
-### TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE<a id=21></a>
+### TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE<a id=22></a>
 
-#### Chapitre unique<a id=22></a>
+#### Chapitre unique<a id=23></a>
 
 ###### Article L211-1
 
@@ -1309,9 +1326,9 @@ _Modifié par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 
-### TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE<a id=23></a>
+### TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE<a id=24></a>
 
-#### Chapitre Ier : La génétique.<a id=24></a>
+#### Chapitre Ier : La génétique.<a id=25></a>
 
 ###### Article L221-1
 
@@ -1369,7 +1386,7 @@ _Cite_:
   - Code de la santé publique - art. L1131-4 (V)
 
 
-#### Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés.<a id=25></a>
+#### Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés.<a id=26></a>
 
 ###### Article L222-1
 
@@ -1406,7 +1423,7 @@ _Cite_:
   - Code de la santé publique - art. L1245-5-1
 
 
-#### Chapitre III : Les recherches biomédicales.<a id=26></a>
+#### Chapitre III : Les recherches biomédicales.<a id=27></a>
 
 ###### Article L223-1
 
@@ -1453,7 +1470,7 @@ _Cite_:
   - Code pénal - art. 223-8 (V)
 
 
-#### Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires.<a id=27></a>
+#### Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires.<a id=28></a>
 
 ###### Article L224-1
 
@@ -1472,7 +1489,7 @@ _Cite_:
   - Code de la santé publique - art. L2151-5
 
 
-#### Chapitre V : Les traitements de données à caractère personnel.<a id=28></a>
+#### Chapitre V : Les traitements de données à caractère personnel.<a id=29></a>
 
 ###### Article L225-1
 
@@ -1503,9 +1520,9 @@ _Cite_:
   - Code pénal - art. 226-19-1
 
 
-### TITRE III : L'EXPÉRIMENTATION ANIMALE<a id=29></a>
+### TITRE III : L'EXPÉRIMENTATION ANIMALE<a id=30></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=30></a>
+#### Chapitre Ier : Dispositions générales.<a id=31></a>
 
 ###### Article L231-1
 
@@ -1541,7 +1558,7 @@ _Cite_:
   - Code de la santé publique - art. L5144-3 (V)
 
 
-#### Chapitre VI : Sanctions.<a id=31></a>
+#### Chapitre VI : Sanctions.<a id=32></a>
 
 ###### Article L236-1
 
@@ -1559,9 +1576,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-### TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS<a id=32></a>
+### TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS<a id=33></a>
 
-#### Chapitre unique.<a id=33></a>
+#### Chapitre unique.<a id=34></a>
 
 ###### Article L241-1
 
@@ -1613,9 +1630,9 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 
-### TITRE V : AUTRES DOMAINES DE RECHERCHE<a id=34></a>
+### TITRE V : AUTRES DOMAINES DE RECHERCHE<a id=35></a>
 
-#### Chapitre Ier : La recherche scientifique marine.<a id=35></a>
+#### Chapitre Ier : La recherche scientifique marine.<a id=36></a>
 
 ###### Article L251-1
 
@@ -1698,7 +1715,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L412-6 (V)
 
 
-#### Chapitre II : Les recherches sur la gestion des déchets radioactifs.<a id=36></a>
+#### Chapitre II : Les recherches sur la gestion des déchets radioactifs.<a id=37></a>
 
 ###### Article L252-1
 
@@ -1712,7 +1729,7 @@ _Codifié par_:
   - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
 
-#### Chapitre III : Utilisation en recherche de certains produits chimiques.<a id=37></a>
+#### Chapitre III : Utilisation en recherche de certains produits chimiques.<a id=38></a>
 
 ###### Article L253-1
 
@@ -1769,7 +1786,7 @@ _Cite_:
   - Code de la défense. - art. L2342-8 (V)
 
 
-#### Chapitre IV : La recherche en archéologie.<a id=38></a>
+#### Chapitre IV : La recherche en archéologie.<a id=39></a>
 
 ###### Article L254-1
 
@@ -1783,9 +1800,9 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
 
 
-### TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER.<a id=39></a>
+### TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER.<a id=40></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=40></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=41></a>
 
 ###### Article L265-1
 
@@ -1805,7 +1822,7 @@ _Cite_:
   - Code de la recherche - art. L251-1
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=41></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=42></a>
 
 ###### Article L266-1
 
@@ -1832,7 +1849,7 @@ _Cité par_:
   - Code de la recherche - art. L146-1 (V)
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=42></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=43></a>
 
 ###### Article L267-1
 
@@ -1854,11 +1871,11 @@ _Modifié par_:
   - Loi n°2016-1087 du 8 août 2016 - art. 97
 
 
-## LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=43></a>
+## LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=44></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=44></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=45></a>
 
-#### Chapitre Ier : Les établissements publics de recherche.<a id=45></a>
+#### Chapitre Ier : Les établissements publics de recherche.<a id=46></a>
 
 ###### Article L311-1
 
@@ -1999,7 +2016,7 @@ _Cité par_:
   - Code de la recherche - art. L367-1 (V)
 
 
-#### Chapitre II : Les établissements publics d'enseignement supérieur et de recherche.<a id=46></a>
+#### Chapitre II : Les établissements publics d'enseignement supérieur et de recherche.<a id=47></a>
 
 ###### Article L312-1
 
@@ -2027,9 +2044,9 @@ _Cité par_:
   - Code de la recherche - art. L367-1 (V)
 
 
-### TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF<a id=47></a>
+### TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF<a id=48></a>
 
-#### Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique.<a id=48></a>
+#### Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique.<a id=49></a>
 
 ###### Article L321-1
 
@@ -2150,9 +2167,9 @@ _Cité par_:
   - Code de la recherche - art. L114-5 (V)
 
 
-#### Chapitre VIII : Autres établissements à caractère administratif.<a id=49></a>
+#### Chapitre VIII : Autres établissements à caractère administratif.<a id=50></a>
 
-##### Section unique<a id=50></a>
+##### Section unique<a id=51></a>
 
 ###### Article L328-1
 
@@ -2199,7 +2216,7 @@ _Cité par_:
   - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre IX : L'Agence nationale de la recherche.<a id=51></a>
+#### Chapitre IX : L'Agence nationale de la recherche.<a id=52></a>
 
 ###### Article L329-1
 
@@ -2322,9 +2339,9 @@ _Créé par_:
   - n°2006-450 du 18 avril 2006 - art. 16 () JORF 19 avril 2006
 
 
-### TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=52></a>
+### TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=53></a>
 
-#### Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique.<a id=53></a>
+#### Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique.<a id=54></a>
 
 ###### Article L331-1
 
@@ -2524,9 +2541,9 @@ _Cite_:
   - Code de la recherche - art. L331-6
 
 
-#### Chapitre II : Etablissements de recherche dans le domaine de l'énergie.<a id=54></a>
+#### Chapitre II : Etablissements de recherche dans le domaine de l'énergie.<a id=55></a>
 
-##### Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA).<a id=55></a>
+##### Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA).<a id=56></a>
 
 ###### Article L332-1
 
@@ -2694,7 +2711,7 @@ _Cite_:
   - Code de la recherche - art. L332-1 (V)
 
 
-##### Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA).<a id=56></a>
+##### Section 2 : Agence nationale pour la gestion   des déchets radioactifs (ANDRA).<a id=57></a>
 
 ###### Article L332-8
 
@@ -2712,7 +2729,7 @@ _Cite_:
   - Code de l'environnement - art. L542-12
 
 
-##### Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME).<a id=57></a>
+##### Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME).<a id=58></a>
 
 ###### Article L332-9
 
@@ -2730,9 +2747,9 @@ _Cite_:
   - Code de l'environnement - art. L131-3
 
 
-### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=58></a>
+### TITRE IV : LES STRUCTURES DE COOPÉRATION<a id=59></a>
 
-#### Chapitre IV : Les fondations de coopération scientifique<a id=59></a>
+#### Chapitre IV : Les fondations de coopération scientifique<a id=60></a>
 
 ###### Article L344-11
 
@@ -2889,9 +2906,9 @@ _Créé par_:
   - DEPLACE: Loi n°2013-660 du 22 juillet 2013 - art. 66
 
 
-### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=60></a>
+### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=61></a>
 
-#### Chapitre Ier : Dispositions relatives à Mayotte.<a id=61></a>
+#### Chapitre Ier : Dispositions relatives à Mayotte.<a id=62></a>
 
 ###### Article L361-1
 
@@ -2905,7 +2922,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=62></a>
+#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=63></a>
 
 ###### Article L362-1
 
@@ -2919,7 +2936,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=63></a>
+#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=64></a>
 
 ###### Article L363-1
 
@@ -2933,7 +2950,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=64></a>
+#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=65></a>
 
 ###### Article L364-1
 
@@ -2947,7 +2964,7 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=65></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=66></a>
 
 ###### Article L365-1
 
@@ -2980,7 +2997,7 @@ _Cite_:
   - Code de la recherche - art. L344-11
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=66></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=67></a>
 
 ###### Article L366-1
 
@@ -3014,7 +3031,7 @@ _Cite_:
   - Code de la recherche - art. L344-11
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=67></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=68></a>
 
 ###### Article L367-1
 
@@ -3052,7 +3069,7 @@ _Modifié par_:
   - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
 
 
-#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=68></a>
+#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=69></a>
 
 ###### Article L368-1
 
@@ -3066,11 +3083,11 @@ _Créé par_:
   - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
 
 
-## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=69></a>
+## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=70></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=70></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=71></a>
 
-#### Chapitre Ier : Missions et garanties fondamentales.<a id=71></a>
+#### Chapitre Ier : Missions et garanties fondamentales.<a id=72></a>
 
 ###### Article L411-1
 
@@ -3227,7 +3244,7 @@ _Cite_:
   - Code du travail - art. L2221-2
 
 
-#### Chapitre II : La formation.<a id=72></a>
+#### Chapitre II : La formation.<a id=73></a>
 
 ###### Article L412-1
 
@@ -3376,9 +3393,9 @@ _Modifié par_:
   - loi n°2006-450 du 18 avril 2006 - art. 6 () JORF 19 avril 2006
 
 
-### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=73></a>
+### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=74></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=74></a>
+#### Chapitre Ier : Dispositions générales.<a id=75></a>
 
 ###### Article L421-1
 
@@ -3501,7 +3518,7 @@ _Cité par_:
   - Code de la recherche - art. L411-4 (V)
 
 
-#### Chapitre II : Chercheurs.<a id=75></a>
+#### Chapitre II : Chercheurs.<a id=76></a>
 
 ###### Article L422-1
 
@@ -3556,9 +3573,9 @@ _Cité par_:
   - Code de la recherche - art. L447-1 (V)
 
 
-### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=76></a>
+### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=77></a>
 
-#### Chapitre Ier : Les personnels contractuels.<a id=77></a>
+#### Chapitre Ier : Les personnels contractuels.<a id=78></a>
 
 ###### Article L431-1
 
@@ -3694,7 +3711,7 @@ _Cite_:
   - Code du travail maritime - art. 30
 
 
-#### Chapitre II : Les chercheurs et enseignants associés.<a id=78></a>
+#### Chapitre II : Les chercheurs et enseignants associés.<a id=79></a>
 
 ###### Article L432-1
 
@@ -3766,7 +3783,7 @@ _Cite_:
   - Code de l'éducation - art. L952-1 (V)
 
 
-#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=79></a>
+#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=80></a>
 
 ###### Article L433-1
 
@@ -3794,9 +3811,9 @@ _Cite_:
   - Code du travail - art. L6322-53
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=80></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=81></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=81></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=82></a>
 
 ###### Article L445-1
 
@@ -3827,7 +3844,7 @@ _Cite_:
   - Code de la recherche - art. L433-1
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=82></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=83></a>
 
 ###### Article L446-1
 
@@ -3861,7 +3878,7 @@ _Modifié par_:
   - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=83></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=84></a>
 
 ###### Article L447-1
 
@@ -3893,11 +3910,11 @@ _Modifié par_:
   - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
 
 
-## LIVRE V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE<a id=84></a>
+## LIVRE V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE<a id=85></a>
 
-### TITRE Ier : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DE L'INNOVATION<a id=85></a>
+### TITRE Ier : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DE L'INNOVATION<a id=86></a>
 
-#### Chapitre Ier : Le crédit d'impôt recherche<a id=86></a>
+#### Chapitre Ier : Le crédit d'impôt recherche<a id=87></a>
 
 ###### Article L511-1
 
@@ -3953,7 +3970,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L135 D (V)
 
 
-#### Chapitre II : Les fonds communs de placement dans l'innovation (FCPI)<a id=87></a>
+#### Chapitre II : Les fonds communs de placement dans l'innovation (FCPI)<a id=88></a>
 
 ###### Article L512-1
 
@@ -3971,7 +3988,7 @@ _Cite_:
   - Code monétaire et financier - art. L214-30
 
 
-#### Chapitre III : L'aide à l'innovation et les incitations en faveur de la valorisation et du transfert de technologie<a id=88></a>
+#### Chapitre III : L'aide à l'innovation et les incitations en faveur de la valorisation et du transfert de technologie<a id=89></a>
 
 ###### Article L513-1
 
@@ -4015,7 +4032,7 @@ _Cité par_:
   - Code de la recherche - art. L547-1 (V)
 
 
-#### Chapitre IV : L'évaluation des incitations en faveur de la valorisation et du transfert de technologie<a id=89></a>
+#### Chapitre IV : L'évaluation des incitations en faveur de la valorisation et du transfert de technologie<a id=90></a>
 
 ###### Article L514-1
 
@@ -4037,9 +4054,9 @@ _Créé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 2
 
 
-### TITRE II  : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE<a id=90></a>
+### TITRE II  : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE<a id=91></a>
 
-#### Chapitre Ier : Les centres techniques industriels<a id=91></a>
+#### Chapitre Ier : Les centres techniques industriels<a id=92></a>
 
 ###### Article L521-1
 
@@ -4283,7 +4300,7 @@ _Cite_:
   - Code de la recherche - art. L521-1 (V)
 
 
-#### Chapitre II : Autres structures<a id=92></a>
+#### Chapitre II : Autres structures<a id=93></a>
 
 ###### Article L522-1
 
@@ -4319,12 +4336,12 @@ _Modifié par_:
   - Loi n°2014-1170 du 13 octobre 2014 - art. 64
 
 
-### TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=93></a>
+### TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=94></a>
 
-#### Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=94></a>
+#### Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=95></a>
 
 ##### Section 1 : Participation des personnels de la recherche 
-à la création d'entreprises<a id=95></a>
+à la création d'entreprises<a id=96></a>
 
 ###### Article L531-1
 
@@ -4516,7 +4533,7 @@ _Cité par_:
   - Code de la recherche - art. L531-14 (V)
 
 
-##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante<a id=96></a>
+##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante<a id=97></a>
 
 ###### Article L531-8
 
@@ -4631,7 +4648,7 @@ _Cite_:
   - Code de la recherche - art. L531-7 (V)
 
 
-##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme<a id=97></a>
+##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme<a id=98></a>
 
 ###### Article L531-12
 
@@ -4714,7 +4731,7 @@ _Cite_:
   - Code de la recherche - art. L531-7 (V)
 
 
-##### Section 4 : Dispositions générales<a id=98></a>
+##### Section 4 : Dispositions générales<a id=99></a>
 
 ###### Article L531-15
 
@@ -4739,7 +4756,7 @@ _Créé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 2
 
 
-#### Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche<a id=99></a>
+#### Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche<a id=100></a>
 
 ###### Article L533-1
 
@@ -4890,9 +4907,9 @@ _Créé par_:
   - Loi n°2016-1321 du 7 octobre 2016 - art. 30
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=100></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=101></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna<a id=101></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna<a id=102></a>
 
 ###### Article L545-1
 
@@ -4917,7 +4934,7 @@ _Cite_:
   - Code de la recherche - art. L533-2
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française<a id=102></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française<a id=103></a>
 
 ###### Article L546-1
 
@@ -4944,7 +4961,7 @@ _Modifié par_:
   - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
 
 
-#### Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie<a id=103></a>
+#### Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie<a id=104></a>
 
 ###### Article L547-1
 
