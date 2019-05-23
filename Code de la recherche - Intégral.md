@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -78,7 +78,7 @@ Version Consolidée au 2018-08-06
         - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#75)
         - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#76)
       - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#77)
-        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-3)](#78)
+        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-4)](#78)
         - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#79)
         - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#80)
       - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#81)
@@ -95,12 +95,12 @@ Version Consolidée au 2018-08-06
         - [Chapitre Ier : Les centres techniques industriels (art. L521-1 à L521-13)](#92)
         - [Chapitre II : Autres structures (art. L522-1)](#93)
       - [TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L531-1 à L533-4)](#94)
-        - [Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L531-1 à L531-16)](#95)
+        - [Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L531-1 à L531-17)](#95)
           - [Section 1 : Participation des personnels de la recherche 
-à la création d'entreprises (art. L531-1 à L531-7)](#96)
-          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante (art. L531-8 à L531-11)](#97)
-          - [Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme (art. L531-12 à L531-14)](#98)
-          - [Section 4 : Dispositions générales (art. L531-15 à L531-16)](#99)
+à la création d'entreprises (art. L531-1 à L531-5)](#96)
+          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante (art. L531-8 à L531-9)](#97)
+          - [Section 3 : Participation des personnels de la recherche aux organes de direction d'une société commerciale (art. L531-12 à L531-13)](#98)
+          - [Section 4 : Dispositions générales (art. L531-14 à L531-17)](#99)
         - [Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche (art. L533-1 à L533-4)](#100)
       - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L545-1 à L547-1)](#101)
         - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna (art. L545-1)](#102)
@@ -670,9 +670,9 @@ Les activités de recherche financées en tout ou partie sur fonds publics, réa
 sont évaluées sur la base de critères objectifs adaptés à chacune d'elles et s'inspirant des meilleures pratiques
 internationales.
 
-Parmi ces critères, les contributions au développement de la culture scientifique et les actions en faveur de la
-participation du public à la prospection, à la collecte de données et au progrès de la connaissance scientifique sont prises
-en compte.
+Parmi ces critères, les contributions au développement de l'innovation et de la culture scientifique et les actions en faveur
+de la participation du public à la prospection, à la collecte de données et au progrès de la connaissance scientifique sont
+prises en compte.
 
 **Liens relatifs à cet article**
 
@@ -683,10 +683,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2004-545 du 11 juin 2004
-
-_Modifié par_:
-
-  - Loi n°2013-660 du 22 juillet 2013 - art. 88
 
 _Cité par_:
 
@@ -701,6 +697,10 @@ _Cité par_:
   - Code de la recherche - art. L145-1 (M)
   - Code de la recherche - art. L146-1 (V)
   - Code de la recherche - art. L147-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 
 ###### Article L114-1-1
@@ -784,7 +784,7 @@ _Modifié par_:
 
 ###### Article L114-3-1
 
-Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur est une autorité administrative indépendante. 
+Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur est une autorité administrative indépendante.
 
 Pour l'exercice de ses missions, le Haut Conseil s'inspire des meilleures pratiques internationales. Il fonde son action, en
 ce qui concerne les critères d'évaluation, sur les principes d'objectivité, de transparence et d'égalité de traitement entre
@@ -793,42 +793,42 @@ d'expertise scientifique au meilleur niveau international, de neutralité et d'�
 thématiques et des opinions. Il veille à la prévention des conflits d'intérêts dans la constitution des comités d'experts
 chargés de conduire les évaluations. Il peut conduire directement des évaluations ou s'assurer de la qualité des évaluations
 réalisées par d'autres instances en validant les procédures retenues. Il met en mesure les structures et établissements qu'il
-évalue directement de présenter, à leur demande, des observations tout au long et à l'issue de la procédure d'évaluation. 
+évalue directement de présenter, à leur demande, des observations tout au long et à l'issue de la procédure d'évaluation.
 
-Il est chargé : 
+Il est chargé :
 
 1° D'évaluer les établissements d'enseignement supérieur et leurs regroupements, définis à l'article L. 718-3 du code de
 l'éducation, les organismes de recherche, les fondations de coopération scientifique et l'Agence nationale de la recherche
-ou, le cas échéant, de s'assurer de la qualité des évaluations conduites par d'autres instances ; 
+ou, le cas échéant, de s'assurer de la qualité des évaluations conduites par d'autres instances ;
 
 2° D'évaluer les unités de recherche à la demande de l'établissement dont elles relèvent, en l'absence de validation des
 procédures d'évaluation ou en l'absence de décision de l'établissement dont relèvent ces unités de recourir à une autre
-instance ou, le cas échéant, de valider les procédures d'évaluation des unités de recherche par d'autres instances. 
+instance ou, le cas échéant, de valider les procédures d'évaluation des unités de recherche par d'autres instances.
 
 Lorsqu'une unité relève de plusieurs établissements, il n'est procédé qu'à une seule évaluation. Lorsque les établissements
 décident conjointement de recourir à une autre instance, le Haut Conseil valide les procédures d'évaluation mises en œuvre
 par cette instance. En l'absence de décision conjointe des établissements de recourir à une autre instance ou en l'absence de
-validation des procédures d'évaluation, le Haut Conseil évalue l'unité de recherche ; 
+validation des procédures d'évaluation, le Haut Conseil évalue l'unité de recherche ;
 
 3° D'évaluer les formations et diplômes des établissements d'enseignement supérieur ou, le cas échéant, de valider les
-procédures d'évaluation réalisées par d'autres instances. 
+procédures d'évaluation réalisées par d'autres instances.
 
 Lorsque ces formations font l'objet d'une demande d'accréditation prévue à l'article L. 613-1 du code de l'éducation,
 l'évaluation est préalable à l'accréditation ou à sa reconduction. Le Haut Conseil s'assure de la conformité de la formation
-au cadre national des formations et de l'effectivité de la participation des étudiants à l'évaluation des enseignements ; 
+au cadre national des formations et de l'effectivité de la participation des étudiants à l'évaluation des enseignements ;
 
 4° De s'assurer de la prise en compte, dans les évaluations des personnels de l'enseignement supérieur et de la recherche, de
 l'ensemble des missions qui leur sont assignées par la loi et leurs statuts particuliers. Les missions réalisées dans le
-cadre des dispositifs prévus au chapitre III du titre Ier du livre IV du présent code sont intégrées à cette évaluation ; 
+cadre des dispositifs prévus au chapitre Ier du titre III du livre V du présent code sont intégrées à cette évaluation ;
 
 5° De s'assurer de la valorisation des activités de diffusion de la culture scientifique, technique et industrielle dans la
-carrière des personnels de l'enseignement supérieur et de la recherche ; 
+carrière des personnels de l'enseignement supérieur et de la recherche ;
 
 6° D'évaluer a posteriori les programmes d'investissement ainsi que les structures de droit privé recevant des fonds publics
-destinés à la recherche ou à l'enseignement supérieur. 
+destinés à la recherche ou à l'enseignement supérieur.
 
 Il peut également participer, dans le cadre de programmes de coopération européens ou internationaux ou à la demande des
-autorités compétentes, à l'évaluation d'organismes étrangers ou internationaux de recherche et d'enseignement supérieur. 
+autorités compétentes, à l'évaluation d'organismes étrangers ou internationaux de recherche et d'enseignement supérieur.
 
 Le décret en Conseil d'Etat mentionné à l'article L. 114-3-6 détermine les règles de confidentialité et de publicité des
 évaluations des unités de recherche.
@@ -874,7 +874,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-660 du 22 juillet 2013 - art. 90
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 _Cite_:
 
@@ -933,10 +933,12 @@ chacune des instances, autorités et associations compétentes.
 
 Le collège comprend : 
 
-1° Neuf membres ayant la qualité de chercheur, d'ingénieur ou d'enseignant-chercheur, nommés sur proposition des instances
-d'évaluation compétentes en matière d'enseignement supérieur et de recherche parmi leurs membres élus, dont au moins trois
-sur proposition de l'instance nationale mentionnée à l'article L. 952-6 du code de l'éducation et au moins trois sur
-proposition des instances d'évaluation mentionnées à l'article L. 321-2 du présent code ; 
+1° Neuf membres ayant la qualité de chercheur, d'ingénieur ou d'enseignant-chercheur, dont au moins l'un d'entre eux a été
+autorisé à participer à la création d'une entreprise en application des articles L. 531-1, L. 531-2, L. 531-4, L. 531-5, L.
+531-12, L. 531-14, L. 531-15 et L. 531-16, nommés sur proposition des instances d'évaluation compétentes en matière
+d'enseignement supérieur et de recherche parmi leurs membres élus, dont au moins trois sur proposition de l'instance
+nationale mentionnée à l'article L. 952-6 du code de l'éducation et au moins trois sur proposition des instances d'évaluation
+mentionnées à l'article L. 321-2 du présent code ; 
 
 2° Huit membres ayant la qualité de chercheur, d'ingénieur ou d'enseignant-chercheur, dont trois sur proposition des
 présidents ou directeurs d'organismes de recherche et trois sur proposition des conférences des chefs d'établissements
@@ -950,7 +952,7 @@ supérieur et de la recherche ;
 trois appartenant à des agences d'accréditation ou d'évaluation étrangères ; 
 
 5° Un député et un sénateur désignés par la commission permanente compétente en matière d'enseignement supérieur et de
-recherche de chaque assemblée.
+recherche de chaque assemblée. 
 
 La durée du mandat des membres autres que ceux mentionnés au 5° est de quatre ans. Ce mandat est renouvelable une fois.
 
@@ -972,12 +974,20 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-55 du 20 janvier 2017 - art. 44
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 _Cite_:
 
   - Code de la recherche - art. L114-3-6
   - Code de la recherche - art. L321-2
+  - Code de la recherche - art. L531-1 (V)
+  - Code de la recherche - art. L531-12 (V)
+  - Code de la recherche - art. L531-14 (V)
+  - Code de la recherche - art. L531-15 (V)
+  - Code de la recherche - art. L531-16 (V)
+  - Code de la recherche - art. L531-2 (V)
+  - Code de la recherche - art. L531-4 (V)
+  - Code de la recherche - art. L531-5 (V)
   - Code de l'éducation - art. L233-1
   - Code de l'éducation - art. L952-6
 
@@ -3739,6 +3749,49 @@ _Cite_:
   - Code du travail maritime - art. 30
 
 
+###### Article L431-4
+
+Dans les établissements publics de recherche à caractère industriel et commercial et les fondations reconnues d'utilité
+publique ayant pour activité principale la recherche publique au sens de l'article L. 112-1 du présent code, un accord
+d'entreprise fixe les conditions dans lesquelles il est possible de recourir à un contrat conclu pour la durée d'un chantier
+ou d'une opération. Un décret fixe la liste des établissements et fondations concernés. 
+
+Ce contrat est conclu pour une durée indéterminée. 
+
+L'accord d'entreprise précise : 
+
+1° Les activités concernées ; 
+
+2° Les mesures d'information du salarié sur la nature de son contrat ; 
+
+3° Les contreparties en termes de rémunération et d'indemnité de licenciement accordées aux salariés ; 
+
+4° Les garanties en termes de formation pour les salariés concernés ; 
+
+5° Les modalités adaptées de rupture de ce contrat dans l'hypothèse où le chantier ou l'opération pour lequel ce contrat a
+été conclu ne peut pas se réaliser ou se termine de manière anticipée. 
+
+La rupture du contrat de chantier ou d'opération qui intervient à la fin du chantier ou une fois l'opération réalisée repose
+sur une cause réelle et sérieuse. Cette rupture est soumise aux dispositions des articles L. 1232-2 à L. 1232-6 ainsi que du
+chapitre IV, de la section 1 du chapitre V et du chapitre VIII du titre III du livre II de la première partie du code du
+travail. 
+
+Si l'accord d'entreprise le prévoit, le salarié licencié à l'issue d'un contrat de chantier ou d'opération peut bénéficier
+d'une priorité de réembauche en contrat à durée indéterminée dans le délai et selon les modalités fixés par l'accord.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 120
+
+_Cite_:
+
+  - Code de la recherche - art. L112-1
+  - Code du travail - art. L1232-2
+  - Code du travail - art. L1232-6
+
+
 #### Chapitre II : Les chercheurs et enseignants associés.<a id=79></a>
 
 ###### Article L432-1
@@ -4375,8 +4428,9 @@ _Modifié par_:
 
 Les fonctionnaires civils des services publics et entreprises publiques définis à l'article L. 112-2 peuvent être autorisés à
 participer à titre personnel, en qualité d'associé ou de dirigeant, à la création d'une entreprise dont l'objet est
-d'assurer, en exécution d'un contrat conclu avec une personne publique ou une entreprise publique, la valorisation des
-travaux de recherche qu'ils ont réalisés dans l'exercice de leurs fonctions. 
+d'assurer, en exécution d'un contrat conclu avec une personne publique, une entreprise publique ou une personne morale
+mandatée par ces dernières, la valorisation des travaux de recherche et d'enseignement qu'ils ont réalisés dans l'exercice de
+leurs fonctions. 
 
 Le contrat mentionné au premier alinéa est conclu dans un délai fixé par décret. A défaut, l'autorisation donnée à l'agent
 devient caduque.
@@ -4410,13 +4464,13 @@ _Cité par_:
   - Code de la santé publique - art. L1453-9 (VD)
   - Code de la santé publique - art. L6152-4 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 _Cite_:
 
-  - Code de la recherche - art. L112-2 (V)
+  - Code de la recherche - art. L112-2
 
 
 ###### Article L531-2
@@ -4440,61 +4494,19 @@ _Cite_:
   - Code de la recherche - art. L531-1 (V)
 
 
-###### Article L531-3
-
-L'autorisation est accordée par l'autorité dont relève le fonctionnaire après avis de la commission
-mentionnée à l'article 25 octies de la loi n° 83-634 du 13 juillet 1983 relative aux droits et obligations des
-fonctionnaires , pour une période de temps limitée fixée par voie réglementaire. 
-
-L'autorisation est refusée : 
-
-a) Si elle est préjudiciable au fonctionnement normal du service public ; ou 
-
-b) Si, par nature ou par ses conditions et modalités et eu égard aux fonctions précédemment exercées par le fonctionnaire, la
-participation de ce dernier porte atteinte à la dignité desdites fonctions ou risque de compromettre ou mettre en cause
-l'indépendance ou la neutralité du service ; ou 
-
-c) Si la prise d'intérêts dans l'entreprise est de nature à porter atteinte aux intérêts matériels ou moraux du service
-public de la recherche ou à remettre en cause les conditions d'exercice de la mission d'expertise qu'il exerce auprès des
-pouvoirs publics.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°83-634 du 13 juillet 1983 - art. 25 octies
-
-_Modifié par_:
-
-  - Loi n°2016-483 du 20 avril 2016 - art. 10
-
-_Cité par_:
-
-  - Décret n°2017-852 du 6 mai 2017 - art. 155
-  - Code de la recherche - art. L531-10 (Ab)
-  - Code de la recherche - art. L531-11 (Ab)
-  - Code de la recherche - art. L531-13 (V)
-  - Code de la recherche - art. L531-14 (M)
-  - Code de la recherche - art. L531-5 (V)
-
-_Abrogé par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 119
-
-
 ###### Article L531-4
 
 A compter de la date d'effet de l'autorisation, le fonctionnaire est soit détaché dans l'entreprise, soit mis à disposition
-de celle-ci ou d'un organisme qui concourt à la valorisation de la recherche. Il cesse toute activité au titre du service
-public dont il relève. 
+de celle-ci.
 
-Toutefois, il peut exercer des activités d'enseignement ressortissant à sa compétence dans des conditions fixées par décret.
+L'autorisation fixe la quotité de temps de travail et la nature des fonctions que l'intéressé peut éventuellement conserver
+dans l'administration ou l'établissement où il est affecté.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 _Cité par_:
 
@@ -4504,10 +4516,18 @@ _Cité par_:
 
 ###### Article L531-5
 
-La commission mentionnée au premier alinéa de l'article L. 531-3 est tenue informée, pendant la durée de l'autorisation et
-durant trois ans à compter de son expiration ou de son retrait, des contrats et conventions conclus entre l'entreprise et le
-service public de la recherche. Si elle estime que ces informations font apparaître une atteinte aux intérêts matériels et
-moraux du service public de la recherche, la commission en saisit l'autorité administrative compétente.
+L'autorité dont relève le fonctionnaire est tenue informée des revenus qu'il perçoit en raison de sa participation au capital
+de l'entreprise, des cessions de titres auxquelles il procède ainsi que, le cas échéant, des compléments de rémunération qui
+lui sont versés, dans la limite d'un plafond fixé par voie réglementaire.
+
+Lorsque le fonctionnaire mis à disposition dans l'entreprise poursuit ses fonctions publiques, il ne peut participer ni à
+l'élaboration ni à la passation de contrats et conventions conclus entre l'entreprise et le service public de la recherche.
+
+Le fonctionnaire détaché dans l'entreprise ou mis à disposition de celle-ci peut prétendre au bénéfice d'un avancement de
+grade dans son corps ou cadre d'emplois d'origine, à la suite de la réussite à un concours ou à un examen professionnel ou au
+titre de la promotion au choix, sans qu'il soit mis fin à sa mise à disposition ou à son détachement. Il peut prétendre, dans
+les mêmes conditions, au bénéfice d'une nomination dans un autre corps lorsque cette dernière n'est pas conditionnée à
+l'accomplissement d'une période de formation ou de stage préalable.
 
 **Liens relatifs à cet article**
 
@@ -4517,90 +4537,32 @@ _Cité par_:
   - Décret n°2015-1176 du 24 septembre 2015 - art. 34 (V)
   - Code de la recherche - art. L114-3-3 (V)
 
-_Créé par_:
-
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
-
-_Cite_:
-
-  - Code de la recherche - art. L531-3 (V)
-
-
-###### Article L531-6
-
-Au terme de l'autorisation, le fonctionnaire peut : 
-
-a) Etre, à sa demande, placé en position de disponibilité ou radié des cadres s'il souhaite conserver des intérêts dans
-l'entreprise ; 
-
-b) Etre réintégré au sein de son corps d'origine. 
-
-Dans le cas mentionné au b, il met fin à sa collaboration professionnelle avec l'entreprise dans un délai d'un an et ne peut
-plus conserver directement ou indirectement un intérêt quelconque dans l'entreprise. Il peut toutefois être autorisé à
-apporter son concours scientifique à l'entreprise, à conserver une participation dans le capital social de l'entreprise, dans
-la limite de 49 % du capital donnant droit au maximum à 49 % des droits de vote, et à être membre du conseil d'administration
-ou de surveillance de celle-ci dans les conditions prévues aux sections 2 et 3 du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
-
-_Cité par_:
-
-  - Décret n°2015-1176 du 24 septembre 2015 - art. 34 (V)
-  - Code de la recherche - art. L531-7 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 119
-
-
-###### Article L531-7
-
-L'autorisation est retirée ou non renouvelée si les conditions qui avaient permis sa délivrance ne sont plus réunies ou si le
-fonctionnaire méconnaît les dispositions de la présente section. Dans ce cas, le fonctionnaire ne peut poursuivre son
-activité dans l'entreprise que dans les conditions prévues à l'article 25 octies de la loi n° 83-634 du 13 juillet 1983
-relative aux droits et obligations des fonctionnaires. S'il ne peut conserver d'intérêts dans l'entreprise, il dispose du
-délai d'un an prévu au b de l'article L. 531-6 pour y renoncer.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°83-634 du 13 juillet 1983 - art. 25 octies
-  - Code de la recherche - art. L531-6 (Ab)
-
 _Modifié par_:
 
-  - Loi n°2016-483 du 20 avril 2016 - art. 10
-
-_Abrogé par_:
-
   - Loi n°2019-486 du 22 mai 2019 - art. 119
 
-_Cité par_:
+_Cite_:
 
-  - Code de la recherche - art. L531-11 (Ab)
-  - Code de la recherche - art. L531-14 (M)
+  - Code de la recherche - art. L531-3
 
 
 ##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante<a id=97></a>
 
 ###### Article L531-8
 
-Les fonctionnaires mentionnés à l'article L. 531-1 peuvent être autorisés, pendant une période de temps limitée fixée par
-voie réglementaire, à apporter leur concours scientifique à une entreprise qui assure, en exécution d'un contrat conclu avec
-une personne publique ou une entreprise publique, la valorisation des travaux de recherche qu'ils ont réalisés dans
-l'exercice de leurs fonctions. 
+Les fonctionnaires mentionnés à l'article L. 531-1 peuvent être autorisés à apporter leur concours scientifique à une
+entreprise qui assure, en exécution d'un contrat conclu avec une personne publique, une entreprise publique ou une personne
+morale mandatée par ces dernières, la valorisation des travaux de recherche qu'ils ont réalisés dans l'exercice de leurs
+fonctions. 
 
-Le contrat mentionné au premier alinéa est conclu dans un délai fixé par décret. A défaut, l'autorisation donnée à l'agent
-devient caduque. 
+Le contrat mentionné au premier alinéa du présent article est conclu dans un délai fixé par décret. A défaut, l'autorisation
+donnée à l'agent devient caduque. 
 
 Les conditions dans lesquelles le fonctionnaire intéressé apporte son concours scientifique à l'entreprise sont définies par
-une convention conclue entre l'entreprise et la personne publique ou l'entreprise publique mentionnée au premier alinéa.
-Elles doivent être compatibles avec le plein exercice par le fonctionnaire de son emploi public.
+une convention conclue entre l'entreprise et la personne publique mentionnée au même premier alinéa. Cette convention fixe
+notamment la quotité de temps de travail que l'intéressé peut consacrer à son activité dans l'entreprise, dans une limite
+fixée par voie réglementaire. Lorsque la collaboration avec l'entreprise n'est pas compatible avec l'exercice d'un temps
+plein dans les fonctions publiques exercées par l'intéressé, celui-ci est mis à disposition de l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -4618,9 +4580,9 @@ _Cité par_:
   - Code de la recherche - art. L531-9 (V)
   - Code général des impôts, CGI. - art. 93 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 _Cite_:
 
@@ -4629,19 +4591,15 @@ _Cite_:
 
 ###### Article L531-9
 
-Le fonctionnaire peut également être autorisé à détenir une participation dans le capital social de l'entreprise, lors de la
-création de celle-ci ou ultérieurement, dans la limite de 49 % du capital donnant droit au maximum à 49 % des droits de vote,
-sous réserve qu'au cours des cinq années précédentes il n'ait pas, en qualité de fonctionnaire ou d'agent public, exercé un
-contrôle sur cette entreprise ou participé à l'élaboration ou à la passation de contrats et conventions conclus entre
-l'entreprise et le service public de la recherche. 
+Le fonctionnaire peut également être autorisé à détenir une participation dans le capital social de l'entreprise existante. 
 
 Le fonctionnaire ne peut participer ni à l'élaboration ni à la passation des contrats et conventions conclus entre
-l'entreprise et le service public de la recherche. Il ne peut, au sein de l'entreprise, ni exercer des fonctions de dirigeant
-ni être placé dans une situation hiérarchique. 
+l'entreprise et le service public de la recherche. Il peut exercer toute fonction au sein de l'entreprise à l'exception d'une
+fonction de dirigeant. 
 
 L'autorité dont relève le fonctionnaire est tenue informée des revenus qu'il perçoit à raison de sa participation au capital
 de l'entreprise, des cessions de titres auxquelles il procède ainsi que des compléments de rémunérations, dans la limite d'un
-plafond fixé par décret, prévus, le cas échéant, par la convention mentionnée au deuxième alinéa.
+plafond fixé par décret, prévus, le cas échéant, par la convention mentionnée au dernier alinéa de l'article L. 531-8.
 
 **Liens relatifs à cet article**
 
@@ -4651,79 +4609,25 @@ _Cité par_:
   - Décret n°2017-105 du 27 janvier 2017 - art. 23 (VD)
   - Code de la recherche - art. L531-10 (Ab)
 
-_Créé par_:
-
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
-
-
-###### Article L531-10
-
-La commission mentionnée au premier alinéa de l'article L. 531-3 est tenue informée, pendant la durée de l'autorisation
-délivrée en application de l'article L. 531-8 ou de l'article L. 531-9 et durant trois ans à compter de son expiration ou de
-son retrait, des contrats et conventions conclus entre l'entreprise et le service public de la recherche. Si elle estime que
-ces informations font apparaître une atteinte aux intérêts matériels et moraux du service public de la recherche, la
-commission en saisit l'autorité administrative compétente.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 _Cite_:
 
-  - Code de la recherche - art. L531-3
-  - Code de la recherche - art. L531-8
-  - Code de la recherche - art. L531-9
+  - Code de la recherche - art. L531-8 (V)
 
 
-###### Article L531-11
-
-L'autorisation est accordée par l'autorité dont relève le fonctionnaire après avis de la commission mentionnée au premier
-alinéa de l'article L. 531-3, dans les conditions prévues par ce même article. Le renouvellement intervient après avis de la
-même commission si les conditions établies au moment de la délivrance de l'autorisation ont évolué depuis la date de
-l'autorisation. L'autorisation est retirée ou non renouvelée si les conditions qui avaient permis sa délivrance ne sont plus
-réunies ou si le fonctionnaire méconnaît les dispositions de la présente section. Dans ce cas, le fonctionnaire dispose, pour
-céder ses droits sociaux, d'un délai d'un an au terme duquel il ne peut plus conserver directement ou indirectement un
-intérêt quelconque dans l'entreprise. Il ne peut poursuivre son activité dans l'entreprise que dans les conditions prévues à
-l'article L. 531-7.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
-
-_Cité par_:
-
-  - Décret n°2017-852 du 6 mai 2017 - art. 155
-
-_Abrogé par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 119
-
-_Cite_:
-
-  - Code de la recherche - art. L531-3
-  - Code de la recherche - art. L531-7
-
-
-##### Section 3 : Participation des personnels de la recherche au conseil d'administration ou au conseil de surveillance d'une société anonyme<a id=98></a>
+##### Section 3 : Participation des personnels de la recherche aux organes de direction d'une société commerciale<a id=98></a>
 
 ###### Article L531-12
 
-Les fonctionnaires mentionnés à l'article L. 531-1 peuvent, à titre personnel, être autorisés à être membres du conseil
-d'administration ou du conseil de surveillance d'une société anonyme afin de favoriser la diffusion des résultats de la
-recherche publique. Leur participation dans le capital social de l'entreprise ne peut excéder 20 % de celui-ci ni donner
-droit à plus de 20 % des droits de vote. Ils ne peuvent percevoir de l'entreprise d'autre rémunération que celles prévues aux
-articles L. 225-45 et L. 225-83 du code de commerce, dans la limite d'un plafond fixé par décret. 
+Les fonctionnaires mentionnés à l'article L. 531-1 peuvent, à titre personnel, être autorisés à être membres des organes de
+direction d'une société commerciale, afin de favoriser la diffusion des résultats de la recherche publique. 
 
-L'autorisation ne peut être demandée si le fonctionnaire est autorisé à apporter son concours scientifique à l'entreprise
-dans les conditions prévues à l'article L. 531-8. 
+Leur participation dans le capital social de l'entreprise ne peut excéder 32 % de celui-ci ni donner droit à plus de 32 % des
+droits de vote. Ils ne peuvent percevoir de l'entreprise d'autre rémunération que celles prévues aux articles L. 225-45 et L.
+225-83 du code de commerce, dans la limite d'un plafond fixé par décret. 
 
 Le fonctionnaire intéressé ne peut participer ni à l'élaboration ni à la passation des contrats et conventions conclus entre
 l'entreprise et le service public de la recherche. 
@@ -4743,55 +4647,89 @@ _Cité par_:
   - Code de la recherche - art. L531-14 (V)
   - Code de la recherche - art. L531-15 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 _Cite_:
 
-  - Code de commerce - art. L225-45
-  - Code de commerce - art. L225-83
+  - Code de commerce - art. L225-45 (V)
+  - Code de commerce - art. L225-83 (V)
   - Code de la recherche - art. L531-1 (V)
-  - Code de la recherche - art. L531-8 (V)
+  - Code de la recherche - art. L531-8
 
 
 ###### Article L531-13
 
-La commission mentionnée au premier alinéa de l'article L. 531-3 est tenue informée, pendant la durée de l'autorisation et
-durant trois ans à compter de son expiration ou de son retrait, des contrats et conventions conclus entre l'entreprise et le
-service public de la recherche. Si elle estime que ces informations font apparaître une atteinte aux intérêts matériels et
-moraux du service public de la recherche, la commission en saisit l'autorité administrative compétente.
+Les dispositions de l'article L. 531-12 sont applicables aux fonctionnaires qui assurent les fonctions de président, de
+directeur ou, quel que soit leur titre, de chef d'établissement d'un établissement public de recherche ou d'un établissement
+public d'enseignement supérieur et de recherche tels que définis au titre Ier du livre III. Ces fonctionnaires ne peuvent
+toutefois percevoir de l'entreprise aucune rémunération liée à l'exercice de cette activité. 
+
+Pour l'application du présent article, l'autorité dont relève le fonctionnaire, lorsqu'il assure la direction d'un
+établissement public, est le ou les ministres de tutelle de cet établissement. 
+
+En cas d'autorisation donnée par le ou les ministres de tutelle, la participation du fonctionnaire mentionné au premier
+alinéa du présent article aux organes de direction d'une société commerciale et le nom de cette société sont rendus publics
+par l'établissement public de recherche ou l'établissement public d'enseignement supérieur et de recherche qui l'emploie.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
+
+_Cite_:
+
+  - Code de la recherche - art. L531-12 (V)
+  - Code de la recherche - art. L531-3
 
 _Cité par_:
 
   - Code de la recherche - art. L531-14 (V)
 
-_Cite_:
 
-  - Code de la recherche - art. L531-3 (V)
-
+##### Section 4 : Dispositions générales<a id=99></a>
 
 ###### Article L531-14
 
-L'autorisation est accordée par l'autorité dont relève le fonctionnaire après avis de la commission mentionnée au premier
-alinéa de l'article L. 531-3, dans les conditions prévues à ce même article. Le renouvellement intervient après avis de la
-même commission si les conditions établies au moment de la délivrance de l'autorisation ont évolué depuis la date de
-l'autorisation. L'autorisation est retirée ou non renouvelée si les conditions qui avaient permis sa délivrance ne sont plus
-réunies ou si le fonctionnaire méconnaît les dispositions de la présente section. En cas de retrait ou de non-renouvellement
-de l'autorisation, le fonctionnaire dispose d'un délai de trois mois pour céder ses droits sociaux. Il ne peut poursuivre son
-activité au sein de l'entreprise que dans les conditions prévues au dernier alinéa à l'article L. 531-7.
+Les autorisations mentionnées aux articles L. 531-1, L. 531-8, L. 531-12 et L. 531-13 ainsi que leur renouvellement sont
+accordés par l'autorité dont relève le fonctionnaire dans les conditions prévues à la présente section, pour une période
+maximale fixée par voie réglementaire. 
+
+L'autorisation est refusée : 
+
+1° Si elle est préjudiciable au fonctionnement normal du service public ; 
+
+2° Si, par sa nature ou par ses conditions et modalités et eu égard aux fonctions précédemment exercées par le fonctionnaire,
+la participation de ce dernier porte atteinte à la dignité de ces fonctions ou risque de compromettre ou mettre en cause
+l'indépendance ou la neutralité du service ; 
+
+3° Si la prise d'intérêts dans l'entreprise est de nature à porter atteinte aux intérêts matériels et moraux du service
+public de la recherche ou à remettre en cause les conditions d'exercice de la mission d'expertise que le fonctionnaire exerce
+auprès des pouvoirs publics ou de la mission de direction qu'il assure. 
+
+Dans les cas prévus aux articles L. 531-8, L. 531-12 et L. 531-13 le fonctionnaire peut être autorisé à détenir une
+participation au capital social de l'entreprise, sous réserve qu'au cours des trois années précédentes, il n'ait pas, en
+qualité de fonctionnaire ou d'agent public, exercé un contrôle sur cette entreprise ou participé à l'élaboration ou à la
+passation de contrats et conventions conclus entre l'entreprise et le service public de la recherche. 
+
+L'autorité peut, préalablement à sa décision, demander l'avis de la commission de déontologie de la fonction publique
+mentionnée à l'article 25 octies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires. 
+
+La mise à disposition prévue aux articles L. 531-4 et L. 531-8 du présent code donne lieu à remboursement par l'entreprise
+dans les conditions prévues par voie réglementaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°83-634 du 13 juillet 1983 - art. 25 octies
+  - Code de la recherche - art. L531-1 (V)
+  - Code de la recherche - art. L531-12 (V)
+  - Code de la recherche - art. L531-13 (V)
+  - Code de la recherche - art. L531-4 (V)
+  - Code de la recherche - art. L531-8 (V)
 
 _Cité par_:
 
@@ -4799,43 +4737,77 @@ _Cité par_:
   - Code de la recherche - art. L114-3-3 (V)
   - Code de la recherche - art. L531-15 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la recherche - art. L531-3 (V)
-  - Code de la recherche - art. L531-7 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
-
-##### Section 4 : Dispositions générales<a id=99></a>
 
 ###### Article L531-15
 
-Les conditions dans lesquelles des agents non fonctionnaires peuvent, sous réserve des adaptations nécessaires, bénéficier
-des dispositions prévues aux sections 1 et 2 du présent chapitre sont fixées par décret en Conseil d'Etat.
+I.-Au terme de l'autorisation mentionnée aux articles L. 531-1 et L. 531-8, en cas de fin anticipée de celle-ci convenue
+entre le fonctionnaire et l'autorité dont il relève ou de non-renouvellement, le fonctionnaire peut conserver une
+participation au capital de l'entreprise dans la limite de 49 % du capital. Il informe cette autorité du montant conservé et
+des modifications ultérieures de sa participation. 
+
+Lorsque l'autorité dont relève le fonctionnaire estime ne pas pouvoir apprécier si le fonctionnaire se trouve en situation de
+conflit d'intérêts, elle saisit la commission de déontologie, dans les conditions prévues à l'article L. 531-14. 
+
+II.-Au terme d'une autorisation accordée sur le fondement des dispositions régissant un des dispositifs prévus aux articles
+L. 531-1, L. 531-8 et L. 531-12, le fonctionnaire peut également bénéficier d'une autorisation accordée sur le fondement d'un
+autre de ces dispositifs, s'il remplit les conditions fixées à l'article L. 531-14.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 _Cité par_:
 
   - Code de la recherche - art. L114-3-3 (V)
+
+_Cite_:
+
+  - Code de la recherche - art. L531-1 (V)
+  - Code de la recherche - art. L531-12 (V)
+  - Code de la recherche - art. L531-14 (V)
+  - Code de la recherche - art. L531-8 (V)
 
 
 ###### Article L531-16
 
-Les modalités d'application du présent chapitre sont, en tant que de besoin, précisées par décret en Conseil d'Etat.
+L'autorisation est abrogée ou son renouvellement est refusé si les conditions qui avaient permis sa délivrance ne sont plus
+réunies ou si le fonctionnaire méconnaît les dispositions du présent chapitre. Il ne peut alors poursuivre son activité dans
+l'entreprise que dans les conditions prévues à l'article 25 octies de la loi n° 83-634 du 13 juillet 1983 portant droits et
+obligations des fonctionnaires et ne peut plus conserver directement ou indirectement un intérêt financier quelconque dans
+l'entreprise.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°83-634 du 13 juillet 1983 - art. 25 octies
+
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
+
+_Cité par_:
+
+  - Code de la recherche - art. L114-3-3 (V)
+
+
+###### Article L531-17
+
+Les conditions dans lesquelles des agents non fonctionnaires peuvent, sous réserve des adaptations nécessaires, bénéficier
+des dispositions prévues aux sections 1 et 2 du présent chapitre et à l'article L. 531-13 sont fixées par décret en Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
-
-_Cité par_:
-
-  - Code de la recherche - art. L114-3-3 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 
 #### Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche<a id=100></a>
@@ -4860,31 +4832,33 @@ IV.-Les personnes publiques investies d'une mission de recherche autres que l'Et
 ministère de tutelle des titres de propriété industrielle acquis et des conditions de leur exploitation en application des II
 et III. 
 
-V.-Afin de simplifier et d'accélérer le transfert d'un titre de propriété industrielle acquis en application du II, en cas de
-copropriété publique constatée au dépôt de l'invention, un mandataire unique chargé de la gestion, de l'exploitation et de la
-négociation du titre est désigné par les déposants avant sa publication. Un décret fixe les missions et le mode de
-désignation du mandataire. 
+V.-En cas de copropriété entre personnes publiques investies d'une mission de recherche sur une ou plusieurs inventions,
+connaissances techniques, logiciels, bases de données protégeables par le code de la propriété intellectuelle ou savoir-faire
+protégés, une convention détermine l'organisation de la copropriété, notamment la répartition des droits. 
 
-VI.-Sauf excuses légitimes, après cinq ans à compter de la date du transfert sans exploitation par l'entreprise de
-l'invention objet d'un titre de propriété industrielle acquis en application du II, la cession est nulle et la propriété du
-titre revient intégralement à la personne publique qui l'a cédé. Les restitutions et compensations sont réglées par le code
-civil.
+Un mandataire unique est désigné pour exercer des missions de gestion et d'exploitation des droits co-détenus. La convention
+de copropriété mentionnée au premier alinéa du présent V lui est notifiée. 
+
+Les règles de gestion de la copropriété, les modalités de désignation du mandataire unique, ses missions et ses pouvoirs sont
+définis par décret. Ces dispositions réglementaires valent règlement de copropriété au sens de l'article L. 613-32 du code de
+la propriété intellectuelle.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2014-135 du 17 février 2014 - art. 2
 
 _Cité par_:
 
   - Décret n°2014-1518 du 16 décembre 2014 (V)
   - Arrêté du 19 juillet 2016 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L611-1 (V)
+  - Code de la propriété intellectuelle - art. L611-1
   - Code de la propriété intellectuelle - art. L611-7
+  - Code de la propriété intellectuelle - art. L613-32 (V)
 
 
 ###### Article L533-2
@@ -4999,35 +4973,43 @@ _Cité par_:
 
 ###### Article L545-1
 
-Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 531-1 à L. 531-16,  L. 533-2 et L. 533-4 sont applicables
-dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République
-numérique.
+Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 533-2 et L. 533-4 sont applicables dans les îles Wallis et
+Futuna, dans leur rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique. 
+
+Le chapitre Ier du titre III du présent livre est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019
+relative à la croissance et la transformation des entreprises. 
 
 Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
-
 _Cite_:
 
+  - Loi n°2016-1321 du 7 octobre 2016 (V)
+  - Loi n°2019-486 du 22 mai 2019 (V)
   - Code de la recherche - art. L513-2
   - Code de la recherche - art. L521-1
   - Code de la recherche - art. L531-1
-  - Code de la recherche - art. L533-2
+  - Code de la recherche - art. L533-2 (V)
+  - Code de la recherche - art. L533-4 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 
 #### Chapitre VI : Dispositions relatives à la Polynésie française<a id=103></a>
 
 ###### Article L546-1
 
-Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 531-1 à L. 531-16 et L. 533-2 et L. 533-3 sont applicables
-en Polynésie française dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et
-adaptation dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22
-juillet 2013 relative à l'enseignement supérieur et à la recherche. 
+Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, et L. 533-2 et L. 533-3 sont applicables en Polynésie française
+dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles
+Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à
+l'enseignement supérieur et à la recherche. 
+
+Le chapitre Ier du titre III du présent livre est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019
+relative à la croissance et la transformation des entreprises. 
 
 Pour l'application du présent livre en Polynésie française, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur d'académie.
@@ -5037,6 +5019,8 @@ dévolues au recteur d'académie.
 _Cite_:
 
   - Loi n°2013-660 du 22 juillet 2013
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 (V)
+  - Loi n°2019-486 du 22 mai 2019 (V)
   - Code de la recherche - art. L513-2
   - Code de la recherche - art. L521-1
   - Code de la recherche - art. L531-1
@@ -5044,17 +5028,20 @@ _Cite_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 
 #### Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie<a id=104></a>
 
 ###### Article L547-1
 
-Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 531-1 à L. 531-16, 
-L. 533-2 et L. 533-3 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14
-janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie
-de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche. 
+Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 533-2 et L. 533-3 sont applicables en Nouvelle-Calédonie
+dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles
+Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à
+l'enseignement supérieur et à la recherche. 
+
+Le chapitre Ier du titre III du présent livre est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019
+relative à la croissance et la transformation des entreprises. 
 
 Pour l'application du présent livre en Nouvelle-Calédonie, le ministre chargé de la recherche exerce les compétences dévolues
 au recteur d'académie.
@@ -5064,6 +5051,8 @@ au recteur d'académie.
 _Cite_:
 
   - Loi n°2013-660 du 22 juillet 2013
+  - ORDONNANCE n°2015-24 du 14 janvier 2015 (V)
+  - Loi n°2019-486 du 22 mai 2019 (V)
   - Code de la recherche - art. L513-2
   - Code de la recherche - art. L521-1
   - Code de la recherche - art. L531-1
@@ -5071,6 +5060,6 @@ _Cite_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
+  - Loi n°2019-486 du 22 mai 2019 - art. 119
 
 
