@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2019-05-24
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -1510,13 +1510,20 @@ _Cite_:
 ###### Article L225-1
 
 Les traitements de données à caractère personnel ayant pour fin la recherche dans le domaine de la santé sont régis par les
-dispositions du chapitre IX de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+dispositions de la section 3 du chapitre III du titre II de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-41 du 26 janvier 2016 - art. 193
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 18
 
 
 ###### Article L225-2
