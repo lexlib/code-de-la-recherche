@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -3725,18 +3725,24 @@ _Cité par_:
 
 ###### Article L431-2-1
 
-Les établissements publics à caractère scientifique et technologique peuvent recruter, pour une durée indéterminée, des
-agents contractuels :
+Les établissements publics à caractère scientifique et technologique peuvent recruter, pour une durée déterminée ou
+indéterminée, des agents contractuels :
 
-1° Pour occuper des fonctions techniques ou administratives correspondant à des emplois de catégorie A ;
+1° Pour occuper des fonctions techniques ou administratives correspondant à des emplois de catégorie A, B ou C ;
 
 2° Pour assurer des fonctions de recherche.
 
+**Nota:**
+
+Conformément au V de l'article 94 de la loi n° 2019-828 du 6 août 2019, les présentes dispositions entrent en vigueur le
+lendemain de la publication des dispositions réglementaires prises pour l'application de l'article 15. Le décret n° 2019-1414
+du 19 décembre 2019 a été publié le 21 décembre 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 124
+  - Loi n°2019-828 du 6 août 2019 - art. 18
 
 
 ###### Article L431-3
