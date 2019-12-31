@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -61,51 +61,50 @@ Version Consolidée au 2019-06-01
           - [Section 3 : Agence de l'environnement pour la maîtrise de l'énergie (ADEME). (art. L332-9)](#58)
       - [TITRE IV : LES STRUCTURES DE COOPÉRATION (art. L344-11 à L344-16)](#59)
         - [Chapitre IV : Les fondations de coopération scientifique (art. L344-11 à L344-16)](#60)
-      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L361-1 à L368-1)](#61)
-        - [Chapitre Ier : Dispositions relatives à Mayotte. (art. L361-1)](#62)
-        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#63)
-        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#64)
-        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#65)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#66)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#67)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#68)
-        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#69)
-    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#70)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L412-2)](#71)
-        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#72)
-        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#73)
-      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#74)
-        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#75)
-        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#76)
-      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#77)
-        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-4)](#78)
-        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#79)
-        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#80)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#81)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#82)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#83)
-        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#84)
-    - [LIVRE V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE (art. L511-1 à L547-1)](#85)
-      - [TITRE Ier : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DE L'INNOVATION (art. L511-1 à L514-1)](#86)
-        - [Chapitre Ier : Le crédit d'impôt recherche (art. L511-1 à L511-3)](#87)
-        - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI) (art. L512-1)](#88)
-        - [Chapitre III : L'aide à l'innovation et les incitations en faveur de la valorisation et du transfert de technologie (art. L513-1 à L513-2)](#89)
-        - [Chapitre IV : L'évaluation des incitations en faveur de la valorisation et du transfert de technologie (art. L514-1)](#90)
-      - [TITRE II  : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE (art. L521-1 à L522-1)](#91)
-        - [Chapitre Ier : Les centres techniques industriels (art. L521-1 à L521-13)](#92)
-        - [Chapitre II : Autres structures (art. L522-1)](#93)
-      - [TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L531-1 à L533-4)](#94)
-        - [Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L531-1 à L531-17)](#95)
+      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER. (art. L362-1 à L368-1)](#61)
+        - [Chapitre II : Dispositions relatives à Saint-Barthélemy. (art. L362-1)](#62)
+        - [Chapitre III :  Dispositions relatives à Saint-Martin. (art. L363-1)](#63)
+        - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L364-1)](#64)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L365-1)](#65)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L366-1)](#66)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L367-1)](#67)
+        - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises. (art. L368-1)](#68)
+    - [LIVRE IV : LES PERSONNELS DE LA RECHERCHE (art. L411-1 à L447-1)](#69)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L411-1 à L412-2)](#70)
+        - [Chapitre Ier : Missions et garanties fondamentales. (art. L411-1 à L411-4)](#71)
+        - [Chapitre II : La formation. (art. L412-1 à L412-2)](#72)
+      - [TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE (art. L421-1 à L422-2)](#73)
+        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-3)](#74)
+        - [Chapitre II : Chercheurs. (art. L422-1 à L422-2)](#75)
+      - [TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE (art. L431-1 à L433-1)](#76)
+        - [Chapitre Ier : Les personnels contractuels. (art. L431-1 à L431-4)](#77)
+        - [Chapitre II : Les chercheurs et enseignants associés. (art. L432-1 à L432-2)](#78)
+        - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche. (art. L433-1)](#79)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L445-1 à L447-1)](#80)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna. (art. L445-1)](#81)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française. (art. L446-1)](#82)
+        - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie. (art. L447-1)](#83)
+    - [LIVRE V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE (art. L511-1 à L547-1)](#84)
+      - [TITRE Ier : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DE L'INNOVATION (art. L511-1 à L514-1)](#85)
+        - [Chapitre Ier : Le crédit d'impôt recherche (art. L511-1 à L511-3)](#86)
+        - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI) (art. L512-1)](#87)
+        - [Chapitre III : L'aide à l'innovation et les incitations en faveur de la valorisation et du transfert de technologie (art. L513-1 à L513-2)](#88)
+        - [Chapitre IV : L'évaluation des incitations en faveur de la valorisation et du transfert de technologie (art. L514-1)](#89)
+      - [TITRE II  : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE (art. L521-1 à L522-1)](#90)
+        - [Chapitre Ier : Les centres techniques industriels (art. L521-1 à L521-13)](#91)
+        - [Chapitre II : Autres structures (art. L522-1)](#92)
+      - [TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE (art. L531-1 à L533-4)](#93)
+        - [Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes (art. L531-1 à L531-17)](#94)
           - [Section 1 : Participation des personnels de la recherche 
-à la création d'entreprises (art. L531-1 à L531-5)](#96)
-          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante (art. L531-8 à L531-9)](#97)
-          - [Section 3 : Participation des personnels de la recherche aux organes de direction d'une société commerciale (art. L531-12 à L531-13)](#98)
-          - [Section 4 : Dispositions générales (art. L531-14 à L531-17)](#99)
-        - [Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche (art. L533-1 à L533-4)](#100)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L545-1 à L547-1)](#101)
-        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna (art. L545-1)](#102)
-        - [Chapitre VI : Dispositions relatives à la Polynésie française (art. L546-1)](#103)
-        - [Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie (art. L547-1)](#104)
+à la création d'entreprises (art. L531-1 à L531-5)](#95)
+          - [Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante (art. L531-8 à L531-9)](#96)
+          - [Section 3 : Participation des personnels de la recherche aux organes de direction d'une société commerciale (art. L531-12 à L531-13)](#97)
+          - [Section 4 : Dispositions générales (art. L531-14 à L531-17)](#98)
+        - [Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche (art. L533-1 à L533-4)](#99)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L545-1 à L547-1)](#100)
+        - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna (art. L545-1)](#101)
+        - [Chapitre VI : Dispositions relatives à la Polynésie française (art. L546-1)](#102)
+        - [Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie (art. L547-1)](#103)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE<a id=2></a>
@@ -2864,7 +2863,13 @@ _Modifié par_:
 
 ###### Article L344-14
 
-Le recteur d'académie, chancelier des universités, exerce la fonction de commissaire du Gouvernement auprès de la fondation.
+Le recteur de région académique, chancelier des universités, exerce la fonction de commissaire du Gouvernement auprès de la
+fondation.
+
+**Nota:**
+
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er janvier
+2020.
 
 **Liens relatifs à cet article**
 
@@ -2872,13 +2877,9 @@ _Codifié par_:
 
   - Ordonnance n°2004-545 du 11 juin 2004
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-450 du 18 avril 2006 - art. 5
-
-**Liens**:
-
-  - DEPLACE: Loi n°2013-660 du 22 juillet 2013 - art. 66
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
 
 
 ###### Article L344-15
@@ -2931,67 +2932,54 @@ _Créé par_:
 
 ### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.<a id=61></a>
 
-#### Chapitre Ier : Dispositions relatives à Mayotte.<a id=62></a>
-
-###### Article L361-1
-
-Pour l'application du présent livre à Mayotte, le ministre chargé de la recherche exerce les compétences dévolues au recteur
-d'académie.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
-
-_Abrogé par_:
-
-  - Loi n°2019-791 du 26 juillet 2019 - art. 36
-
-
-#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=63></a>
+#### Chapitre II : Dispositions relatives à Saint-Barthélemy.<a id=62></a>
 
 ###### Article L362-1
 
 Pour l'application du présent livre à Saint-Barthélemy, le ministre chargé de la recherche exerce les compétences dévolues au
-recteur d'académie.
+recteur de région académique.
+
+**Nota:**
+
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er janvier
+2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
 
 
-#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=64></a>
+#### Chapitre III :  Dispositions relatives à Saint-Martin.<a id=63></a>
 
 ###### Article L363-1
 
 Pour l'application du présent livre à Saint-Martin, le ministre chargé de la recherche exerce les compétences dévolues au
-recteur d'académie.
+recteur de région académique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
 
 
-#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=65></a>
+#### Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=64></a>
 
 ###### Article L364-1
 
 Pour l'application du présent livre à Saint-Pierre-et-Miquelon, le ministre chargé de la recherche exerce les compétences
-dévolues au recteur d'académie.
+dévolues au recteur de région académique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
 
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=66></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=65></a>
 
 ###### Article L365-1
 
@@ -2999,10 +2987,10 @@ Les dispositions des articles L. 311-1 à L. 311-3, L. 311-5, L. 312-1, L. 321-1
 L. 332-7 et L. 344-11 à L. 344-16 sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de
 l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles Wallis et Futuna, en Polynésie
 française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
-recherche. 
+recherche.
 
 Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences
-dévolues au recteur d'académie.
+dévolues au recteur de région académique.
 
 Pour l'application à Wallis et Futuna du premier alinéa de l'article L. 344-11, les mots : " des collectivités territoriales
 " sont remplacés par les mots : " du territoire et des autres circonscriptions territoriales ".
@@ -3011,7 +2999,7 @@ Pour l'application à Wallis et Futuna du premier alinéa de l'article L. 344-11
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 4
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
 
 _Cite_:
 
@@ -3024,7 +3012,7 @@ _Cite_:
   - Code de la recherche - art. L344-11
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=67></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=66></a>
 
 ###### Article L366-1
 
@@ -3033,10 +3021,10 @@ L. 311-5,
 L. 312-1, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8, L. 332-1 à L. 332-7 et L. 344-11 à L. 344-16 sont applicables en
 Polynésie française dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et
 adaptation dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22
-juillet 2013 relative à l'enseignement supérieur et à la recherche. 
+juillet 2013 relative à l'enseignement supérieur et à la recherche.
 
 Pour l'application du présent livre en Polynésie française, le ministre chargé de la recherche exerce les compétences
-dévolues au recteur d'académie. 
+dévolues au recteur de région académique.
 
 Pour l'application à la Polynésie française du premier alinéa de l'article L. 344-11, les mots : " des collectivités
 territoriales " sont remplacés par les mots : " de la Polynésie française et des communes ".
@@ -3045,7 +3033,7 @@ territoriales " sont remplacés par les mots : " de la Polynésie française et 
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
 
 _Cite_:
 
@@ -3058,7 +3046,7 @@ _Cite_:
   - Code de la recherche - art. L344-11
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=68></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=67></a>
 
 ###### Article L367-1
 
@@ -3068,10 +3056,10 @@ de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation d
 française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la
 recherche.
 
-. 
+.
 
 Pour l'application du présent livre en Nouvelle-Calédonie, le ministre chargé de la recherche exerce les compétences dévolues
-au recteur d'académie. 
+au recteur de région académique.
 
 Pour l'application à la Nouvelle-Calédonie du premier alinéa de l'article L. 344-11, les mots : " des collectivités
 territoriales " sont remplacés par les mots : " de la Nouvelle-Calédonie, des provinces et des communes ".
@@ -3093,28 +3081,28 @@ _Cite_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
 
 
-#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=69></a>
+#### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.<a id=68></a>
 
 ###### Article L368-1
 
 Pour l'application du présent livre dans les Terres australes et antarctiques françaises, le ministre chargé de la recherche
-exerce les compétences dévolues au recteur d'académie.
+exerce les compétences dévolues au recteur de région académique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
 
 
-## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=70></a>
+## LIVRE IV : LES PERSONNELS DE LA RECHERCHE<a id=69></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=71></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=70></a>
 
-#### Chapitre Ier : Missions et garanties fondamentales.<a id=72></a>
+#### Chapitre Ier : Missions et garanties fondamentales.<a id=71></a>
 
 ###### Article L411-1
 
@@ -3273,7 +3261,7 @@ _Cite_:
   - Code du travail - art. L2221-2
 
 
-#### Chapitre II : La formation.<a id=73></a>
+#### Chapitre II : La formation.<a id=72></a>
 
 ###### Article L412-1
 
@@ -3438,9 +3426,9 @@ _Modifié par_:
   - loi n°2006-450 du 18 avril 2006 - art. 6 () JORF 19 avril 2006
 
 
-### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=74></a>
+### TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE<a id=73></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=75></a>
+#### Chapitre Ier : Dispositions générales.<a id=74></a>
 
 ###### Article L421-1
 
@@ -3563,7 +3551,7 @@ _Cité par_:
   - Code de la recherche - art. L411-4 (V)
 
 
-#### Chapitre II : Chercheurs.<a id=76></a>
+#### Chapitre II : Chercheurs.<a id=75></a>
 
 ###### Article L422-1
 
@@ -3618,9 +3606,9 @@ _Cité par_:
   - Code de la recherche - art. L447-1 (V)
 
 
-### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=77></a>
+### TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE<a id=76></a>
 
-#### Chapitre Ier : Les personnels contractuels.<a id=78></a>
+#### Chapitre Ier : Les personnels contractuels.<a id=77></a>
 
 ###### Article L431-1
 
@@ -3799,7 +3787,7 @@ _Cite_:
   - Code du travail - art. L1232-6
 
 
-#### Chapitre II : Les chercheurs et enseignants associés.<a id=79></a>
+#### Chapitre II : Les chercheurs et enseignants associés.<a id=78></a>
 
 ###### Article L432-1
 
@@ -3871,7 +3859,7 @@ _Cite_:
   - Code de l'éducation - art. L952-1 (V)
 
 
-#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=80></a>
+#### Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.<a id=79></a>
 
 ###### Article L433-1
 
@@ -3899,9 +3887,9 @@ _Cite_:
   - Code du travail - art. L6322-53
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=81></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=80></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=82></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna.<a id=81></a>
 
 ###### Article L445-1
 
@@ -3932,7 +3920,7 @@ _Cite_:
   - Code de la recherche - art. L433-1
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=83></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française.<a id=82></a>
 
 ###### Article L446-1
 
@@ -3966,7 +3954,7 @@ _Modifié par_:
   - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 9
 
 
-#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=84></a>
+#### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.<a id=83></a>
 
 ###### Article L447-1
 
@@ -3998,11 +3986,11 @@ _Modifié par_:
   - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 14
 
 
-## LIVRE V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE<a id=85></a>
+## LIVRE V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE<a id=84></a>
 
-### TITRE Ier : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DE L'INNOVATION<a id=86></a>
+### TITRE Ier : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DE L'INNOVATION<a id=85></a>
 
-#### Chapitre Ier : Le crédit d'impôt recherche<a id=87></a>
+#### Chapitre Ier : Le crédit d'impôt recherche<a id=86></a>
 
 ###### Article L511-1
 
@@ -4058,7 +4046,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L135 D (V)
 
 
-#### Chapitre II : Les fonds communs de placement dans l'innovation (FCPI)<a id=88></a>
+#### Chapitre II : Les fonds communs de placement dans l'innovation (FCPI)<a id=87></a>
 
 ###### Article L512-1
 
@@ -4076,7 +4064,7 @@ _Cite_:
   - Code monétaire et financier - art. L214-30
 
 
-#### Chapitre III : L'aide à l'innovation et les incitations en faveur de la valorisation et du transfert de technologie<a id=89></a>
+#### Chapitre III : L'aide à l'innovation et les incitations en faveur de la valorisation et du transfert de technologie<a id=88></a>
 
 ###### Article L513-1
 
@@ -4120,7 +4108,7 @@ _Cité par_:
   - Code de la recherche - art. L547-1 (VD)
 
 
-#### Chapitre IV : L'évaluation des incitations en faveur de la valorisation et du transfert de technologie<a id=90></a>
+#### Chapitre IV : L'évaluation des incitations en faveur de la valorisation et du transfert de technologie<a id=89></a>
 
 ###### Article L514-1
 
@@ -4142,9 +4130,9 @@ _Créé par_:
   - Ordonnance n°2014-135 du 17 février 2014 - art. 2
 
 
-### TITRE II  : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE<a id=91></a>
+### TITRE II  : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE<a id=90></a>
 
-#### Chapitre Ier : Les centres techniques industriels<a id=92></a>
+#### Chapitre Ier : Les centres techniques industriels<a id=91></a>
 
 ###### Article L521-1
 
@@ -4388,7 +4376,7 @@ _Cite_:
   - Code de la recherche - art. L521-1 (V)
 
 
-#### Chapitre II : Autres structures<a id=93></a>
+#### Chapitre II : Autres structures<a id=92></a>
 
 ###### Article L522-1
 
@@ -4424,12 +4412,12 @@ _Modifié par_:
   - Loi n°2014-1170 du 13 octobre 2014 - art. 64
 
 
-### TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=94></a>
+### TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE<a id=93></a>
 
-#### Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=95></a>
+#### Chapitre Ier  : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes<a id=94></a>
 
 ##### Section 1 : Participation des personnels de la recherche 
-à la création d'entreprises<a id=96></a>
+à la création d'entreprises<a id=95></a>
 
 ###### Article L531-1
 
@@ -4553,7 +4541,7 @@ _Cite_:
   - Code de la recherche - art. L531-3
 
 
-##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante<a id=97></a>
+##### Section 2 : Apport d'un concours scientifique à une entreprise existante et participation au capital d'une entreprise existante<a id=96></a>
 
 ###### Article L531-8
 
@@ -4625,7 +4613,7 @@ _Cite_:
   - Code de la recherche - art. L531-8 (V)
 
 
-##### Section 3 : Participation des personnels de la recherche aux organes de direction d'une société commerciale<a id=98></a>
+##### Section 3 : Participation des personnels de la recherche aux organes de direction d'une société commerciale<a id=97></a>
 
 ###### Article L531-12
 
@@ -4697,7 +4685,7 @@ _Cité par_:
   - Code de la recherche - art. L531-17 (V)
 
 
-##### Section 4 : Dispositions générales<a id=99></a>
+##### Section 4 : Dispositions générales<a id=98></a>
 
 ###### Article L531-14
 
@@ -4822,7 +4810,7 @@ _Cite_:
   - Code de la recherche - art. L531-13 (V)
 
 
-#### Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche<a id=100></a>
+#### Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche<a id=99></a>
 
 ###### Article L533-1
 
@@ -4979,60 +4967,55 @@ _Cité par_:
   - Code de la recherche - art. L545-1 (VT)
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=101></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=100></a>
 
-#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna<a id=102></a>
+#### Chapitre V : Dispositions relatives aux îles Wallis et Futuna<a id=101></a>
 
 ###### Article L545-1
 
 Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 533-2 et L. 533-4 sont applicables dans les îles Wallis et
-Futuna, dans leur rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique. 
+Futuna, dans leur rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique.
 
 Le chapitre Ier du titre III du présent livre est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019
-relative à la croissance et la transformation des entreprises. 
+relative à la croissance et la transformation des entreprises.
 
 Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences
-dévolues au recteur d'académie.
+dévolues au recteur de région académique.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
+
 _Cite_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 (V)
-  - Loi n°2019-486 du 22 mai 2019 (V)
   - Code de la recherche - art. L513-2
   - Code de la recherche - art. L521-1
   - Code de la recherche - art. L531-1
-  - Code de la recherche - art. L533-2 (V)
-  - Code de la recherche - art. L533-4 (V)
-
-_Modifié par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 119
+  - Code de la recherche - art. L533-2
 
 
-#### Chapitre VI : Dispositions relatives à la Polynésie française<a id=103></a>
+#### Chapitre VI : Dispositions relatives à la Polynésie française<a id=102></a>
 
 ###### Article L546-1
 
 Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, et L. 533-2 et L. 533-3 sont applicables en Polynésie française
 dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles
 Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à
-l'enseignement supérieur et à la recherche. 
+l'enseignement supérieur et à la recherche.
 
 Le chapitre Ier du titre III du présent livre est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019
-relative à la croissance et la transformation des entreprises. 
+relative à la croissance et la transformation des entreprises.
 
 Pour l'application du présent livre en Polynésie française, le ministre chargé de la recherche exerce les compétences
-dévolues au recteur d'académie.
+dévolues au recteur de région académique.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2013-660 du 22 juillet 2013
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 (V)
-  - Loi n°2019-486 du 22 mai 2019 (V)
   - Code de la recherche - art. L513-2
   - Code de la recherche - art. L521-1
   - Code de la recherche - art. L531-1
@@ -5040,31 +5023,29 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 119
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
 
 
-#### Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie<a id=104></a>
+#### Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie<a id=103></a>
 
 ###### Article L547-1
 
 Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 533-2 et L. 533-3 sont applicables en Nouvelle-Calédonie
 dans leur rédaction résultant de l'ordonnance n° 2015-24 du 14 janvier 2015 portant extension et adaptation dans les îles
 Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n° 2013-660 du 22 juillet 2013 relative à
-l'enseignement supérieur et à la recherche. 
+l'enseignement supérieur et à la recherche.
 
 Le chapitre Ier du titre III du présent livre est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019
-relative à la croissance et la transformation des entreprises. 
+relative à la croissance et la transformation des entreprises.
 
 Pour l'application du présent livre en Nouvelle-Calédonie, le ministre chargé de la recherche exerce les compétences dévolues
-au recteur d'académie.
+au recteur de région académique.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2013-660 du 22 juillet 2013
-  - ORDONNANCE n°2015-24 du 14 janvier 2015 (V)
-  - Loi n°2019-486 du 22 mai 2019 (V)
   - Code de la recherche - art. L513-2
   - Code de la recherche - art. L521-1
   - Code de la recherche - art. L531-1
@@ -5072,6 +5053,6 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 119
+  - Loi n°2019-791 du 26 juillet 2019 - art. 54
 
 
