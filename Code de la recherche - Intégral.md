@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-02-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -4768,41 +4768,41 @@ _Cite_:
 
 Les autorisations mentionnées aux articles L. 531-1, L. 531-8, L. 531-12 et L. 531-13 ainsi que leur renouvellement sont
 accordés par l'autorité dont relève le fonctionnaire dans les conditions prévues à la présente section, pour une période
-maximale fixée par voie réglementaire. 
+maximale fixée par voie réglementaire.
 
-L'autorisation est refusée : 
+L'autorisation est refusée :
 
-1° Si elle est préjudiciable au fonctionnement normal du service public ; 
+1° Si elle est préjudiciable au fonctionnement normal du service public ;
 
 2° Si, par sa nature ou par ses conditions et modalités et eu égard aux fonctions précédemment exercées par le fonctionnaire,
 la participation de ce dernier porte atteinte à la dignité de ces fonctions ou risque de compromettre ou mettre en cause
-l'indépendance ou la neutralité du service ; 
+l'indépendance ou la neutralité du service ;
 
 3° Si la prise d'intérêts dans l'entreprise est de nature à porter atteinte aux intérêts matériels et moraux du service
 public de la recherche ou à remettre en cause les conditions d'exercice de la mission d'expertise que le fonctionnaire exerce
-auprès des pouvoirs publics ou de la mission de direction qu'il assure. 
+auprès des pouvoirs publics ou de la mission de direction qu'il assure.
 
 Dans les cas prévus aux articles L. 531-8, L. 531-12 et L. 531-13 le fonctionnaire peut être autorisé à détenir une
 participation au capital social de l'entreprise, sous réserve qu'au cours des trois années précédentes, il n'ait pas, en
 qualité de fonctionnaire ou d'agent public, exercé un contrôle sur cette entreprise ou participé à l'élaboration ou à la
-passation de contrats et conventions conclus entre l'entreprise et le service public de la recherche. 
+passation de contrats et conventions conclus entre l'entreprise et le service public de la recherche.
 
-L'autorité peut, préalablement à sa décision, demander l'avis de la commission de déontologie de la fonction publique
-mentionnée à l'article 25 octies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires. 
+L'autorité peut, préalablement à sa décision, demander l'avis de la Haute Autorité pour la transparence de la vie publique
+mentionnée à l'article 25 octies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.
 
 La mise à disposition prévue aux articles L. 531-4 et L. 531-8 du présent code donne lieu à remboursement par l'entreprise
 dans les conditions prévues par voie réglementaire.
+
+**Nota:**
+
+Conformément aux dispositions du XII de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en
+vigueur le 1er février 2020.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°83-634 du 13 juillet 1983 - art. 25 octies
-  - Code de la recherche - art. L531-1 (V)
-  - Code de la recherche - art. L531-12 (V)
-  - Code de la recherche - art. L531-13 (V)
-  - Code de la recherche - art. L531-4 (V)
-  - Code de la recherche - art. L531-8 (V)
 
 _Cité par_:
 
@@ -4813,7 +4813,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 119
+  - Loi n°2019-828 du 6 août 2019 - art. 34
 
 
 ###### Article L531-15
@@ -4821,31 +4821,30 @@ _Modifié par_:
 I.-Au terme de l'autorisation mentionnée aux articles L. 531-1 et L. 531-8, en cas de fin anticipée de celle-ci convenue
 entre le fonctionnaire et l'autorité dont il relève ou de non-renouvellement, le fonctionnaire peut conserver une
 participation au capital de l'entreprise dans la limite de 49 % du capital. Il informe cette autorité du montant conservé et
-des modifications ultérieures de sa participation. 
+des modifications ultérieures de sa participation.
 
 Lorsque l'autorité dont relève le fonctionnaire estime ne pas pouvoir apprécier si le fonctionnaire se trouve en situation de
-conflit d'intérêts, elle saisit la commission de déontologie, dans les conditions prévues à l'article L. 531-14. 
+conflit d'intérêts, elle saisit la Haute Autorité pour la transparence de la vie publique, dans les conditions prévues à
+l'article L. 531-14.
 
 II.-Au terme d'une autorisation accordée sur le fondement des dispositions régissant un des dispositifs prévus aux articles
 L. 531-1, L. 531-8 et L. 531-12, le fonctionnaire peut également bénéficier d'une autorisation accordée sur le fondement d'un
 autre de ces dispositifs, s'il remplit les conditions fixées à l'article L. 531-14.
 
+**Nota:**
+
+Conformément aux dispositions du XII de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en
+vigueur le 1er février 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 119
+  - Loi n°2019-828 du 6 août 2019 - art. 34
 
 _Cité par_:
 
   - Code de la recherche - art. L114-3-3 (V)
-
-_Cite_:
-
-  - Code de la recherche - art. L531-1 (V)
-  - Code de la recherche - art. L531-12 (V)
-  - Code de la recherche - art. L531-14 (V)
-  - Code de la recherche - art. L531-8 (V)
 
 
 ###### Article L531-16
