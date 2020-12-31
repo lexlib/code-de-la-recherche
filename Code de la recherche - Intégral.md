@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2020-02-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L547-1)](#1)
     - [LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE (art. L111-1 à L147-1)](#2)
@@ -4691,18 +4691,23 @@ _Cite_:
 ###### Article L531-12
 
 Les fonctionnaires mentionnés à l'article L. 531-1 peuvent, à titre personnel, être autorisés à être membres des organes de
-direction d'une société commerciale, afin de favoriser la diffusion des résultats de la recherche publique. 
+direction d'une société commerciale, afin de favoriser la diffusion des résultats de la recherche publique.
 
 Leur participation dans le capital social de l'entreprise ne peut excéder 32 % de celui-ci ni donner droit à plus de 32 % des
-droits de vote. Ils ne peuvent percevoir de l'entreprise d'autre rémunération que celles prévues aux articles L. 225-45 et L.
-225-83 du code de commerce, dans la limite d'un plafond fixé par décret. 
+droits de vote. Ils ne peuvent percevoir de l'entreprise d'autre rémunération que celles prévues aux articles L. 225-45,  L.
+225-83, L. 22-10-14 et L. 22-10-27 du code de commerce, dans la limite d'un plafond fixé par décret.
 
 Le fonctionnaire intéressé ne peut participer ni à l'élaboration ni à la passation des contrats et conventions conclus entre
-l'entreprise et le service public de la recherche. 
+l'entreprise et le service public de la recherche.
 
 L'autorité dont relève le fonctionnaire est tenue informée des revenus qu'il perçoit à raison de sa participation au capital
 de l'entreprise et en sa qualité de membre du conseil d'administration ou du conseil de surveillance ainsi que des cessions
 de titres auxquelles il procède.
+
+**Nota:**
+
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -4719,13 +4724,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 119
+  - Ordonnance n°2020-1142 du 16 septembre 2020 - art. 16
 
 _Cite_:
 
-  - Code de commerce - art. L225-45 (V)
-  - Code de commerce - art. L225-83 (V)
-  - Code de la recherche - art. L531-1 (V)
+  - Code de commerce - art. L225-45
+  - Code de commerce - art. L225-83
+  - Code de la recherche - art. L531-1
   - Code de la recherche - art. L531-8
 
 
@@ -5060,21 +5065,23 @@ Les dispositions des articles L. 513-2, L. 521-1 à L. 521-13, L. 533-2 et L. 53
 Futuna, dans leur rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique.
 
 Le chapitre Ier du titre III du présent livre est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019
-relative à la croissance et la transformation des entreprises.
+relative à la croissance et la transformation des entreprises à l'exception de l'article L. 531-12.
+
+L'article L. 531-12 est applicable dans sa rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020.
 
 Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur de région académique.
 
 **Nota:**
 
-Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er janvier
-2020.
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2019-791 du 26 juillet 2019 - art. 54
+  - Ordonnance n°2020-1142 du 16 septembre 2020 - art. 16
 
 _Cite_:
 
@@ -5094,15 +5101,17 @@ Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n
 l'enseignement supérieur et à la recherche.
 
 Le chapitre Ier du titre III du présent livre est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019
-relative à la croissance et la transformation des entreprises.
+relative à la croissance et la transformation des entreprises à l'exception de l'article L. 531-12.
+
+L'article L. 531-12 est applicable dans sa rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020.
 
 Pour l'application du présent livre en Polynésie française, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur de région académique.
 
 **Nota:**
 
-Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er janvier
-2020.
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -5116,7 +5125,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-791 du 26 juillet 2019 - art. 54
+  - Ordonnance n°2020-1142 du 16 septembre 2020 - art. 16
 
 
 #### Chapitre VII  : Dispositions relatives à la Nouvelle-Calédonie<a id=103></a>
@@ -5129,15 +5138,17 @@ Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie de la loi n
 l'enseignement supérieur et à la recherche.
 
 Le chapitre Ier du titre III du présent livre est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019
-relative à la croissance et la transformation des entreprises.
+relative à la croissance et la transformation des entreprises à l'exception de l'article L. 531-12.
+
+L'article L. 531-12 est applicable dans sa rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020.
 
 Pour l'application du présent livre en Nouvelle-Calédonie, le ministre chargé de la recherche exerce les compétences dévolues
 au recteur de région académique.
 
 **Nota:**
 
-Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er janvier
-2020.
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -5151,6 +5162,6 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-791 du 26 juillet 2019 - art. 54
+  - Ordonnance n°2020-1142 du 16 septembre 2020 - art. 16
 
 
